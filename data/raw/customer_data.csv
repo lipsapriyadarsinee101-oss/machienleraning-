@@ -1,0 +1,2501 @@
+customer_id,tenure_months,monthly_spend_eur,logins_30d,content_completions_30d,support_tickets_90d,satisfaction_score,payment_delays_12m,days_since_last_activity,plan_type,acquisition_channel,region,churned
+SP-00001,6,26.61,15,6,2,4.2,2,11,Basic,Partner,Germany,0
+SP-00002,47,38.17,10,5,2,4.2,1,19,Professional,Organic,Portugal,0
+SP-00003,40,50.28,12,3,0,4.5,1,11,Basic,Paid,United Kingdom,0
+SP-00004,27,83.04,7,3,0,3.8,2,14,Professional,Paid,Germany,0
+SP-00005,26,100.18,8,5,3,2.8,2,6,Professional,Organic,Germany,0
+SP-00006,52,57.33,2,0,0,4.7,0,17,Professional,Paid,Portugal,0
+SP-00007,6,113.71,6,5,0,3.2,2,10,Basic,Paid,United Kingdom,0
+SP-00008,42,106.34,10,3,3,3.2,0,15,Professional,Organic,United Kingdom,0
+SP-00009,13,66.9,3,4,4,3.4,0,9,Basic,Organic,Portugal,0
+SP-00010,6,50.54,7,7,1,2.4,1,9,Enterprise,Partner,Portugal,0
+SP-00011,32,31.01,10,6,3,3.6,0,9,Basic,Partner,Germany,0
+SP-00012,59,96.83,11,5,1,4.3,1,13,Basic,Referral,United Kingdom,0
+SP-00013,45,85.55,12,4,2,3.5,1,19,Basic,Organic,United Kingdom,0
+SP-00014,46,108.85,7,5,3,4.9,0,19,Enterprise,Organic,Portugal,0
+SP-00015,44,140.29,9,2,3,4.8,3,19,Basic,Organic,United Kingdom,1
+SP-00016,48,162.82,6,5,1,4.5,1,14,Basic,Paid,United Kingdom,0
+SP-00017,31,128.52,9,6,1,2.3,0,8,Basic,Paid,Germany,0
+SP-00018,8,71.01,6,0,1,4.9,0,1,Enterprise,Paid,Germany,0
+SP-00019,51,78.7,9,5,3,3.6,0,19,Basic,Partner,United Kingdom,1
+SP-00020,28,124.76,5,2,1,5.0,1,13,Enterprise,Organic,Germany,0
+SP-00021,31,60.03,6,1,1,3.3,1,7,Enterprise,Referral,United Kingdom,0
+SP-00022,23,61.95,10,5,1,3.7,0,11,Professional,Organic,United Kingdom,0
+SP-00023,11,115.77,7,5,2,3.9,2,20,Basic,Paid,Portugal,0
+SP-00024,56,166.12,7,1,0,3.1,0,5,Enterprise,Paid,United Kingdom,0
+SP-00025,47,126.3,18,4,0,2.5,0,28,Basic,Partner,United Kingdom,1
+SP-00026,39,116.74,4,4,0,1.9,1,42,Basic,Organic,United Kingdom,1
+SP-00027,25,82.86,11,4,2,5.0,2,8,Professional,Partner,Portugal,0
+SP-00028,50,59.0,3,2,1,2.5,0,9,Professional,Referral,Germany,0
+SP-00029,33,110.25,5,1,1,2.5,1,10,Enterprise,Organic,United Kingdom,0
+SP-00030,27,154.41,4,4,1,4.3,0,8,Enterprise,Paid,Portugal,0
+SP-00031,28,72.15,8,4,0,2.7,1,35,Basic,Organic,Germany,0
+SP-00032,14,64.78,6,0,0,2.5,2,10,Basic,Paid,United Kingdom,1
+SP-00033,6,65.46,8,4,4,1.5,0,4,Enterprise,Referral,Germany,0
+SP-00034,34,98.28,5,6,2,4.0,0,13,Basic,Referral,Germany,0
+SP-00035,54,135.97,2,4,0,2.9,2,6,Professional,Referral,Portugal,0
+SP-00036,4,34.88,14,5,2,4.3,0,3,Basic,Partner,Germany,0
+SP-00037,52,86.76,10,4,1,3.7,1,7,Basic,Referral,Germany,0
+SP-00038,50,47.42,8,6,2,3.9,1,7,Professional,Organic,Germany,0
+SP-00039,17,182.32,10,3,1,3.4,0,10,Professional,Partner,United Kingdom,0
+SP-00040,38,90.78,7,4,2,3.6,0,2,Enterprise,Organic,Germany,0
+SP-00041,10,71.55,7,3,4,3.1,0,33,Enterprise,Referral,United Kingdom,0
+SP-00042,46,94.12,12,7,0,3.2,1,15,Professional,Paid,United Kingdom,0
+SP-00043,43,42.4,4,3,1,2.9,2,18,Basic,Organic,United Kingdom,1
+SP-00044,22,51.14,8,3,0,5.0,1,13,Professional,Organic,Portugal,0
+SP-00045,5,86.51,6,2,1,3.5,1,25,Basic,Partner,United Kingdom,0
+SP-00046,59,27.78,6,4,0,2.0,1,9,Basic,Organic,Germany,0
+SP-00047,27,114.84,9,1,1,4.0,2,12,Enterprise,Referral,Portugal,0
+SP-00048,54,28.54,14,4,3,3.2,0,6,Professional,Organic,United Kingdom,0
+SP-00049,41,137.99,7,3,1,3.8,2,11,Basic,Referral,Portugal,0
+SP-00050,47,73.01,13,8,1,3.6,0,12,Professional,Paid,Portugal,0
+SP-00051,46,117.14,12,4,1,5.0,0,6,Basic,Partner,Germany,0
+SP-00052,12,99.9,6,4,1,3.5,0,15,Basic,Referral,Germany,0
+SP-00053,22,171.92,8,3,1,4.5,0,15,Professional,Referral,United Kingdom,0
+SP-00054,29,98.78,9,5,2,4.4,0,18,Basic,Organic,Germany,0
+SP-00055,30,135.81,11,1,0,2.7,0,15,Professional,Referral,Germany,0
+SP-00056,3,66.58,9,7,0,4.0,0,11,Professional,Paid,Portugal,0
+SP-00057,33,42.64,5,2,2,3.2,1,20,Basic,Paid,United Kingdom,0
+SP-00058,10,124.77,8,1,1,2.8,1,12,Basic,Referral,Germany,1
+SP-00059,45,42.15,5,3,3,2.8,2,2,Professional,Organic,Germany,0
+SP-00060,41,114.31,10,2,2,4.5,1,4,Professional,Referral,United Kingdom,1
+SP-00061,56,53.07,4,2,0,5.0,0,6,Enterprise,Paid,Portugal,0
+SP-00062,45,94.6,7,3,2,3.2,0,7,Enterprise,Referral,Portugal,0
+SP-00063,22,173.34,17,4,1,4.0,0,15,Basic,Referral,Germany,0
+SP-00064,59,110.58,8,4,0,4.0,0,25,Professional,Paid,Germany,0
+SP-00065,25,77.3,11,4,1,3.4,1,16,Basic,Organic,Portugal,1
+SP-00066,20,100.87,13,7,0,4.9,1,14,Basic,Paid,Portugal,0
+SP-00067,55,67.57,7,3,1,5.0,0,2,Basic,Organic,Germany,0
+SP-00068,23,202.55,10,3,0,3.3,0,1,Basic,Organic,Germany,0
+SP-00069,5,61.77,11,5,0,5.0,2,28,Professional,Organic,United Kingdom,1
+SP-00070,29,80.81,1,4,1,3.4,2,8,Professional,Paid,Germany,1
+SP-00071,48,106.46,15,3,0,3.0,1,15,Basic,Partner,United Kingdom,0
+SP-00072,12,97.84,2,4,1,3.7,0,16,Enterprise,Organic,Germany,0
+SP-00073,28,102.44,3,0,2,4.5,0,41,Professional,Referral,Portugal,1
+SP-00074,8,68.15,5,2,1,3.7,1,33,Professional,Partner,Germany,0
+SP-00075,42,75.99,11,2,1,4.4,0,46,Basic,Partner,Germany,0
+SP-00076,29,122.33,5,3,3,4.0,0,18,Basic,Referral,Germany,0
+SP-00077,20,119.79,10,3,1,4.9,0,30,Basic,Paid,Germany,0
+SP-00078,14,98.81,7,6,0,4.2,3,5,Basic,Organic,United Kingdom,1
+SP-00079,34,143.01,5,5,2,5.0,1,41,Enterprise,Paid,Germany,1
+SP-00080,41,124.39,9,3,1,3.1,2,20,Basic,Paid,Germany,0
+SP-00081,57,118.26,11,4,2,3.6,0,9,Basic,Referral,United Kingdom,0
+SP-00082,27,41.84,11,0,0,3.8,2,21,Basic,Organic,United Kingdom,0
+SP-00083,10,98.32,4,3,1,3.1,1,26,Professional,Organic,United Kingdom,1
+SP-00084,50,91.06,4,4,0,3.0,0,17,Enterprise,Organic,Germany,0
+SP-00085,38,150.87,12,2,1,4.1,1,1,Basic,Organic,Portugal,0
+SP-00086,43,24.45,7,3,4,4.3,2,27,Professional,Partner,Portugal,0
+SP-00087,6,78.93,9,7,1,3.9,0,11,Basic,Organic,Germany,0
+SP-00088,19,87.99,9,3,0,4.6,0,17,Basic,Organic,United Kingdom,0
+SP-00089,47,52.79,14,2,2,2.9,1,5,Professional,Paid,Portugal,0
+SP-00090,50,56.96,7,4,1,3.5,0,10,Professional,Organic,Portugal,0
+SP-00091,27,151.08,5,4,0,2.9,1,8,Basic,Referral,Portugal,0
+SP-00092,49,102.28,8,6,2,3.9,2,5,Basic,Organic,Germany,0
+SP-00093,51,173.52,7,2,0,4.2,0,2,Professional,Partner,Germany,0
+SP-00094,24,78.34,9,10,1,4.9,0,10,Professional,Partner,Portugal,0
+SP-00095,54,45.68,7,1,1,2.9,0,6,Professional,Referral,Germany,1
+SP-00096,18,73.75,9,7,0,4.1,0,14,Basic,Organic,United Kingdom,0
+SP-00097,15,68.61,5,5,2,4.9,0,15,Professional,Paid,Germany,0
+SP-00098,41,112.2,6,4,1,3.0,0,34,Enterprise,Paid,Germany,0
+SP-00099,39,110.31,13,3,0,2.8,1,8,Enterprise,Organic,Germany,0
+SP-00100,9,104.39,11,4,0,2.6,0,26,Basic,Referral,Germany,0
+SP-00101,50,197.11,5,6,1,4.3,0,15,Basic,Organic,Germany,0
+SP-00102,12,139.45,7,3,2,3.2,0,16,Professional,Organic,United Kingdom,0
+SP-00103,49,58.59,9,2,2,4.2,1,13,Basic,Referral,United Kingdom,0
+SP-00104,1,126.12,9,7,1,3.6,1,23,Professional,Referral,United Kingdom,0
+SP-00105,48,85.6,12,0,0,5.0,2,13,Basic,Referral,Portugal,0
+SP-00106,48,77.45,7,4,1,4.4,3,13,Basic,Referral,Germany,0
+SP-00107,47,146.91,6,4,2,3.2,2,5,Professional,Organic,United Kingdom,0
+SP-00108,40,57.07,10,5,1,3.6,1,6,Basic,Organic,Germany,0
+SP-00109,29,122.56,10,2,0,4.4,0,15,Basic,Organic,Germany,0
+SP-00110,43,114.46,6,4,0,2.9,0,9,Professional,Referral,Germany,0
+SP-00111,17,56.62,8,4,2,4.7,1,3,Basic,Organic,Portugal,0
+SP-00112,47,41.28,10,6,1,3.6,1,8,Basic,Paid,Germany,0
+SP-00113,34,81.69,9,4,1,4.4,0,21,Basic,Paid,Germany,0
+SP-00114,28,23.65,6,1,2,3.6,1,14,Basic,Partner,Germany,1
+SP-00115,31,132.29,3,2,2,3.4,2,7,Basic,Partner,Germany,0
+SP-00116,35,98.16,11,4,0,3.3,0,12,Basic,Referral,Germany,1
+SP-00117,3,148.95,7,4,0,5.0,0,22,Basic,Partner,Germany,0
+SP-00118,9,95.38,7,2,1,3.6,1,5,Enterprise,Partner,United Kingdom,0
+SP-00119,15,153.25,7,2,1,5.0,0,5,Professional,Organic,United Kingdom,0
+SP-00120,7,65.64,6,1,0,3.9,0,13,Professional,Referral,United Kingdom,0
+SP-00121,27,104.25,8,5,2,3.1,2,8,Professional,Organic,Portugal,0
+SP-00122,41,71.53,7,7,1,2.5,0,13,Professional,Partner,Portugal,1
+SP-00123,40,80.64,10,3,2,4.8,0,12,Professional,Referral,Germany,0
+SP-00124,29,87.86,4,2,1,3.6,0,13,Enterprise,Organic,Germany,0
+SP-00125,52,98.03,9,6,0,4.5,1,34,Professional,Paid,Portugal,0
+SP-00126,34,61.97,9,3,0,5.0,1,4,Professional,Partner,United Kingdom,0
+SP-00127,5,102.17,5,1,0,4.3,0,19,Basic,Paid,Germany,0
+SP-00128,46,86.03,8,3,2,4.1,0,16,Professional,Referral,Germany,0
+SP-00129,35,46.7,12,7,0,4.8,1,18,Basic,Organic,Portugal,0
+SP-00130,39,38.91,4,5,0,4.4,1,2,Professional,Paid,Portugal,0
+SP-00131,34,132.5,7,3,2,2.8,0,20,Professional,Paid,Germany,0
+SP-00132,34,31.33,4,4,2,4.9,1,10,Basic,Referral,Germany,0
+SP-00133,6,79.0,11,6,2,3.8,0,13,Basic,Paid,United Kingdom,0
+SP-00134,34,44.72,3,3,2,5.0,1,11,Enterprise,Organic,Germany,0
+SP-00135,48,164.12,12,8,3,4.2,0,6,Basic,Referral,Portugal,0
+SP-00136,19,106.5,9,3,1,4.8,1,10,Professional,Organic,Germany,0
+SP-00137,37,96.94,4,4,3,3.6,2,12,Basic,Partner,Germany,0
+SP-00138,2,59.7,4,3,2,2.6,0,17,Professional,Referral,United Kingdom,1
+SP-00139,21,46.44,13,4,2,4.3,1,15,Enterprise,Organic,Portugal,0
+SP-00140,27,91.12,15,3,1,4.6,0,11,Professional,Organic,United Kingdom,0
+SP-00141,59,83.8,10,0,2,3.4,0,12,Basic,Partner,United Kingdom,0
+SP-00142,13,53.14,7,3,0,3.6,3,12,Professional,Partner,United Kingdom,0
+SP-00143,17,52.38,3,4,3,2.0,0,17,Basic,Paid,Portugal,1
+SP-00144,25,51.31,9,5,2,3.7,0,20,Basic,Referral,Germany,0
+SP-00145,60,50.6,7,3,0,2.8,2,21,Professional,Paid,United Kingdom,0
+SP-00146,52,64.75,10,7,2,4.2,0,9,Enterprise,Paid,United Kingdom,0
+SP-00147,3,96.96,11,8,2,4.1,1,10,Professional,Organic,Portugal,0
+SP-00148,15,103.79,12,2,0,3.8,0,9,Professional,Organic,Germany,0
+SP-00149,50,83.08,4,2,1,4.9,2,12,Basic,Referral,Portugal,0
+SP-00150,4,89.39,8,11,0,4.0,2,41,Basic,Referral,United Kingdom,0
+SP-00151,52,105.86,9,4,2,4.0,1,9,Basic,Referral,Germany,0
+SP-00152,17,35.14,7,2,0,4.1,1,18,Enterprise,Organic,Portugal,0
+SP-00153,56,92.31,5,2,4,3.3,2,18,Basic,Paid,Germany,1
+SP-00154,18,142.13,9,3,2,4.6,1,15,Professional,Paid,Portugal,1
+SP-00155,27,78.14,10,1,3,3.1,0,2,Basic,Partner,United Kingdom,0
+SP-00156,40,130.2,8,0,1,4.1,0,11,Basic,Referral,United Kingdom,0
+SP-00157,8,78.74,7,1,0,4.8,1,16,Basic,Organic,Portugal,0
+SP-00158,34,108.81,6,3,2,3.0,1,7,Enterprise,Organic,Portugal,0
+SP-00159,31,96.14,10,6,1,2.7,0,3,Basic,Referral,Portugal,0
+SP-00160,48,50.98,12,7,4,3.0,0,17,Basic,Organic,Germany,0
+SP-00161,60,55.86,9,2,3,5.0,1,20,Basic,Partner,United Kingdom,0
+SP-00162,40,153.25,6,4,2,3.3,2,11,Basic,Referral,United Kingdom,0
+SP-00163,25,118.76,11,3,1,2.8,2,8,Basic,Paid,Germany,0
+SP-00164,25,80.95,9,4,1,4.1,0,28,Enterprise,Referral,Germany,0
+SP-00165,26,76.56,8,2,3,1.6,0,21,Enterprise,Organic,Portugal,1
+SP-00166,49,59.86,9,3,3,3.0,3,5,Professional,Paid,United Kingdom,0
+SP-00167,20,99.56,7,6,3,4.9,1,13,Professional,Referral,Germany,0
+SP-00168,11,61.98,5,5,1,3.0,0,6,Basic,Referral,Portugal,0
+SP-00169,21,72.45,3,4,2,3.6,0,9,Enterprise,Paid,United Kingdom,0
+SP-00170,2,64.64,8,3,0,4.0,1,26,Basic,Organic,Portugal,0
+SP-00171,7,115.64,5,2,1,4.0,0,26,Basic,Paid,Germany,0
+SP-00172,6,79.57,9,4,1,3.4,0,8,Basic,Paid,Portugal,0
+SP-00173,47,89.67,13,2,1,4.2,3,18,Enterprise,Partner,Germany,0
+SP-00174,44,51.39,13,3,2,5.0,0,5,Basic,Paid,Germany,0
+SP-00175,42,64.46,3,3,4,3.0,1,40,Basic,Organic,Germany,1
+SP-00176,28,90.5,6,3,3,3.4,0,2,Basic,Paid,United Kingdom,0
+SP-00177,44,42.18,8,6,0,3.7,0,9,Basic,Paid,Germany,0
+SP-00178,10,77.1,11,5,3,4.4,1,18,Professional,Organic,United Kingdom,0
+SP-00179,55,84.14,6,4,2,3.8,0,6,Professional,Paid,United Kingdom,0
+SP-00180,31,48.8,6,4,0,3.7,0,5,Professional,Referral,United Kingdom,0
+SP-00181,57,127.73,13,4,1,2.6,1,12,Professional,Paid,Germany,0
+SP-00182,10,97.57,10,5,0,2.9,1,7,Professional,Organic,Germany,0
+SP-00183,30,79.32,7,2,1,4.0,1,2,Professional,Organic,United Kingdom,0
+SP-00184,42,62.56,9,4,2,3.4,2,12,Enterprise,Referral,United Kingdom,0
+SP-00185,30,41.55,9,4,0,3.5,1,17,Basic,Organic,Germany,0
+SP-00186,27,123.59,9,4,1,3.8,2,10,Basic,Partner,United Kingdom,0
+SP-00187,10,69.69,9,4,1,5.0,1,11,Professional,Paid,Germany,0
+SP-00188,23,45.67,16,6,1,3.4,1,15,Professional,Organic,Germany,1
+SP-00189,15,61.84,8,0,2,4.9,1,33,Enterprise,Referral,Portugal,1
+SP-00190,19,101.88,5,2,2,4.9,0,9,Basic,Partner,Germany,0
+SP-00191,42,93.39,7,5,1,4.4,2,15,Professional,Referral,Germany,0
+SP-00192,38,53.24,6,2,0,3.1,3,11,Professional,Referral,Germany,0
+SP-00193,37,132.88,6,6,1,3.9,1,5,Professional,Referral,Germany,0
+SP-00194,22,45.43,6,8,1,3.5,2,19,Basic,Organic,Portugal,0
+SP-00195,58,144.59,10,2,1,5.0,0,27,Enterprise,Referral,United Kingdom,0
+SP-00196,6,91.74,10,1,2,4.1,1,17,Basic,Organic,Portugal,0
+SP-00197,21,71.88,9,2,1,3.6,0,1,Basic,Paid,United Kingdom,0
+SP-00198,8,76.04,8,2,0,5.0,0,9,Professional,Organic,Germany,0
+SP-00199,21,87.42,10,8,0,3.5,1,17,Basic,Referral,United Kingdom,0
+SP-00200,58,105.18,7,5,2,4.2,0,23,Basic,Partner,Germany,0
+SP-00201,22,38.75,11,2,2,4.4,2,3,Enterprise,Referral,Germany,0
+SP-00202,55,61.01,6,2,0,4.1,0,5,Professional,Organic,Germany,0
+SP-00203,30,86.26,12,3,1,3.7,1,15,Enterprise,Referral,Germany,0
+SP-00204,42,135.05,5,3,3,4.5,1,13,Basic,Organic,Germany,0
+SP-00205,28,132.85,11,3,2,3.3,2,12,Basic,Paid,Germany,0
+SP-00206,16,157.44,10,5,2,4.7,0,32,Basic,Paid,Portugal,1
+SP-00207,46,130.15,8,4,3,3.6,0,33,Basic,Organic,United Kingdom,0
+SP-00208,59,59.14,10,4,0,4.9,0,6,Basic,Referral,Germany,0
+SP-00209,16,84.0,4,3,0,4.6,1,2,Enterprise,Referral,United Kingdom,0
+SP-00210,47,130.48,9,3,1,4.2,0,11,Basic,Partner,Germany,0
+SP-00211,16,125.07,12,2,1,3.7,0,19,Professional,Organic,Germany,0
+SP-00212,44,77.63,9,0,1,4.7,0,24,Professional,Referral,United Kingdom,0
+SP-00213,48,103.97,8,3,2,4.3,1,9,Basic,Partner,Germany,0
+SP-00214,27,69.53,4,5,1,1.2,0,7,Basic,Organic,Germany,0
+SP-00215,45,44.02,9,3,2,3.1,0,16,Professional,Paid,Germany,1
+SP-00216,17,80.47,6,1,1,3.9,0,10,Basic,Paid,United Kingdom,0
+SP-00217,5,78.47,6,4,1,4.0,0,12,Basic,Organic,United Kingdom,0
+SP-00218,6,68.16,9,4,0,4.4,0,17,Professional,Partner,United Kingdom,0
+SP-00219,27,105.36,8,1,0,5.0,0,10,Basic,Paid,Germany,0
+SP-00220,55,76.56,6,2,3,4.3,0,4,Basic,Referral,Germany,0
+SP-00221,8,99.28,8,2,3,2.1,1,7,Professional,Referral,Germany,0
+SP-00222,28,114.75,8,3,2,4.0,2,7,Basic,Referral,Portugal,0
+SP-00223,43,207.88,8,6,0,4.8,0,7,Professional,Organic,United Kingdom,0
+SP-00224,13,81.03,8,6,1,3.9,1,2,Basic,Partner,Germany,0
+SP-00225,44,135.86,9,3,2,4.0,0,37,Professional,Referral,Germany,0
+SP-00226,19,92.83,15,3,2,3.4,1,5,Professional,Referral,Germany,1
+SP-00227,49,95.06,8,4,1,4.6,0,19,Enterprise,Partner,Portugal,0
+SP-00228,35,81.49,10,3,1,3.5,4,6,Professional,Referral,Portugal,0
+SP-00229,33,89.49,10,4,1,4.3,0,9,Professional,Organic,Germany,0
+SP-00230,11,76.86,6,5,3,4.1,0,12,Professional,Organic,United Kingdom,0
+SP-00231,28,125.78,6,5,2,3.8,0,8,Basic,Partner,Germany,0
+SP-00232,52,61.94,16,1,1,4.2,1,30,Basic,Referral,Germany,0
+SP-00233,2,43.85,5,5,1,4.0,0,70,Professional,Referral,United Kingdom,1
+SP-00234,46,67.25,8,1,0,4.8,1,2,Professional,Referral,United Kingdom,0
+SP-00235,30,64.33,11,3,0,4.3,0,23,Enterprise,Referral,United Kingdom,0
+SP-00236,44,67.23,5,8,1,4.6,1,13,Professional,Referral,Germany,0
+SP-00237,40,79.71,11,3,0,3.2,1,9,Basic,Partner,United Kingdom,0
+SP-00238,26,67.33,10,3,0,3.1,0,21,Basic,Organic,Germany,0
+SP-00239,19,79.25,6,3,0,3.9,0,25,Basic,Organic,United Kingdom,0
+SP-00240,38,67.42,5,0,4,4.4,0,11,Enterprise,Partner,Germany,1
+SP-00241,9,100.15,13,0,0,4.2,0,27,Basic,Organic,Germany,0
+SP-00242,36,207.02,9,1,2,3.2,1,2,Professional,Partner,United Kingdom,0
+SP-00243,6,92.06,11,4,1,4.4,0,19,Basic,Paid,Portugal,0
+SP-00244,39,68.56,5,2,1,3.3,0,12,Enterprise,Paid,Germany,0
+SP-00245,38,30.47,7,3,1,4.3,1,14,Professional,Organic,United Kingdom,0
+SP-00246,6,176.02,9,2,3,4.0,0,23,Enterprise,Organic,United Kingdom,0
+SP-00247,46,94.21,8,3,3,3.6,2,17,Professional,Organic,United Kingdom,0
+SP-00248,25,78.96,7,5,1,3.4,0,37,Basic,Referral,Germany,1
+SP-00249,48,31.13,7,7,3,3.9,1,41,Professional,Paid,United Kingdom,1
+SP-00250,3,80.67,6,6,1,3.9,1,10,Basic,Referral,Germany,1
+SP-00251,11,89.18,5,1,2,3.0,0,4,Basic,Organic,Germany,0
+SP-00252,30,67.52,7,1,1,4.3,1,12,Basic,Organic,Germany,0
+SP-00253,12,47.16,8,7,1,4.7,0,6,Basic,Referral,United Kingdom,0
+SP-00254,20,45.92,9,5,0,4.5,2,8,Professional,Organic,Germany,0
+SP-00255,40,177.26,7,4,0,4.1,1,13,Professional,Paid,Portugal,0
+SP-00256,9,88.11,11,5,2,3.4,1,3,Enterprise,Organic,United Kingdom,0
+SP-00257,41,67.5,5,7,1,3.9,0,17,Basic,Referral,Germany,0
+SP-00258,7,85.94,5,1,0,3.7,0,11,Professional,Paid,Germany,0
+SP-00259,11,83.51,6,3,0,3.9,1,7,Professional,Referral,Germany,0
+SP-00260,36,45.02,2,3,1,4.5,1,1,Basic,Partner,United Kingdom,0
+SP-00261,48,122.25,5,1,0,3.7,2,22,Basic,Paid,United Kingdom,1
+SP-00262,11,78.1,2,2,4,2.3,1,25,Enterprise,Organic,Germany,1
+SP-00263,18,88.62,10,0,1,4.4,1,23,Basic,Organic,Germany,0
+SP-00264,56,151.08,8,1,0,4.1,0,6,Basic,Partner,Germany,1
+SP-00265,60,47.73,6,4,1,3.9,1,16,Professional,Paid,Germany,1
+SP-00266,35,60.62,11,4,3,2.9,0,25,Basic,Partner,Germany,1
+SP-00267,27,96.31,5,2,1,3.1,0,15,Basic,Organic,Portugal,0
+SP-00268,21,121.23,9,4,1,3.2,3,14,Basic,Partner,Portugal,0
+SP-00269,37,64.91,10,4,0,3.3,2,34,Basic,Partner,United Kingdom,0
+SP-00270,36,66.44,13,7,1,3.4,2,33,Basic,Organic,Germany,0
+SP-00271,18,109.31,5,4,0,2.9,1,8,Basic,Organic,Portugal,0
+SP-00272,2,199.67,16,6,3,5.0,0,7,Enterprise,Referral,Germany,0
+SP-00273,10,87.12,11,5,3,5.0,2,6,Professional,Referral,Germany,0
+SP-00274,58,60.55,7,3,0,4.0,1,2,Basic,Organic,United Kingdom,0
+SP-00275,26,53.49,10,6,1,3.8,1,30,Basic,Organic,Germany,1
+SP-00276,29,79.62,8,3,3,5.0,0,15,Enterprise,Partner,Germany,0
+SP-00277,29,118.86,6,5,1,5.0,1,9,Professional,Organic,United Kingdom,0
+SP-00278,47,238.93,6,1,2,3.2,1,13,Professional,Partner,Germany,0
+SP-00279,4,74.16,8,0,1,4.0,1,31,Professional,Organic,Germany,1
+SP-00280,5,87.18,5,4,3,3.7,1,3,Basic,Paid,United Kingdom,0
+SP-00281,17,164.14,8,5,2,3.6,3,29,Basic,Organic,Portugal,1
+SP-00282,30,95.65,9,1,1,3.7,1,12,Basic,Organic,Germany,0
+SP-00283,41,92.33,8,5,1,3.7,0,16,Basic,Paid,Germany,0
+SP-00284,30,150.25,6,4,0,4.0,0,17,Enterprise,Organic,Germany,0
+SP-00285,27,88.03,11,4,2,4.0,2,33,Basic,Organic,United Kingdom,0
+SP-00286,57,55.27,4,4,3,5.0,1,6,Basic,Referral,United Kingdom,0
+SP-00287,10,136.96,7,4,1,3.2,0,46,Enterprise,Paid,Portugal,0
+SP-00288,35,42.09,8,2,0,4.6,1,4,Enterprise,Paid,United Kingdom,0
+SP-00289,33,127.09,8,0,2,2.9,1,7,Basic,Organic,Portugal,1
+SP-00290,29,84.32,7,1,1,4.0,0,19,Basic,Partner,Germany,0
+SP-00291,49,74.49,10,2,0,4.6,1,30,Professional,Organic,United Kingdom,0
+SP-00292,17,73.7,5,5,0,4.3,2,6,Basic,Paid,Portugal,0
+SP-00293,58,79.49,10,3,1,3.5,1,3,Enterprise,Paid,Germany,0
+SP-00294,20,70.07,4,5,1,4.0,1,31,Basic,Organic,Germany,0
+SP-00295,33,101.46,10,3,4,5.0,0,9,Basic,Referral,United Kingdom,0
+SP-00296,32,71.08,9,4,1,3.3,1,9,Professional,Referral,United Kingdom,0
+SP-00297,51,36.35,9,5,0,4.3,0,13,Professional,Paid,United Kingdom,0
+SP-00298,27,84.58,5,2,1,4.6,2,11,Enterprise,Paid,Portugal,0
+SP-00299,18,35.51,12,2,1,3.5,2,19,Professional,Referral,Germany,1
+SP-00300,2,84.35,11,4,0,5.0,0,4,Basic,Paid,Portugal,0
+SP-00301,22,69.49,7,9,1,5.0,3,3,Professional,Organic,Portugal,0
+SP-00302,50,123.1,5,3,1,4.7,0,16,Basic,Paid,Germany,0
+SP-00303,1,75.77,7,4,2,4.7,0,17,Basic,Referral,Germany,0
+SP-00304,54,115.53,9,4,1,2.4,1,19,Basic,Partner,United Kingdom,0
+SP-00305,33,110.0,12,1,0,2.7,1,19,Basic,Partner,Germany,1
+SP-00306,9,111.28,12,3,2,3.7,1,3,Basic,Organic,United Kingdom,0
+SP-00307,19,155.64,5,7,0,3.3,1,18,Professional,Paid,United Kingdom,0
+SP-00308,34,76.89,9,2,5,4.3,2,18,Basic,Paid,Portugal,0
+SP-00309,19,86.65,7,3,2,1.5,0,4,Professional,Paid,Germany,0
+SP-00310,7,100.33,10,3,1,4.3,1,25,Basic,Organic,United Kingdom,0
+SP-00311,40,87.76,6,8,0,3.7,2,6,Professional,Paid,Portugal,0
+SP-00312,41,75.84,8,2,2,3.4,0,5,Professional,Organic,Germany,0
+SP-00313,8,57.34,12,2,0,5.0,0,20,Basic,Partner,Germany,0
+SP-00314,17,84.99,7,1,1,3.6,1,5,Enterprise,Referral,Germany,0
+SP-00315,15,43.92,7,2,1,2.5,1,10,Professional,Organic,Germany,0
+SP-00316,40,34.52,5,4,3,4.2,0,9,Enterprise,Paid,Germany,0
+SP-00317,44,52.05,9,3,0,4.1,0,8,Enterprise,Referral,Germany,0
+SP-00318,44,110.73,10,2,0,3.7,1,6,Basic,Organic,United Kingdom,0
+SP-00319,57,93.11,7,4,2,5.0,0,42,Enterprise,Paid,United Kingdom,1
+SP-00320,47,111.2,11,1,0,4.0,0,19,Professional,Organic,Germany,0
+SP-00321,20,62.87,10,4,3,4.6,0,7,Basic,Organic,Germany,1
+SP-00322,7,128.47,10,4,1,4.1,0,7,Professional,Paid,United Kingdom,0
+SP-00323,37,45.94,10,4,0,4.8,2,15,Basic,Referral,United Kingdom,0
+SP-00324,55,52.84,5,6,2,3.5,1,9,Professional,Organic,United Kingdom,0
+SP-00325,59,127.5,7,4,1,2.9,0,16,Basic,Organic,Germany,0
+SP-00326,14,90.31,7,4,3,4.4,0,5,Professional,Referral,Germany,0
+SP-00327,15,111.48,8,6,3,4.0,1,13,Enterprise,Referral,United Kingdom,0
+SP-00328,3,93.28,7,3,3,4.4,0,21,Basic,Referral,Portugal,0
+SP-00329,9,66.55,5,5,3,3.3,0,13,Professional,Partner,United Kingdom,1
+SP-00330,34,50.31,7,1,2,4.2,1,10,Basic,Organic,Germany,0
+SP-00331,33,37.87,7,5,1,2.5,0,17,Enterprise,Partner,Germany,0
+SP-00332,23,170.27,10,0,0,3.4,1,2,Basic,Referral,United Kingdom,1
+SP-00333,19,41.45,13,4,1,3.2,1,21,Basic,Paid,Portugal,1
+SP-00334,50,148.04,7,3,0,4.2,2,2,Professional,Referral,United Kingdom,0
+SP-00335,28,88.25,7,7,3,3.4,2,23,Professional,Organic,Germany,1
+SP-00336,49,94.47,15,4,1,2.7,0,9,Basic,Referral,Germany,0
+SP-00337,58,91.91,9,3,0,3.3,0,22,Professional,Paid,Germany,0
+SP-00338,20,105.64,6,1,0,4.3,3,25,Professional,Organic,United Kingdom,0
+SP-00339,13,60.4,11,3,2,3.9,0,10,Basic,Organic,Germany,0
+SP-00340,58,32.78,10,8,2,3.2,1,24,Basic,Paid,Germany,0
+SP-00341,39,65.98,9,5,2,4.5,2,14,Professional,Paid,Germany,0
+SP-00342,18,101.9,6,9,2,5.0,0,17,Professional,Referral,Portugal,0
+SP-00343,38,53.05,7,1,1,4.5,0,28,Professional,Paid,Germany,1
+SP-00344,31,129.82,4,3,0,2.0,0,16,Professional,Paid,Germany,0
+SP-00345,55,80.1,17,5,1,4.0,1,22,Professional,Referral,Germany,0
+SP-00346,16,51.07,4,6,2,3.7,1,40,Basic,Paid,United Kingdom,1
+SP-00347,60,89.95,9,2,1,2.2,1,22,Basic,Organic,Germany,0
+SP-00348,57,101.18,9,2,1,2.8,0,9,Professional,Organic,United Kingdom,0
+SP-00349,11,104.25,6,4,0,4.4,1,15,Basic,Paid,United Kingdom,0
+SP-00350,10,23.99,10,7,2,3.9,0,7,Enterprise,Paid,Germany,0
+SP-00351,32,22.86,11,4,1,3.9,0,15,Enterprise,Organic,Portugal,0
+SP-00352,3,127.57,5,4,0,3.3,2,10,Basic,Paid,Germany,0
+SP-00353,18,44.53,7,4,1,4.7,1,16,Basic,Organic,United Kingdom,0
+SP-00354,27,127.64,7,4,0,2.8,0,22,Basic,Paid,United Kingdom,0
+SP-00355,59,132.7,6,2,0,3.1,0,7,Basic,Referral,Germany,0
+SP-00356,60,50.35,7,4,1,3.5,0,13,Enterprise,Referral,Germany,0
+SP-00357,10,54.45,9,6,1,2.6,0,6,Basic,Partner,United Kingdom,0
+SP-00358,54,113.88,9,1,0,3.1,0,7,Basic,Referral,Germany,0
+SP-00359,6,71.27,9,5,0,4.6,1,14,Professional,Referral,United Kingdom,0
+SP-00360,45,141.16,9,4,2,3.1,0,9,Professional,Organic,United Kingdom,0
+SP-00361,51,158.22,8,4,3,4.4,1,31,Professional,Organic,United Kingdom,0
+SP-00362,54,51.04,10,2,1,4.3,1,3,Professional,Partner,Germany,0
+SP-00363,14,59.91,10,6,1,3.7,2,35,Professional,Partner,Germany,0
+SP-00364,54,88.01,12,1,1,2.7,1,22,Professional,Paid,United Kingdom,0
+SP-00365,7,32.44,10,3,2,3.9,1,19,Basic,Partner,United Kingdom,0
+SP-00366,32,38.3,3,2,0,2.1,0,21,Professional,Organic,Germany,0
+SP-00367,29,57.13,7,8,2,3.4,1,20,Professional,Paid,Germany,0
+SP-00368,19,182.16,6,4,0,4.0,1,9,Basic,Organic,Portugal,0
+SP-00369,2,93.65,10,1,2,4.5,0,22,Enterprise,Paid,Germany,0
+SP-00370,47,63.92,4,5,1,3.7,0,15,Professional,Paid,United Kingdom,0
+SP-00371,21,54.27,5,1,2,3.3,0,3,Basic,Paid,Portugal,0
+SP-00372,40,50.12,10,4,0,3.2,1,7,Enterprise,Organic,Germany,0
+SP-00373,25,65.85,3,6,1,3.4,1,6,Professional,Partner,Germany,0
+SP-00374,23,64.3,15,4,3,4.3,2,11,Enterprise,Referral,United Kingdom,0
+SP-00375,54,76.57,7,4,0,4.1,1,2,Professional,Partner,United Kingdom,0
+SP-00376,6,103.22,8,2,2,3.8,0,20,Professional,Referral,Portugal,0
+SP-00377,45,81.51,9,4,2,4.3,1,22,Basic,Organic,Germany,0
+SP-00378,45,116.77,9,3,2,3.8,0,9,Basic,Partner,Germany,0
+SP-00379,23,74.3,2,1,0,2.7,0,17,Professional,Paid,Germany,0
+SP-00380,16,163.58,4,5,1,2.9,1,32,Professional,Organic,Germany,1
+SP-00381,1,115.56,8,3,2,4.3,1,9,Enterprise,Referral,Germany,0
+SP-00382,57,92.58,7,3,1,2.7,0,9,Basic,Organic,Portugal,0
+SP-00383,57,103.37,1,2,3,3.5,0,10,Professional,Partner,Germany,0
+SP-00384,15,66.59,10,4,0,3.7,0,19,Basic,Referral,Germany,0
+SP-00385,2,76.05,7,4,1,3.0,0,9,Professional,Organic,Germany,0
+SP-00386,8,74.84,10,1,1,2.5,0,11,Basic,Organic,Portugal,1
+SP-00387,5,60.82,5,3,1,2.9,2,18,Professional,Organic,Germany,1
+SP-00388,50,46.7,6,2,0,2.4,0,18,Professional,Referral,United Kingdom,1
+SP-00389,54,105.74,5,2,2,4.3,3,8,Enterprise,Partner,United Kingdom,0
+SP-00390,10,124.66,7,2,2,4.1,0,5,Professional,Partner,United Kingdom,0
+SP-00391,45,99.42,7,5,1,3.2,0,10,Basic,Referral,Germany,0
+SP-00392,11,81.41,9,1,0,2.7,0,11,Professional,Partner,United Kingdom,0
+SP-00393,23,196.06,15,1,0,4.7,2,15,Professional,Paid,Germany,0
+SP-00394,36,63.59,8,5,1,4.2,2,13,Basic,Paid,Germany,0
+SP-00395,44,93.9,5,1,0,3.3,1,4,Basic,Organic,Portugal,0
+SP-00396,53,132.38,6,3,0,4.7,2,9,Enterprise,Paid,United Kingdom,0
+SP-00397,3,52.22,10,3,2,3.9,0,2,Basic,Partner,Germany,0
+SP-00398,12,109.18,8,3,2,4.1,1,14,Basic,Paid,United Kingdom,0
+SP-00399,17,168.36,11,2,3,3.0,1,5,Professional,Referral,United Kingdom,0
+SP-00400,19,84.24,2,4,3,2.6,0,3,Basic,Organic,Portugal,0
+SP-00401,60,90.39,8,7,1,2.5,0,10,Professional,Referral,United Kingdom,0
+SP-00402,47,63.75,5,0,1,5.0,1,16,Basic,Paid,Germany,0
+SP-00403,20,102.87,8,8,1,3.1,0,12,Basic,Organic,Germany,0
+SP-00404,59,60.22,6,8,2,3.9,1,34,Basic,Referral,Germany,1
+SP-00405,30,82.16,6,6,2,4.2,1,3,Professional,Paid,Germany,0
+SP-00406,31,44.42,8,7,1,3.8,1,2,Basic,Partner,United Kingdom,0
+SP-00407,27,27.15,7,1,0,3.7,0,8,Basic,Paid,United Kingdom,0
+SP-00408,9,69.01,7,4,1,3.7,1,22,Professional,Paid,Germany,0
+SP-00409,57,68.55,11,3,1,4.2,0,8,Professional,Organic,Portugal,0
+SP-00410,1,71.48,9,3,0,3.0,0,6,Basic,Paid,Germany,0
+SP-00411,11,114.07,5,3,1,3.4,1,17,Professional,Paid,United Kingdom,0
+SP-00412,14,126.17,11,1,1,2.0,1,9,Basic,Referral,Germany,0
+SP-00413,17,95.56,8,6,2,2.3,0,27,Basic,Partner,United Kingdom,0
+SP-00414,8,110.67,11,5,1,2.8,1,10,Basic,Organic,United Kingdom,0
+SP-00415,2,60.92,6,4,3,4.5,1,22,Professional,Paid,Germany,0
+SP-00416,41,55.0,12,3,0,3.6,0,11,Enterprise,Paid,Germany,0
+SP-00417,59,103.75,4,3,1,4.4,1,16,Basic,Partner,Portugal,0
+SP-00418,8,51.94,7,5,0,4.1,1,24,Basic,Referral,Germany,1
+SP-00419,18,49.63,3,3,0,4.0,0,2,Enterprise,Referral,Germany,0
+SP-00420,31,242.64,8,3,0,3.0,1,2,Basic,Partner,Portugal,0
+SP-00421,56,86.52,4,5,0,3.9,1,3,Enterprise,Referral,United Kingdom,0
+SP-00422,42,68.57,5,2,0,4.0,1,5,Professional,Organic,Portugal,0
+SP-00423,46,65.37,5,3,3,5.0,0,25,Enterprise,Referral,Portugal,0
+SP-00424,35,44.92,8,4,1,3.5,0,37,Professional,Paid,Germany,0
+SP-00425,26,94.71,9,2,1,4.4,1,11,Basic,Paid,Portugal,0
+SP-00426,12,74.23,7,4,0,3.7,0,9,Professional,Organic,Germany,1
+SP-00427,52,124.63,4,7,1,3.2,0,16,Basic,Referral,Portugal,0
+SP-00428,49,105.12,6,6,0,4.5,0,7,Professional,Paid,United Kingdom,0
+SP-00429,2,73.18,2,6,1,5.0,0,15,Basic,Paid,Portugal,0
+SP-00430,43,35.44,12,3,0,4.0,0,24,Professional,Organic,United Kingdom,0
+SP-00431,6,86.62,4,3,2,3.3,0,16,Basic,Paid,United Kingdom,1
+SP-00432,45,83.39,4,1,1,4.2,0,5,Basic,Paid,Portugal,0
+SP-00433,50,32.78,9,8,1,4.0,0,11,Basic,Organic,Germany,0
+SP-00434,8,100.03,7,5,0,5.0,0,40,Basic,Paid,Germany,1
+SP-00435,27,51.23,5,5,0,4.4,0,17,Basic,Paid,Portugal,0
+SP-00436,8,127.42,6,1,2,3.1,1,8,Basic,Referral,Portugal,0
+SP-00437,35,81.28,13,5,0,4.8,0,7,Enterprise,Paid,United Kingdom,0
+SP-00438,56,64.62,9,2,1,4.4,0,8,Professional,Organic,Germany,0
+SP-00439,5,91.74,5,2,1,4.5,0,20,Professional,Referral,Germany,0
+SP-00440,24,89.37,11,3,2,4.2,2,14,Professional,Partner,United Kingdom,0
+SP-00441,59,88.0,10,2,1,4.6,1,5,Basic,Organic,Portugal,0
+SP-00442,19,120.2,8,4,0,4.2,1,23,Professional,Partner,Germany,0
+SP-00443,8,94.09,13,2,2,3.6,0,39,Professional,Paid,Germany,0
+SP-00444,30,62.27,2,5,0,3.9,1,15,Basic,Organic,Germany,0
+SP-00445,31,75.16,6,9,0,3.7,1,26,Professional,Organic,Germany,0
+SP-00446,40,146.89,11,1,1,4.1,0,5,Enterprise,Organic,United Kingdom,0
+SP-00447,19,60.0,14,1,2,3.9,0,11,Basic,Paid,Germany,0
+SP-00448,58,99.36,8,3,1,3.5,0,4,Basic,Organic,Germany,0
+SP-00449,32,122.09,4,7,2,3.7,0,21,Professional,Referral,Germany,0
+SP-00450,18,103.4,6,0,1,3.8,0,12,Basic,Partner,Portugal,0
+SP-00451,58,86.84,11,7,0,2.4,0,2,Basic,Partner,United Kingdom,0
+SP-00452,56,92.49,8,2,0,4.6,1,5,Basic,Paid,United Kingdom,0
+SP-00453,30,106.16,7,2,1,4.1,0,11,Basic,Referral,Portugal,0
+SP-00454,2,59.71,6,3,3,3.3,0,3,Professional,Organic,Germany,0
+SP-00455,36,83.61,7,3,4,4.3,1,5,Enterprise,Organic,Portugal,0
+SP-00456,34,195.55,5,5,2,3.4,0,25,Professional,Organic,Germany,0
+SP-00457,9,100.64,12,4,0,3.4,0,7,Professional,Partner,Germany,0
+SP-00458,39,88.13,6,1,5,4.1,0,15,Basic,Paid,Germany,0
+SP-00459,51,72.06,9,4,0,4.9,0,23,Basic,Organic,Portugal,0
+SP-00460,7,59.98,7,3,1,4.0,3,20,Basic,Referral,Germany,0
+SP-00461,44,93.79,10,3,0,3.2,0,33,Basic,Organic,Germany,0
+SP-00462,9,96.52,8,6,4,3.5,3,24,Professional,Referral,Germany,0
+SP-00463,45,81.29,11,4,2,4.5,0,14,Enterprise,Organic,Portugal,0
+SP-00464,26,230.88,5,7,0,4.1,1,3,Basic,Paid,Germany,0
+SP-00465,1,62.11,7,5,1,4.6,0,12,Enterprise,Referral,Germany,0
+SP-00466,58,56.28,11,4,1,4.1,0,20,Professional,Paid,Germany,0
+SP-00467,10,72.48,6,1,2,4.4,0,6,Basic,Organic,Germany,0
+SP-00468,36,82.38,13,5,2,5.0,0,25,Professional,Referral,Portugal,0
+SP-00469,11,58.73,7,1,2,2.7,2,12,Basic,Referral,Germany,0
+SP-00470,56,92.84,10,2,1,5.0,1,20,Professional,Organic,Germany,0
+SP-00471,45,97.05,10,1,1,4.5,1,20,Professional,Organic,Portugal,0
+SP-00472,49,111.44,10,3,2,5.0,0,21,Professional,Paid,Portugal,0
+SP-00473,26,67.72,10,3,1,3.0,0,8,Professional,Referral,Portugal,0
+SP-00474,29,141.56,10,1,0,4.1,2,33,Professional,Paid,Germany,0
+SP-00475,39,108.28,11,3,4,3.9,1,28,Basic,Partner,Germany,0
+SP-00476,48,61.6,6,3,3,4.5,2,13,Enterprise,Partner,Portugal,0
+SP-00477,51,58.62,14,1,1,4.2,2,5,Basic,Paid,Germany,0
+SP-00478,2,74.52,8,2,0,4.1,1,9,Professional,Organic,Germany,0
+SP-00479,40,97.15,11,3,1,4.4,0,8,Professional,Organic,Portugal,0
+SP-00480,7,103.05,8,1,1,3.7,1,3,Basic,Paid,Germany,0
+SP-00481,18,108.2,15,0,4,3.4,0,7,Basic,Partner,United Kingdom,0
+SP-00482,50,189.91,9,0,0,4.2,1,0,Basic,Partner,Portugal,0
+SP-00483,16,37.3,11,1,1,3.4,1,18,Basic,Paid,United Kingdom,0
+SP-00484,48,39.38,5,3,0,3.7,1,11,Professional,Paid,Portugal,0
+SP-00485,28,80.38,9,3,1,2.6,3,21,Enterprise,Organic,United Kingdom,0
+SP-00486,14,182.8,7,2,2,3.8,0,10,Basic,Referral,Portugal,0
+SP-00487,21,113.59,10,4,1,3.1,1,3,Professional,Organic,United Kingdom,0
+SP-00488,32,54.89,10,3,1,3.8,0,4,Professional,Organic,Germany,0
+SP-00489,46,90.9,9,5,1,2.9,0,12,Professional,Paid,Germany,0
+SP-00490,37,78.41,9,4,0,3.8,2,12,Professional,Organic,Portugal,0
+SP-00491,56,77.26,7,5,1,4.5,1,7,Professional,Paid,Germany,0
+SP-00492,53,67.2,8,5,1,3.3,2,7,Basic,Paid,Germany,0
+SP-00493,46,87.86,7,5,0,3.1,3,21,Professional,Partner,United Kingdom,0
+SP-00494,37,130.29,8,0,2,4.4,2,2,Professional,Partner,Germany,0
+SP-00495,18,69.67,7,1,1,4.5,3,15,Enterprise,Paid,Portugal,1
+SP-00496,25,108.54,8,1,1,4.1,0,10,Professional,Paid,Portugal,0
+SP-00497,8,116.49,6,7,0,3.4,0,21,Enterprise,Paid,Germany,0
+SP-00498,23,141.06,10,6,1,3.3,0,41,Basic,Organic,Germany,1
+SP-00499,56,58.22,12,2,0,3.5,0,4,Professional,Paid,United Kingdom,1
+SP-00500,26,85.0,4,6,1,3.8,1,19,Professional,Partner,Germany,0
+SP-00501,7,64.06,10,4,4,2.4,0,18,Basic,Referral,Germany,0
+SP-00502,40,87.93,10,2,1,3.0,0,6,Professional,Organic,Germany,0
+SP-00503,58,87.69,8,4,3,4.8,2,8,Professional,Organic,Germany,0
+SP-00504,53,52.48,5,3,1,4.0,0,10,Professional,Organic,United Kingdom,0
+SP-00505,17,90.08,7,4,1,4.8,0,18,Professional,Paid,Germany,0
+SP-00506,28,194.18,6,4,1,4.6,2,13,Professional,Paid,United Kingdom,0
+SP-00507,32,103.22,10,4,4,3.6,2,29,Enterprise,Organic,United Kingdom,0
+SP-00508,15,48.26,12,5,2,3.6,0,6,Basic,Referral,Germany,0
+SP-00509,17,56.76,17,5,0,4.6,0,12,Basic,Paid,Germany,0
+SP-00510,15,83.23,13,0,0,4.4,0,15,Enterprise,Partner,Germany,0
+SP-00511,60,57.29,7,6,0,4.6,0,9,Basic,Organic,United Kingdom,0
+SP-00512,45,137.81,9,6,2,3.8,0,5,Professional,Referral,Germany,0
+SP-00513,51,46.01,11,2,5,3.9,0,26,Professional,Organic,Portugal,1
+SP-00514,49,103.52,12,3,1,3.6,0,14,Basic,Referral,Portugal,0
+SP-00515,58,42.28,9,2,0,3.8,1,2,Professional,Organic,United Kingdom,0
+SP-00516,7,82.68,14,4,1,3.3,0,7,Professional,Organic,Portugal,0
+SP-00517,53,53.98,9,6,1,3.7,0,6,Basic,Organic,Germany,0
+SP-00518,4,111.34,7,3,1,3.7,2,34,Basic,Referral,Germany,1
+SP-00519,29,127.98,7,8,1,3.4,3,10,Professional,Organic,Germany,1
+SP-00520,36,97.02,8,6,2,4.4,0,30,Professional,Partner,United Kingdom,0
+SP-00521,22,130.48,13,1,1,2.7,0,17,Basic,Partner,Germany,0
+SP-00522,9,29.81,5,5,1,4.1,2,16,Basic,Partner,Portugal,0
+SP-00523,12,89.61,9,1,0,3.1,0,7,Professional,Organic,Portugal,0
+SP-00524,50,102.91,7,4,0,3.1,0,10,Professional,Organic,United Kingdom,0
+SP-00525,20,108.43,9,6,3,3.2,0,4,Professional,Referral,Germany,1
+SP-00526,19,37.57,5,2,1,4.2,1,23,Enterprise,Organic,Germany,0
+SP-00527,56,100.4,10,5,1,2.0,0,24,Professional,Paid,Germany,0
+SP-00528,9,109.42,4,2,1,3.9,1,16,Professional,Paid,Germany,0
+SP-00529,55,89.19,6,3,1,3.8,0,13,Professional,Organic,United Kingdom,0
+SP-00530,56,48.46,10,6,4,3.0,0,11,Professional,Organic,Germany,0
+SP-00531,36,66.99,13,3,2,3.9,1,34,Enterprise,Referral,Portugal,0
+SP-00532,10,138.12,4,7,3,2.8,0,26,Basic,Paid,Portugal,1
+SP-00533,10,131.49,9,4,1,3.8,1,15,Professional,Paid,Germany,0
+SP-00534,18,102.13,3,3,4,2.8,1,8,Basic,Organic,United Kingdom,0
+SP-00535,35,112.32,5,3,1,5.0,1,8,Professional,Referral,Germany,0
+SP-00536,10,124.94,8,3,4,4.5,0,32,Professional,Referral,United Kingdom,1
+SP-00537,28,101.64,7,3,1,4.0,0,6,Basic,Paid,United Kingdom,0
+SP-00538,7,136.44,7,1,1,3.0,1,11,Professional,Referral,United Kingdom,0
+SP-00539,33,134.51,10,4,0,3.6,0,18,Professional,Paid,United Kingdom,0
+SP-00540,2,221.13,10,6,2,3.6,0,22,Enterprise,Organic,Germany,0
+SP-00541,43,68.14,5,5,4,4.0,2,15,Professional,Organic,Germany,1
+SP-00542,4,68.65,6,3,3,4.1,0,13,Professional,Paid,Portugal,0
+SP-00543,12,25.46,7,5,2,4.0,0,13,Basic,Partner,Portugal,0
+SP-00544,11,98.51,4,2,2,4.1,0,10,Enterprise,Partner,United Kingdom,1
+SP-00545,50,178.03,6,4,1,3.7,0,5,Professional,Paid,Germany,0
+SP-00546,4,141.03,13,6,1,4.1,0,20,Professional,Paid,United Kingdom,0
+SP-00547,26,118.14,9,2,1,3.3,2,8,Professional,Referral,Germany,0
+SP-00548,36,145.16,6,4,1,2.9,0,4,Enterprise,Partner,United Kingdom,0
+SP-00549,31,103.68,4,5,0,5.0,1,5,Professional,Referral,Germany,0
+SP-00550,41,74.89,8,1,1,4.1,0,14,Basic,Paid,Portugal,0
+SP-00551,49,197.42,5,4,0,5.0,0,20,Basic,Referral,Portugal,0
+SP-00552,24,100.53,7,6,0,3.6,1,14,Basic,Partner,Portugal,0
+SP-00553,50,133.26,6,7,1,5.0,0,11,Basic,Paid,Portugal,0
+SP-00554,20,29.73,4,3,2,3.9,1,12,Basic,Organic,Germany,0
+SP-00555,60,31.89,9,5,0,4.7,1,7,Professional,Partner,Germany,0
+SP-00556,31,90.77,7,5,2,3.8,0,24,Professional,Organic,United Kingdom,0
+SP-00557,45,57.3,7,3,2,3.9,0,5,Enterprise,Organic,Germany,0
+SP-00558,53,94.24,6,3,1,3.7,1,16,Enterprise,Referral,Portugal,0
+SP-00559,48,68.61,12,6,1,3.4,0,23,Basic,Referral,Germany,0
+SP-00560,52,235.69,7,4,2,4.6,0,15,Professional,Paid,Germany,0
+SP-00561,33,128.75,12,3,3,3.8,3,19,Enterprise,Referral,United Kingdom,0
+SP-00562,3,151.2,6,3,2,4.5,0,7,Professional,Partner,Germany,0
+SP-00563,30,34.26,8,3,1,4.5,0,15,Basic,Organic,Germany,0
+SP-00564,11,117.47,4,2,2,4.9,0,22,Enterprise,Referral,United Kingdom,0
+SP-00565,54,78.54,8,2,2,4.1,2,20,Professional,Paid,Portugal,0
+SP-00566,15,152.45,3,5,1,2.6,1,22,Professional,Organic,Germany,0
+SP-00567,14,110.3,5,4,0,3.5,1,10,Basic,Organic,Germany,0
+SP-00568,15,83.29,8,6,0,3.8,0,25,Professional,Organic,United Kingdom,0
+SP-00569,39,50.51,2,3,3,3.8,0,14,Enterprise,Organic,United Kingdom,0
+SP-00570,35,90.05,12,3,0,4.9,0,10,Professional,Paid,United Kingdom,0
+SP-00571,57,136.78,3,2,0,4.7,2,33,Basic,Organic,United Kingdom,0
+SP-00572,25,156.27,6,2,3,3.7,1,2,Basic,Paid,Germany,0
+SP-00573,17,72.86,7,3,2,5.0,0,13,Enterprise,Paid,Germany,0
+SP-00574,3,218.18,9,3,2,3.5,0,7,Enterprise,Paid,United Kingdom,0
+SP-00575,1,132.21,5,3,0,3.6,0,20,Enterprise,Paid,Germany,0
+SP-00576,23,57.79,8,5,3,2.9,0,7,Professional,Referral,Portugal,0
+SP-00577,56,52.46,8,2,3,2.6,2,3,Basic,Partner,Portugal,0
+SP-00578,32,80.62,10,3,3,2.9,0,9,Professional,Organic,Germany,1
+SP-00579,54,72.79,10,1,0,4.6,2,10,Basic,Paid,Germany,0
+SP-00580,7,104.03,11,4,1,4.4,0,8,Basic,Referral,United Kingdom,0
+SP-00581,6,86.12,11,3,3,3.1,2,4,Basic,Paid,United Kingdom,0
+SP-00582,51,75.35,7,3,1,3.9,0,11,Basic,Paid,Germany,0
+SP-00583,7,43.22,6,1,0,4.4,2,3,Professional,Organic,United Kingdom,0
+SP-00584,4,111.73,6,5,2,2.2,0,11,Professional,Paid,Germany,1
+SP-00585,25,41.77,6,3,1,5.0,1,11,Basic,Organic,Germany,0
+SP-00586,56,132.4,8,3,2,4.6,0,30,Enterprise,Paid,Germany,0
+SP-00587,42,35.71,8,4,0,4.4,0,14,Basic,Referral,Germany,0
+SP-00588,6,40.83,11,1,2,4.8,0,3,Enterprise,Organic,Germany,0
+SP-00589,51,57.68,9,5,1,2.2,1,17,Professional,Referral,United Kingdom,0
+SP-00590,51,70.1,12,3,2,3.6,0,34,Basic,Referral,Germany,0
+SP-00591,49,64.2,5,2,0,4.8,1,7,Professional,Organic,Germany,0
+SP-00592,55,69.98,11,1,1,3.8,0,11,Basic,Paid,United Kingdom,0
+SP-00593,15,95.03,9,1,0,4.4,0,10,Professional,Organic,Portugal,0
+SP-00594,59,58.23,9,2,2,5.0,0,12,Professional,Organic,Germany,0
+SP-00595,20,95.41,6,2,4,4.4,1,12,Basic,Organic,United Kingdom,0
+SP-00596,49,29.87,9,5,1,3.6,0,11,Professional,Partner,Germany,0
+SP-00597,35,57.33,8,3,1,4.3,1,8,Professional,Organic,Portugal,0
+SP-00598,47,40.05,13,4,1,2.5,2,10,Basic,Paid,Germany,0
+SP-00599,38,131.74,11,1,1,4.2,1,13,Professional,Paid,Germany,0
+SP-00600,39,61.42,5,6,1,4.4,1,14,Enterprise,Paid,Germany,0
+SP-00601,37,108.77,5,5,1,3.9,0,16,Basic,Referral,Germany,0
+SP-00602,47,37.32,4,3,1,4.7,0,27,Basic,Referral,United Kingdom,0
+SP-00603,45,155.13,8,2,1,4.0,0,19,Basic,Organic,Portugal,0
+SP-00604,9,88.23,11,3,2,3.9,0,14,Professional,Paid,United Kingdom,0
+SP-00605,50,188.98,10,1,1,5.0,0,10,Enterprise,Referral,Germany,0
+SP-00606,33,84.01,11,3,2,3.0,0,43,Professional,Organic,Portugal,1
+SP-00607,20,43.43,8,1,3,4.9,0,3,Professional,Organic,Germany,0
+SP-00608,31,54.42,9,4,1,4.9,0,15,Basic,Organic,United Kingdom,0
+SP-00609,59,76.36,9,5,1,4.5,1,21,Professional,Organic,Germany,0
+SP-00610,52,55.28,6,1,0,3.5,1,13,Basic,Referral,United Kingdom,0
+SP-00611,51,126.12,12,3,1,4.1,0,7,Basic,Partner,Germany,0
+SP-00612,28,87.11,3,1,1,3.2,0,17,Professional,Partner,Portugal,1
+SP-00613,48,55.56,4,5,1,3.4,1,5,Professional,Organic,Germany,0
+SP-00614,24,117.82,10,6,2,3.9,1,21,Professional,Referral,United Kingdom,0
+SP-00615,42,72.12,5,4,1,3.1,0,5,Professional,Organic,Germany,0
+SP-00616,39,115.52,7,4,1,3.6,0,28,Basic,Paid,Germany,1
+SP-00617,15,67.33,18,4,0,2.9,2,17,Professional,Organic,United Kingdom,0
+SP-00618,16,105.56,11,6,1,4.3,1,13,Professional,Referral,United Kingdom,0
+SP-00619,4,71.06,10,1,0,5.0,2,11,Basic,Referral,Germany,0
+SP-00620,9,126.14,9,4,3,5.0,0,12,Basic,Referral,United Kingdom,0
+SP-00621,27,37.64,7,9,1,3.0,2,6,Enterprise,Organic,United Kingdom,0
+SP-00622,29,48.86,7,2,2,3.1,1,13,Professional,Paid,Germany,0
+SP-00623,10,79.27,5,3,1,3.8,1,9,Enterprise,Organic,Germany,0
+SP-00624,26,62.57,7,2,1,4.5,2,8,Enterprise,Referral,Germany,0
+SP-00625,37,70.14,8,3,2,3.7,1,41,Professional,Partner,Germany,1
+SP-00626,14,110.76,7,4,3,4.7,1,9,Basic,Organic,Germany,0
+SP-00627,21,69.52,8,8,0,4.3,0,10,Professional,Referral,United Kingdom,0
+SP-00628,23,96.86,7,1,0,2.5,2,24,Basic,Referral,United Kingdom,1
+SP-00629,31,57.16,6,4,1,3.9,1,6,Basic,Referral,Germany,0
+SP-00630,22,34.61,8,4,2,2.9,4,28,Professional,Referral,Germany,1
+SP-00631,45,115.21,7,2,2,3.4,2,10,Basic,Paid,Germany,0
+SP-00632,20,170.73,8,5,2,3.6,1,7,Basic,Paid,Germany,0
+SP-00633,27,92.58,11,3,1,4.5,0,2,Basic,Referral,Portugal,0
+SP-00634,23,81.11,7,4,2,3.9,0,26,Professional,Organic,Germany,0
+SP-00635,11,88.46,9,5,3,3.5,0,8,Professional,Organic,Germany,0
+SP-00636,42,145.64,8,3,3,5.0,1,10,Basic,Paid,United Kingdom,0
+SP-00637,15,93.05,8,1,1,3.2,1,10,Professional,Referral,Germany,0
+SP-00638,18,117.63,8,3,1,4.1,1,8,Basic,Organic,Portugal,0
+SP-00639,48,115.38,8,3,0,4.4,1,17,Basic,Paid,United Kingdom,0
+SP-00640,57,130.78,9,4,0,4.0,1,22,Basic,Referral,Portugal,0
+SP-00641,41,80.37,14,3,2,3.2,1,43,Professional,Referral,Germany,1
+SP-00642,55,66.95,6,4,1,3.1,0,29,Basic,Organic,United Kingdom,0
+SP-00643,52,106.07,9,6,5,4.4,2,13,Basic,Partner,Germany,0
+SP-00644,29,126.75,5,5,2,4.7,1,21,Basic,Paid,Germany,0
+SP-00645,47,137.21,12,2,0,3.8,0,35,Professional,Paid,Germany,0
+SP-00646,20,153.55,7,0,1,2.8,0,23,Basic,Organic,United Kingdom,1
+SP-00647,28,121.81,4,4,1,3.9,0,14,Professional,Referral,Germany,0
+SP-00648,33,65.41,5,4,0,5.0,0,17,Basic,Partner,Germany,1
+SP-00649,58,92.54,12,0,0,3.1,0,28,Professional,Partner,Germany,0
+SP-00650,51,89.07,12,3,2,3.6,1,2,Basic,Organic,United Kingdom,0
+SP-00651,30,84.99,7,5,0,3.9,0,11,Basic,Organic,United Kingdom,0
+SP-00652,40,106.16,12,6,2,4.8,0,1,Basic,Referral,United Kingdom,0
+SP-00653,13,77.26,7,4,0,3.5,1,5,Professional,Organic,United Kingdom,0
+SP-00654,49,77.3,3,3,1,4.3,0,1,Basic,Organic,Germany,0
+SP-00655,34,175.41,7,7,1,5.0,1,10,Basic,Referral,Germany,0
+SP-00656,32,82.15,5,2,1,2.7,0,33,Professional,Organic,United Kingdom,0
+SP-00657,46,130.37,8,6,0,2.8,1,26,Enterprise,Paid,Germany,0
+SP-00658,38,133.67,12,1,3,3.8,0,7,Professional,Referral,United Kingdom,0
+SP-00659,5,93.62,6,2,0,4.7,3,17,Enterprise,Organic,Germany,1
+SP-00660,18,78.59,11,2,3,4.2,0,6,Basic,Paid,United Kingdom,0
+SP-00661,11,58.13,10,6,4,4.7,2,13,Professional,Referral,United Kingdom,1
+SP-00662,45,41.53,6,3,1,2.5,0,30,Professional,Partner,Germany,0
+SP-00663,3,109.42,6,4,0,4.2,2,4,Basic,Organic,Portugal,0
+SP-00664,13,100.05,9,6,3,1.6,2,15,Basic,Referral,Germany,0
+SP-00665,36,116.36,12,3,0,5.0,1,21,Basic,Referral,Germany,0
+SP-00666,42,68.74,10,2,3,4.8,0,8,Enterprise,Partner,United Kingdom,0
+SP-00667,31,183.42,3,4,4,3.6,2,15,Professional,Organic,Portugal,1
+SP-00668,52,103.83,9,5,2,2.0,3,6,Basic,Referral,Germany,0
+SP-00669,56,80.84,8,2,0,3.7,3,14,Professional,Organic,Germany,0
+SP-00670,8,33.81,8,5,0,4.8,0,14,Professional,Partner,Germany,0
+SP-00671,58,72.0,13,4,1,4.2,0,4,Basic,Organic,Germany,0
+SP-00672,37,118.75,5,3,2,5.0,0,3,Basic,Referral,United Kingdom,0
+SP-00673,39,151.79,8,7,0,3.7,2,2,Professional,Paid,Portugal,0
+SP-00674,6,86.24,6,2,1,5.0,0,18,Basic,Organic,Germany,0
+SP-00675,38,162.74,10,1,1,2.3,1,16,Basic,Organic,Germany,0
+SP-00676,44,56.31,11,4,2,3.3,1,13,Professional,Referral,United Kingdom,0
+SP-00677,35,101.34,6,4,3,2.9,0,10,Basic,Referral,United Kingdom,0
+SP-00678,6,102.57,6,5,1,4.5,0,22,Professional,Referral,United Kingdom,0
+SP-00679,32,109.8,10,1,0,2.9,0,9,Basic,Organic,United Kingdom,0
+SP-00680,57,91.28,2,5,3,4.7,1,7,Professional,Paid,Portugal,0
+SP-00681,44,98.99,10,1,2,4.4,0,5,Basic,Paid,Germany,0
+SP-00682,9,55.76,8,3,0,4.0,3,12,Professional,Paid,Portugal,0
+SP-00683,58,145.35,7,2,2,3.8,0,14,Basic,Referral,United Kingdom,0
+SP-00684,58,124.79,8,1,2,3.0,1,12,Basic,Referral,Portugal,0
+SP-00685,11,97.33,8,4,1,4.4,0,20,Basic,Paid,United Kingdom,1
+SP-00686,49,126.06,10,4,0,3.5,0,10,Basic,Partner,Portugal,0
+SP-00687,25,147.39,8,1,1,4.5,0,50,Basic,Organic,Portugal,0
+SP-00688,36,109.11,8,4,1,5.0,0,12,Professional,Paid,Germany,0
+SP-00689,27,192.37,12,4,1,3.6,0,8,Professional,Paid,United Kingdom,0
+SP-00690,47,113.01,7,5,1,4.9,1,9,Professional,Paid,United Kingdom,0
+SP-00691,60,59.35,16,2,2,4.0,0,16,Professional,Organic,United Kingdom,0
+SP-00692,48,95.26,9,1,0,4.4,0,42,Basic,Paid,Germany,0
+SP-00693,56,128.2,13,2,2,2.8,0,7,Enterprise,Referral,Germany,0
+SP-00694,57,147.46,8,5,0,3.3,0,19,Basic,Organic,Germany,0
+SP-00695,6,92.1,9,2,1,3.3,1,15,Basic,Referral,United Kingdom,0
+SP-00696,16,57.42,5,2,0,5.0,0,31,Basic,Partner,United Kingdom,0
+SP-00697,44,77.87,10,6,2,3.6,1,7,Basic,Paid,United Kingdom,0
+SP-00698,36,47.32,8,8,0,4.4,1,17,Professional,Organic,Germany,0
+SP-00699,4,118.02,6,2,2,3.8,0,24,Basic,Organic,Portugal,0
+SP-00700,6,71.62,4,1,0,3.6,0,18,Basic,Paid,United Kingdom,0
+SP-00701,32,63.23,9,6,1,2.7,1,22,Basic,Partner,Portugal,1
+SP-00702,37,123.0,13,2,0,2.4,1,9,Basic,Referral,Portugal,0
+SP-00703,11,161.29,7,4,1,3.6,2,15,Professional,Referral,Portugal,0
+SP-00704,11,63.11,5,3,1,3.7,1,27,Basic,Organic,United Kingdom,0
+SP-00705,8,92.36,8,3,1,3.2,0,3,Basic,Organic,Germany,0
+SP-00706,34,79.25,11,4,3,4.0,0,10,Professional,Referral,United Kingdom,0
+SP-00707,1,150.46,7,4,0,5.0,0,6,Professional,Referral,Germany,0
+SP-00708,35,83.11,9,4,2,5.0,0,6,Enterprise,Referral,Portugal,0
+SP-00709,29,55.2,7,4,1,3.9,2,15,Basic,Organic,United Kingdom,0
+SP-00710,28,84.79,5,3,4,3.9,0,15,Professional,Organic,United Kingdom,0
+SP-00711,41,136.68,4,6,1,4.4,1,10,Basic,Organic,United Kingdom,0
+SP-00712,32,77.3,11,4,2,4.0,1,14,Professional,Paid,United Kingdom,0
+SP-00713,44,65.87,2,1,1,4.4,2,12,Professional,Organic,United Kingdom,0
+SP-00714,46,81.53,7,6,2,4.1,2,3,Basic,Paid,Germany,0
+SP-00715,56,55.93,9,2,1,3.9,1,4,Basic,Organic,Germany,0
+SP-00716,48,79.21,8,2,1,3.3,1,19,Basic,Organic,Portugal,0
+SP-00717,32,67.96,9,4,0,4.1,0,5,Basic,Organic,United Kingdom,0
+SP-00718,30,208.28,8,5,1,2.0,1,10,Professional,Referral,Germany,0
+SP-00719,15,36.72,6,5,0,4.0,0,16,Basic,Organic,Germany,0
+SP-00720,36,59.25,8,3,0,2.2,1,15,Professional,Referral,Germany,0
+SP-00721,9,65.85,10,1,1,4.1,0,7,Professional,Referral,Portugal,1
+SP-00722,56,56.09,5,1,3,3.1,2,12,Basic,Paid,Portugal,1
+SP-00723,51,101.77,7,4,0,4.9,2,9,Basic,Paid,Germany,0
+SP-00724,8,62.64,11,1,1,3.9,3,11,Basic,Referral,Germany,0
+SP-00725,48,45.29,12,2,0,3.8,1,30,Basic,Organic,Germany,0
+SP-00726,8,88.89,4,3,3,4.2,1,17,Enterprise,Paid,Germany,0
+SP-00727,44,75.43,10,2,1,3.1,2,11,Enterprise,Referral,Germany,0
+SP-00728,6,63.87,4,4,2,4.7,0,13,Basic,Paid,United Kingdom,0
+SP-00729,30,148.8,12,6,0,4.4,0,1,Basic,Partner,Portugal,0
+SP-00730,40,103.22,9,3,1,3.4,0,57,Professional,Organic,Germany,1
+SP-00731,44,98.35,9,1,0,3.0,3,27,Professional,Referral,Germany,0
+SP-00732,26,104.2,8,3,1,3.5,1,9,Professional,Organic,United Kingdom,0
+SP-00733,56,101.94,6,9,0,3.7,0,2,Professional,Referral,Germany,0
+SP-00734,47,77.05,7,2,1,2.9,0,9,Basic,Referral,Germany,0
+SP-00735,13,62.92,6,2,1,3.4,2,24,Enterprise,Partner,Germany,0
+SP-00736,41,89.72,12,2,3,3.3,1,22,Professional,Referral,United Kingdom,0
+SP-00737,44,76.45,9,2,2,3.6,1,12,Professional,Referral,Germany,0
+SP-00738,21,36.53,8,2,2,3.6,0,37,Basic,Organic,United Kingdom,0
+SP-00739,45,54.09,5,2,0,4.2,2,11,Basic,Organic,Portugal,0
+SP-00740,54,72.44,3,0,1,3.8,1,10,Basic,Paid,Germany,1
+SP-00741,50,124.14,14,3,2,4.1,2,16,Enterprise,Organic,United Kingdom,0
+SP-00742,46,89.88,6,6,1,4.0,0,7,Professional,Referral,Portugal,0
+SP-00743,39,58.33,8,4,4,3.6,1,8,Basic,Paid,United Kingdom,0
+SP-00744,17,52.19,7,3,1,4.3,0,19,Basic,Paid,Germany,0
+SP-00745,48,135.59,8,2,4,1.6,0,6,Basic,Organic,Germany,0
+SP-00746,22,78.55,11,1,0,3.5,0,16,Professional,Referral,United Kingdom,0
+SP-00747,32,24.5,5,2,2,3.3,1,23,Enterprise,Paid,Germany,1
+SP-00748,19,80.66,9,4,1,3.9,2,9,Basic,Organic,Portugal,1
+SP-00749,19,112.72,2,4,2,3.3,0,10,Basic,Organic,Portugal,0
+SP-00750,10,51.54,11,2,1,4.2,0,13,Basic,Referral,Portugal,0
+SP-00751,58,87.02,8,1,4,4.4,1,6,Professional,Referral,Portugal,0
+SP-00752,9,90.49,6,2,1,2.7,0,9,Professional,Referral,Portugal,1
+SP-00753,6,52.8,5,6,1,4.0,2,3,Basic,Partner,Portugal,0
+SP-00754,57,140.97,11,3,0,2.8,0,5,Enterprise,Paid,United Kingdom,0
+SP-00755,34,91.15,4,6,3,4.2,0,11,Professional,Partner,Germany,0
+SP-00756,27,72.29,8,1,2,3.4,0,15,Basic,Partner,Germany,0
+SP-00757,45,78.77,6,1,0,3.2,2,16,Basic,Organic,Germany,0
+SP-00758,23,48.75,6,3,1,2.4,1,7,Professional,Organic,Germany,1
+SP-00759,8,47.94,7,1,2,3.7,1,7,Professional,Paid,Portugal,0
+SP-00760,44,69.48,5,3,0,2.9,1,8,Professional,Partner,Portugal,0
+SP-00761,11,71.29,11,3,3,2.6,0,12,Professional,Paid,Germany,0
+SP-00762,34,76.6,11,4,1,3.9,1,5,Basic,Organic,Portugal,0
+SP-00763,57,146.41,10,2,0,4.6,1,3,Basic,Organic,United Kingdom,0
+SP-00764,57,110.13,6,5,1,4.1,1,14,Basic,Partner,United Kingdom,0
+SP-00765,22,38.76,7,5,0,2.7,1,8,Basic,Organic,Portugal,0
+SP-00766,47,134.27,6,5,0,3.7,1,16,Professional,Partner,Portugal,1
+SP-00767,37,69.26,7,3,3,4.3,2,38,Enterprise,Referral,United Kingdom,0
+SP-00768,29,114.65,12,7,1,3.7,1,8,Basic,Partner,United Kingdom,0
+SP-00769,9,71.58,3,2,2,4.1,2,16,Basic,Organic,Germany,1
+SP-00770,23,88.71,10,1,0,3.5,0,2,Professional,Partner,Germany,0
+SP-00771,40,50.23,12,4,1,3.5,1,9,Professional,Referral,United Kingdom,0
+SP-00772,60,97.01,4,4,2,3.3,2,13,Basic,Paid,Portugal,0
+SP-00773,1,120.25,6,4,0,4.3,0,1,Professional,Organic,United Kingdom,0
+SP-00774,44,41.62,7,2,2,4.3,0,28,Professional,Organic,United Kingdom,0
+SP-00775,51,121.05,6,1,3,3.4,1,6,Professional,Organic,Germany,1
+SP-00776,58,62.81,5,1,1,4.4,1,21,Enterprise,Paid,Germany,0
+SP-00777,26,166.89,3,2,0,2.7,0,17,Professional,Organic,United Kingdom,0
+SP-00778,8,115.56,13,0,1,3.7,1,32,Professional,Paid,Portugal,1
+SP-00779,17,107.07,3,6,2,2.7,2,2,Professional,Organic,United Kingdom,0
+SP-00780,52,78.96,7,7,2,2.9,2,14,Professional,Paid,Germany,0
+SP-00781,53,225.71,9,3,1,2.7,0,11,Basic,Organic,Portugal,0
+SP-00782,39,69.44,5,6,4,3.3,1,1,Basic,Partner,Germany,1
+SP-00783,8,54.6,9,1,1,4.3,0,10,Professional,Organic,United Kingdom,0
+SP-00784,8,63.73,7,7,0,3.7,1,10,Basic,Partner,Germany,0
+SP-00785,29,129.56,6,2,2,3.3,2,4,Enterprise,Referral,Portugal,0
+SP-00786,36,88.0,8,3,2,3.7,1,10,Basic,Organic,Germany,0
+SP-00787,2,82.62,14,8,1,2.2,0,9,Professional,Partner,United Kingdom,0
+SP-00788,42,69.87,5,5,0,4.3,0,8,Basic,Organic,Germany,0
+SP-00789,33,80.83,7,4,1,2.0,2,15,Professional,Paid,Germany,0
+SP-00790,1,67.88,9,8,0,3.2,0,19,Professional,Referral,Germany,0
+SP-00791,6,111.36,5,1,1,3.7,2,6,Basic,Paid,Germany,0
+SP-00792,28,75.88,6,1,1,4.2,0,11,Basic,Organic,Portugal,0
+SP-00793,44,64.22,9,2,3,4.0,1,32,Basic,Organic,United Kingdom,0
+SP-00794,50,124.88,7,2,2,3.8,1,11,Basic,Partner,Portugal,0
+SP-00795,26,55.31,10,6,3,5.0,0,6,Basic,Organic,Portugal,0
+SP-00796,18,88.52,6,4,0,5.0,1,5,Basic,Paid,Germany,0
+SP-00797,59,36.43,8,5,2,3.8,2,17,Professional,Partner,Germany,0
+SP-00798,28,46.37,8,3,5,3.7,1,7,Basic,Organic,Germany,0
+SP-00799,19,72.48,7,3,2,3.7,0,6,Basic,Organic,Germany,0
+SP-00800,27,67.36,9,2,0,3.3,0,16,Basic,Organic,Germany,0
+SP-00801,1,67.32,7,2,1,4.1,1,4,Professional,Partner,Germany,0
+SP-00802,19,116.01,8,3,2,4.8,2,15,Basic,Partner,Germany,1
+SP-00803,31,118.91,9,5,2,1.8,0,5,Basic,Partner,Germany,0
+SP-00804,56,95.73,14,1,0,3.7,1,6,Basic,Referral,Germany,0
+SP-00805,45,54.11,8,5,1,5.0,1,3,Basic,Referral,Germany,0
+SP-00806,47,80.57,7,3,2,4.1,1,6,Professional,Partner,United Kingdom,0
+SP-00807,33,177.36,5,0,1,4.1,2,24,Enterprise,Partner,Germany,0
+SP-00808,7,215.45,8,7,1,2.5,3,53,Professional,Organic,Germany,1
+SP-00809,24,125.4,11,3,0,4.4,1,10,Professional,Organic,United Kingdom,0
+SP-00810,60,54.97,5,3,3,4.6,2,9,Basic,Referral,Portugal,0
+SP-00811,3,80.86,6,4,0,4.0,1,19,Basic,Paid,Germany,0
+SP-00812,53,93.09,8,2,2,3.3,1,16,Professional,Referral,Germany,1
+SP-00813,42,87.3,8,2,3,4.2,1,22,Professional,Organic,Germany,0
+SP-00814,18,131.05,14,4,0,3.0,1,15,Enterprise,Paid,Germany,0
+SP-00815,47,113.85,4,3,1,2.9,0,24,Enterprise,Organic,Germany,0
+SP-00816,51,53.77,5,8,0,4.4,3,14,Professional,Organic,Germany,0
+SP-00817,3,64.86,4,5,0,4.7,0,32,Basic,Paid,Germany,0
+SP-00818,7,125.18,5,3,2,3.2,1,19,Enterprise,Partner,Germany,0
+SP-00819,40,148.53,5,3,0,2.9,1,30,Basic,Referral,Portugal,1
+SP-00820,60,93.58,8,4,3,3.1,1,9,Basic,Partner,Germany,1
+SP-00821,2,156.58,7,1,1,4.0,0,10,Professional,Partner,Germany,0
+SP-00822,40,89.16,10,5,3,2.9,0,13,Professional,Organic,United Kingdom,0
+SP-00823,9,57.62,15,6,0,4.8,1,14,Basic,Organic,Germany,0
+SP-00824,40,109.49,9,3,2,3.4,1,11,Professional,Organic,Germany,0
+SP-00825,38,258.77,9,2,1,4.1,0,12,Professional,Referral,Germany,0
+SP-00826,6,48.91,11,2,2,3.2,0,9,Basic,Paid,United Kingdom,1
+SP-00827,41,153.98,7,3,2,4.3,0,13,Professional,Paid,Portugal,0
+SP-00828,54,106.88,7,3,3,4.3,0,8,Basic,Referral,United Kingdom,0
+SP-00829,52,63.27,8,3,2,2.5,0,24,Basic,Organic,Portugal,0
+SP-00830,2,36.76,6,5,1,3.3,0,18,Basic,Organic,United Kingdom,0
+SP-00831,15,31.57,13,5,2,3.7,2,13,Professional,Referral,Germany,0
+SP-00832,15,67.26,4,4,1,3.4,1,3,Basic,Organic,United Kingdom,0
+SP-00833,28,99.59,13,2,0,4.5,0,2,Professional,Organic,United Kingdom,0
+SP-00834,9,121.27,8,4,0,3.3,0,12,Professional,Partner,Germany,0
+SP-00835,52,133.29,10,5,1,4.4,1,5,Basic,Referral,Germany,0
+SP-00836,47,95.9,10,4,2,4.2,3,17,Professional,Referral,Germany,0
+SP-00837,49,89.74,11,5,3,3.7,0,1,Basic,Organic,Germany,0
+SP-00838,12,73.48,10,1,0,4.4,1,35,Professional,Partner,United Kingdom,0
+SP-00839,1,100.62,8,5,1,2.6,1,4,Professional,Partner,United Kingdom,0
+SP-00840,55,63.67,4,5,1,3.8,0,22,Enterprise,Referral,Germany,0
+SP-00841,18,49.95,12,6,2,3.2,1,9,Enterprise,Organic,Germany,0
+SP-00842,40,87.42,14,6,1,3.7,0,3,Enterprise,Paid,United Kingdom,0
+SP-00843,55,117.32,5,2,3,3.4,1,10,Basic,Referral,Germany,0
+SP-00844,3,45.74,13,5,1,3.8,0,28,Basic,Paid,Germany,0
+SP-00845,1,67.27,10,3,1,3.8,0,9,Professional,Referral,United Kingdom,0
+SP-00846,1,86.07,13,7,1,3.9,1,26,Professional,Partner,United Kingdom,0
+SP-00847,10,85.31,4,8,0,3.9,2,11,Basic,Paid,United Kingdom,0
+SP-00848,4,105.68,7,0,1,4.3,3,18,Basic,Referral,Germany,0
+SP-00849,50,175.09,14,3,2,2.8,1,7,Professional,Paid,Portugal,0
+SP-00850,37,31.68,10,6,0,4.2,1,6,Professional,Organic,Portugal,0
+SP-00851,59,178.61,13,5,2,2.6,2,4,Professional,Referral,Portugal,0
+SP-00852,49,171.6,11,3,0,1.6,0,14,Basic,Referral,Germany,0
+SP-00853,58,122.13,7,2,2,5.0,1,16,Basic,Referral,Germany,0
+SP-00854,15,92.84,12,1,0,3.0,0,10,Enterprise,Paid,Germany,0
+SP-00855,18,64.19,8,3,1,3.4,0,7,Basic,Organic,Germany,0
+SP-00856,51,121.49,4,5,1,2.3,1,31,Professional,Organic,Germany,0
+SP-00857,15,94.86,7,5,1,3.4,0,11,Enterprise,Referral,United Kingdom,0
+SP-00858,4,74.14,10,4,1,4.0,1,15,Enterprise,Organic,Portugal,0
+SP-00859,41,120.14,9,5,2,4.0,1,8,Basic,Organic,United Kingdom,0
+SP-00860,49,129.09,6,3,2,2.8,0,3,Professional,Paid,Germany,1
+SP-00861,59,25.69,16,4,0,3.4,0,6,Professional,Referral,Germany,0
+SP-00862,56,148.02,13,4,0,4.1,0,11,Basic,Partner,Germany,0
+SP-00863,8,61.27,14,7,0,4.0,0,3,Basic,Paid,Germany,0
+SP-00864,47,139.67,10,0,1,3.9,2,17,Basic,Referral,Germany,0
+SP-00865,51,74.72,10,5,1,4.4,1,11,Basic,Organic,Germany,0
+SP-00866,42,92.95,15,3,3,3.7,0,10,Basic,Organic,Germany,0
+SP-00867,50,100.65,6,5,4,4.9,1,2,Basic,Referral,Germany,0
+SP-00868,51,134.73,6,2,2,3.6,0,11,Professional,Referral,Portugal,0
+SP-00869,27,114.88,8,3,0,4.4,0,13,Enterprise,Referral,United Kingdom,0
+SP-00870,3,73.62,9,4,0,4.4,1,5,Professional,Referral,Portugal,0
+SP-00871,28,33.18,4,3,4,2.5,0,8,Professional,Organic,United Kingdom,0
+SP-00872,13,105.15,4,4,1,4.2,0,12,Basic,Referral,Germany,0
+SP-00873,7,91.33,6,3,1,3.3,0,6,Professional,Organic,Germany,0
+SP-00874,8,48.65,9,8,1,3.0,0,7,Basic,Referral,United Kingdom,0
+SP-00875,42,95.94,14,8,2,3.5,0,6,Basic,Referral,Germany,0
+SP-00876,31,85.61,7,2,3,3.9,1,16,Professional,Paid,United Kingdom,0
+SP-00877,33,147.38,9,6,0,2.5,1,23,Enterprise,Paid,Germany,0
+SP-00878,45,184.1,10,6,3,3.8,2,13,Basic,Paid,United Kingdom,0
+SP-00879,33,127.7,10,6,3,3.6,0,9,Professional,Paid,Germany,0
+SP-00880,38,83.52,8,4,2,4.6,2,18,Basic,Organic,Germany,0
+SP-00881,6,88.9,3,4,0,3.3,1,3,Professional,Partner,United Kingdom,0
+SP-00882,52,60.37,8,3,2,4.8,0,11,Basic,Referral,Germany,0
+SP-00883,27,65.16,6,2,3,4.1,1,24,Basic,Paid,Portugal,1
+SP-00884,10,81.47,8,4,2,3.8,0,7,Basic,Organic,United Kingdom,0
+SP-00885,49,77.9,13,4,0,4.8,0,15,Basic,Organic,United Kingdom,0
+SP-00886,45,47.52,9,0,1,5.0,2,19,Professional,Partner,Germany,1
+SP-00887,4,148.05,5,1,0,3.6,0,12,Professional,Organic,United Kingdom,0
+SP-00888,12,157.18,8,3,2,3.2,1,6,Professional,Referral,Germany,0
+SP-00889,1,145.96,11,5,4,4.1,0,7,Enterprise,Organic,Germany,0
+SP-00890,17,159.55,1,4,2,2.7,3,16,Basic,Organic,United Kingdom,1
+SP-00891,6,208.11,11,1,0,2.8,0,16,Professional,Partner,Germany,0
+SP-00892,43,60.84,7,2,1,4.8,2,12,Basic,Paid,United Kingdom,0
+SP-00893,32,204.0,7,4,1,4.3,0,2,Basic,Paid,United Kingdom,0
+SP-00894,59,73.43,11,2,1,3.1,1,4,Professional,Organic,Portugal,1
+SP-00895,45,111.89,10,4,2,5.0,2,10,Enterprise,Organic,United Kingdom,0
+SP-00896,37,42.93,7,4,3,2.7,0,6,Basic,Paid,Germany,0
+SP-00897,31,69.48,6,2,2,4.3,0,4,Professional,Organic,Portugal,0
+SP-00898,4,129.28,10,8,1,3.2,1,5,Professional,Organic,Germany,0
+SP-00899,5,114.2,13,3,2,5.0,1,41,Basic,Referral,Germany,0
+SP-00900,37,72.83,13,4,1,3.4,1,13,Professional,Organic,Germany,0
+SP-00901,1,88.89,10,2,3,3.6,0,16,Professional,Partner,Germany,1
+SP-00902,3,66.41,6,3,3,2.4,0,9,Basic,Referral,Germany,0
+SP-00903,14,129.13,11,4,1,5.0,0,21,Professional,Organic,United Kingdom,0
+SP-00904,54,152.41,3,1,1,3.3,1,15,Enterprise,Referral,Portugal,0
+SP-00905,28,60.96,7,4,0,4.2,0,12,Professional,Referral,Germany,0
+SP-00906,43,85.07,12,4,0,3.8,1,13,Basic,Referral,Germany,0
+SP-00907,25,46.74,5,2,1,3.4,1,6,Basic,Partner,Germany,0
+SP-00908,11,94.72,10,2,2,2.0,2,6,Basic,Referral,United Kingdom,0
+SP-00909,23,106.87,15,0,0,3.6,0,13,Basic,Organic,Germany,1
+SP-00910,6,98.02,5,7,1,3.6,0,19,Basic,Referral,Germany,0
+SP-00911,47,103.29,7,2,1,4.1,0,24,Professional,Paid,United Kingdom,0
+SP-00912,12,81.26,11,4,0,5.0,2,17,Professional,Organic,United Kingdom,0
+SP-00913,23,82.08,12,4,2,4.3,2,26,Professional,Partner,Germany,0
+SP-00914,59,80.47,9,2,0,4.5,3,24,Professional,Organic,United Kingdom,0
+SP-00915,36,68.59,9,4,0,3.6,1,10,Basic,Organic,Germany,0
+SP-00916,28,72.2,5,3,0,2.7,0,30,Enterprise,Partner,United Kingdom,1
+SP-00917,33,104.79,7,2,2,3.6,1,11,Enterprise,Organic,United Kingdom,1
+SP-00918,48,148.12,14,2,1,3.2,0,11,Basic,Organic,Germany,0
+SP-00919,16,56.49,9,5,0,3.8,0,16,Basic,Organic,Portugal,0
+SP-00920,39,81.95,4,2,0,3.4,1,24,Professional,Paid,United Kingdom,0
+SP-00921,53,51.58,7,3,0,2.5,2,7,Professional,Organic,Portugal,0
+SP-00922,35,69.12,7,4,1,4.8,0,11,Enterprise,Paid,Germany,0
+SP-00923,27,74.01,9,2,0,3.7,0,10,Basic,Paid,Portugal,0
+SP-00924,9,91.89,15,4,1,3.5,0,5,Professional,Paid,United Kingdom,0
+SP-00925,15,90.81,8,4,0,2.9,0,7,Professional,Partner,Germany,0
+SP-00926,57,84.75,6,6,0,3.4,0,5,Professional,Paid,United Kingdom,0
+SP-00927,33,101.17,8,2,0,3.1,1,16,Basic,Organic,Portugal,0
+SP-00928,19,58.76,6,3,0,2.8,0,9,Professional,Partner,Portugal,0
+SP-00929,26,92.22,14,2,1,3.9,2,8,Basic,Organic,Germany,0
+SP-00930,35,115.6,6,1,0,3.4,1,15,Basic,Paid,Germany,0
+SP-00931,33,58.46,4,3,1,4.4,2,15,Professional,Referral,Germany,0
+SP-00932,42,39.65,4,2,1,3.5,2,24,Basic,Organic,Portugal,0
+SP-00933,16,128.68,9,4,0,3.9,1,2,Basic,Paid,Portugal,0
+SP-00934,39,52.27,11,4,1,3.9,0,21,Basic,Paid,Germany,0
+SP-00935,27,67.7,4,1,0,4.1,1,5,Professional,Partner,Germany,0
+SP-00936,57,114.19,4,1,2,3.1,0,14,Basic,Referral,United Kingdom,0
+SP-00937,10,57.22,10,1,0,4.5,0,5,Enterprise,Paid,Germany,0
+SP-00938,9,124.86,6,2,1,2.9,1,17,Professional,Referral,Germany,1
+SP-00939,28,63.61,2,2,0,3.8,0,7,Enterprise,Referral,United Kingdom,0
+SP-00940,31,60.37,12,2,1,2.8,0,15,Basic,Organic,Germany,0
+SP-00941,42,51.69,10,1,2,3.7,1,6,Professional,Referral,United Kingdom,0
+SP-00942,25,63.85,6,6,2,4.5,1,3,Enterprise,Paid,Portugal,0
+SP-00943,55,107.7,8,3,2,4.2,2,6,Enterprise,Paid,Germany,0
+SP-00944,29,67.7,6,2,2,4.6,0,15,Professional,Paid,United Kingdom,0
+SP-00945,8,128.9,9,2,1,3.6,0,9,Enterprise,Partner,United Kingdom,0
+SP-00946,8,86.19,8,5,1,4.5,0,19,Basic,Paid,United Kingdom,0
+SP-00947,59,89.37,5,6,0,3.2,1,10,Basic,Paid,Portugal,0
+SP-00948,9,59.61,6,5,1,3.4,1,13,Basic,Paid,Germany,0
+SP-00949,57,137.1,10,4,0,3.9,0,3,Basic,Referral,Portugal,0
+SP-00950,17,116.0,6,2,0,4.5,2,15,Enterprise,Referral,United Kingdom,0
+SP-00951,6,114.61,14,5,2,3.4,1,20,Basic,Partner,Germany,0
+SP-00952,19,79.32,11,4,2,4.4,1,2,Basic,Referral,United Kingdom,0
+SP-00953,37,49.1,8,3,0,4.0,0,4,Basic,Referral,United Kingdom,0
+SP-00954,26,91.37,7,4,2,4.1,1,33,Professional,Organic,Germany,0
+SP-00955,48,105.77,9,4,1,3.1,1,13,Basic,Organic,Portugal,0
+SP-00956,37,106.22,13,1,2,3.5,0,9,Professional,Paid,Germany,0
+SP-00957,25,100.26,4,2,2,3.7,1,8,Enterprise,Partner,Germany,0
+SP-00958,39,98.52,8,5,5,4.1,0,1,Professional,Paid,United Kingdom,0
+SP-00959,59,63.49,16,6,2,3.2,0,17,Basic,Paid,United Kingdom,0
+SP-00960,25,64.78,6,4,0,2.8,0,9,Basic,Partner,United Kingdom,0
+SP-00961,10,51.89,9,3,3,2.1,0,12,Basic,Referral,United Kingdom,1
+SP-00962,25,129.54,9,5,1,4.4,0,20,Basic,Organic,United Kingdom,1
+SP-00963,51,180.34,12,0,2,4.6,1,10,Professional,Paid,United Kingdom,0
+SP-00964,14,256.51,10,4,0,2.2,0,23,Basic,Partner,Germany,0
+SP-00965,57,94.03,7,4,1,3.9,1,3,Basic,Referral,Germany,0
+SP-00966,36,98.63,8,8,0,3.5,3,14,Professional,Paid,Germany,0
+SP-00967,37,80.65,8,5,0,4.8,0,7,Professional,Partner,Portugal,0
+SP-00968,20,93.41,7,3,1,3.6,1,15,Professional,Organic,Germany,0
+SP-00969,56,57.13,8,6,0,4.2,1,9,Professional,Referral,United Kingdom,0
+SP-00970,3,79.96,7,8,3,3.5,0,24,Enterprise,Referral,United Kingdom,0
+SP-00971,18,60.58,8,1,0,3.3,0,18,Professional,Referral,Germany,0
+SP-00972,26,75.68,8,4,1,4.4,1,8,Basic,Organic,Germany,0
+SP-00973,29,62.7,6,1,3,4.7,2,7,Basic,Referral,Germany,0
+SP-00974,29,105.8,7,3,4,2.8,0,14,Professional,Paid,United Kingdom,0
+SP-00975,9,111.4,9,4,1,4.7,3,10,Basic,Paid,Germany,0
+SP-00976,14,97.36,9,2,0,3.0,1,13,Enterprise,Partner,Germany,0
+SP-00977,6,64.89,9,1,1,1.9,0,16,Basic,Paid,Portugal,0
+SP-00978,35,50.44,10,4,1,3.8,1,20,Professional,Paid,United Kingdom,1
+SP-00979,22,111.93,11,4,0,4.2,0,9,Enterprise,Organic,Germany,0
+SP-00980,34,86.0,5,3,0,2.6,1,6,Basic,Organic,Germany,0
+SP-00981,36,39.02,6,1,1,2.2,0,24,Basic,Referral,Germany,0
+SP-00982,43,91.06,3,2,2,3.4,2,20,Basic,Paid,Germany,1
+SP-00983,33,98.94,7,6,1,3.3,1,15,Professional,Referral,Germany,0
+SP-00984,39,43.9,10,3,5,4.9,0,17,Professional,Paid,Portugal,0
+SP-00985,36,106.57,8,3,1,3.8,1,11,Enterprise,Paid,United Kingdom,0
+SP-00986,40,46.54,5,0,1,4.4,0,16,Basic,Organic,Portugal,0
+SP-00987,37,62.01,10,2,2,4.0,0,27,Professional,Organic,United Kingdom,0
+SP-00988,19,46.66,6,1,0,5.0,1,5,Professional,Paid,Germany,0
+SP-00989,15,59.38,6,2,2,3.1,0,6,Basic,Referral,United Kingdom,0
+SP-00990,48,50.62,5,5,2,3.7,0,18,Enterprise,Organic,Germany,0
+SP-00991,21,129.19,5,7,0,2.5,1,1,Enterprise,Referral,Germany,1
+SP-00992,33,77.55,9,4,1,4.4,0,28,Professional,Organic,Germany,0
+SP-00993,12,70.82,6,3,1,4.7,1,31,Basic,Referral,Portugal,0
+SP-00994,26,134.44,13,3,1,4.5,0,6,Basic,Partner,United Kingdom,0
+SP-00995,32,131.47,6,5,1,3.7,1,6,Basic,Organic,United Kingdom,0
+SP-00996,38,73.16,8,6,1,2.6,1,1,Basic,Referral,United Kingdom,0
+SP-00997,32,96.57,7,3,2,3.7,0,6,Professional,Paid,Germany,0
+SP-00998,22,66.94,10,2,0,3.3,0,11,Basic,Referral,United Kingdom,0
+SP-00999,58,82.45,8,1,0,4.5,2,2,Basic,Referral,Germany,0
+SP-01000,31,54.25,4,1,0,3.5,1,21,Basic,Referral,Germany,0
+SP-01001,49,102.44,5,3,0,3.4,2,20,Basic,Partner,Germany,1
+SP-01002,45,136.72,10,1,0,5.0,0,13,Basic,Partner,Germany,0
+SP-01003,34,126.42,12,7,1,4.4,0,7,Basic,Organic,United Kingdom,0
+SP-01004,54,87.67,9,2,2,4.7,0,7,Professional,Partner,United Kingdom,0
+SP-01005,8,37.61,7,2,1,3.4,1,17,Basic,Organic,United Kingdom,1
+SP-01006,56,65.68,8,5,1,2.9,1,25,Basic,Organic,Portugal,0
+SP-01007,52,82.4,5,2,3,4.7,0,7,Basic,Paid,Germany,0
+SP-01008,31,48.02,5,2,0,5.0,0,25,Basic,Partner,United Kingdom,0
+SP-01009,45,44.8,9,1,0,2.8,0,15,Basic,Organic,Germany,0
+SP-01010,32,152.89,10,3,0,3.4,1,26,Enterprise,Organic,Germany,1
+SP-01011,17,120.15,7,4,0,3.1,0,9,Basic,Organic,Portugal,0
+SP-01012,48,105.76,6,6,0,4.2,0,4,Enterprise,Referral,United Kingdom,0
+SP-01013,15,114.27,10,3,4,4.7,1,26,Enterprise,Referral,United Kingdom,1
+SP-01014,19,51.28,7,4,1,3.5,0,7,Enterprise,Referral,Germany,0
+SP-01015,32,58.57,13,3,3,3.5,0,22,Enterprise,Organic,Portugal,0
+SP-01016,51,94.15,9,2,2,2.2,0,1,Professional,Organic,United Kingdom,0
+SP-01017,24,97.22,2,5,0,3.0,1,12,Basic,Paid,Germany,0
+SP-01018,30,46.92,9,1,0,5.0,0,15,Basic,Organic,Germany,0
+SP-01019,3,91.39,6,4,1,4.2,0,13,Professional,Organic,Germany,0
+SP-01020,7,83.03,3,2,1,4.5,1,13,Professional,Referral,Germany,0
+SP-01021,4,124.7,4,2,3,3.5,1,10,Professional,Referral,Germany,0
+SP-01022,5,97.42,6,4,1,3.6,1,10,Basic,Partner,Germany,0
+SP-01023,53,160.53,7,5,3,3.8,1,14,Basic,Organic,Germany,0
+SP-01024,51,73.33,6,6,1,4.1,2,24,Professional,Organic,Germany,0
+SP-01025,50,52.66,7,5,4,4.9,0,7,Professional,Partner,United Kingdom,0
+SP-01026,4,158.66,11,6,0,3.3,0,18,Basic,Paid,United Kingdom,0
+SP-01027,5,99.54,4,3,3,3.7,1,4,Basic,Paid,Germany,0
+SP-01028,17,83.23,10,2,2,3.2,1,16,Enterprise,Organic,Portugal,0
+SP-01029,34,59.46,14,2,3,2.2,1,8,Professional,Referral,Germany,0
+SP-01030,21,73.68,7,5,1,4.5,1,6,Basic,Partner,United Kingdom,0
+SP-01031,30,72.08,7,2,4,5.0,1,14,Professional,Paid,United Kingdom,0
+SP-01032,11,51.73,8,5,1,4.4,0,27,Basic,Paid,United Kingdom,1
+SP-01033,44,33.45,7,7,1,4.0,2,5,Basic,Referral,Germany,0
+SP-01034,19,71.39,6,1,0,5.0,0,4,Basic,Referral,United Kingdom,0
+SP-01035,4,115.5,11,6,1,4.2,2,11,Basic,Organic,Germany,0
+SP-01036,45,141.74,14,3,0,4.4,1,6,Basic,Paid,Germany,0
+SP-01037,55,126.78,8,3,2,3.9,0,12,Basic,Referral,Germany,0
+SP-01038,1,129.92,9,4,2,4.0,1,9,Professional,Organic,Germany,0
+SP-01039,27,54.17,7,3,0,3.7,1,4,Basic,Paid,Germany,0
+SP-01040,50,94.89,4,2,0,4.5,0,7,Professional,Partner,Germany,0
+SP-01041,43,106.11,4,2,1,2.9,1,22,Basic,Referral,Germany,0
+SP-01042,52,108.95,6,3,1,4.1,3,9,Enterprise,Organic,United Kingdom,0
+SP-01043,25,82.47,6,6,0,3.1,1,11,Professional,Paid,United Kingdom,0
+SP-01044,23,90.1,10,2,0,4.2,1,6,Enterprise,Referral,United Kingdom,0
+SP-01045,43,186.05,9,2,2,5.0,2,14,Basic,Referral,United Kingdom,0
+SP-01046,10,125.18,9,4,1,4.4,1,18,Basic,Partner,Germany,0
+SP-01047,15,104.51,11,2,0,4.7,1,12,Basic,Referral,Germany,0
+SP-01048,37,112.61,8,5,3,4.5,0,9,Professional,Organic,United Kingdom,0
+SP-01049,41,70.04,7,3,0,1.9,1,20,Professional,Partner,Germany,0
+SP-01050,8,110.13,14,6,1,3.7,3,11,Professional,Paid,United Kingdom,0
+SP-01051,31,89.61,7,2,1,4.2,1,24,Professional,Organic,United Kingdom,0
+SP-01052,22,119.84,10,7,0,2.1,1,17,Basic,Organic,United Kingdom,0
+SP-01053,31,63.48,8,3,0,3.6,1,9,Basic,Paid,Germany,0
+SP-01054,58,115.74,7,7,2,3.7,1,3,Basic,Referral,Germany,0
+SP-01055,5,74.09,6,0,1,2.8,1,17,Basic,Paid,United Kingdom,1
+SP-01056,60,115.97,9,2,0,3.0,1,24,Professional,Organic,Germany,0
+SP-01057,27,95.14,4,3,3,4.9,0,5,Professional,Organic,Germany,0
+SP-01058,47,86.89,10,6,2,1.0,0,11,Professional,Organic,Germany,0
+SP-01059,26,75.76,3,3,2,4.0,1,17,Basic,Partner,United Kingdom,0
+SP-01060,19,83.38,9,6,0,4.7,1,9,Professional,Organic,Portugal,0
+SP-01061,47,71.46,5,3,2,3.8,0,12,Basic,Paid,United Kingdom,0
+SP-01062,42,75.11,10,5,0,4.9,0,30,Professional,Partner,Germany,0
+SP-01063,9,103.34,8,1,2,3.5,0,14,Basic,Organic,United Kingdom,0
+SP-01064,43,41.42,8,7,2,3.1,1,6,Basic,Partner,Germany,0
+SP-01065,46,115.3,6,6,0,3.8,0,11,Enterprise,Paid,Germany,0
+SP-01066,24,116.12,6,2,0,3.5,0,12,Basic,Organic,Portugal,0
+SP-01067,56,76.7,8,5,4,3.3,1,5,Professional,Partner,Portugal,0
+SP-01068,39,91.08,9,2,0,3.7,0,37,Professional,Paid,United Kingdom,0
+SP-01069,21,56.93,3,6,0,3.2,0,1,Professional,Organic,Germany,0
+SP-01070,1,100.56,16,4,3,3.1,0,3,Professional,Paid,Germany,0
+SP-01071,41,59.8,7,2,2,2.9,2,5,Professional,Referral,Germany,0
+SP-01072,13,26.06,16,2,2,4.1,0,3,Professional,Partner,United Kingdom,0
+SP-01073,46,139.39,8,5,2,3.0,0,2,Basic,Referral,Germany,0
+SP-01074,32,54.39,3,4,2,2.8,0,30,Basic,Paid,Germany,0
+SP-01075,29,82.64,5,4,3,2.9,0,18,Professional,Paid,Portugal,0
+SP-01076,10,92.51,8,2,0,4.0,0,21,Basic,Paid,Portugal,0
+SP-01077,43,103.25,5,2,1,4.3,0,9,Basic,Organic,Germany,0
+SP-01078,10,85.67,9,3,0,4.4,0,25,Basic,Paid,United Kingdom,0
+SP-01079,26,95.89,10,9,1,4.0,0,17,Professional,Partner,Portugal,0
+SP-01080,51,75.95,8,5,0,4.2,0,8,Enterprise,Partner,Portugal,0
+SP-01081,56,44.31,8,3,1,3.8,0,16,Basic,Paid,United Kingdom,0
+SP-01082,60,84.31,9,2,1,4.2,1,4,Basic,Organic,Germany,0
+SP-01083,58,109.16,6,1,0,4.2,0,14,Basic,Partner,United Kingdom,0
+SP-01084,34,55.73,10,3,1,3.2,1,10,Enterprise,Organic,United Kingdom,0
+SP-01085,13,92.9,4,5,0,2.9,0,30,Basic,Paid,Germany,1
+SP-01086,51,174.5,7,3,2,4.9,1,22,Basic,Referral,Portugal,0
+SP-01087,49,82.03,10,2,2,3.9,1,4,Basic,Partner,United Kingdom,0
+SP-01088,60,83.77,6,2,2,4.6,1,6,Basic,Referral,Portugal,0
+SP-01089,40,42.9,9,2,1,2.9,0,39,Professional,Referral,Germany,0
+SP-01090,9,53.09,7,2,3,3.5,0,9,Basic,Paid,United Kingdom,0
+SP-01091,31,60.06,3,1,2,2.7,0,3,Professional,Organic,United Kingdom,0
+SP-01092,27,107.38,14,3,2,4.3,0,18,Basic,Referral,Germany,1
+SP-01093,51,57.26,8,2,3,3.3,1,27,Professional,Paid,Portugal,1
+SP-01094,24,37.37,6,3,1,3.4,0,10,Basic,Organic,United Kingdom,0
+SP-01095,20,99.7,7,3,2,5.0,1,15,Basic,Organic,United Kingdom,0
+SP-01096,5,62.29,4,6,1,4.3,1,11,Professional,Paid,Portugal,1
+SP-01097,51,43.56,9,0,1,4.3,1,18,Enterprise,Partner,United Kingdom,0
+SP-01098,46,112.86,8,0,1,2.8,1,6,Basic,Organic,Germany,0
+SP-01099,3,72.41,11,5,1,2.3,1,13,Professional,Referral,Germany,0
+SP-01100,27,103.57,7,3,1,4.6,1,22,Professional,Organic,United Kingdom,0
+SP-01101,29,42.97,11,1,1,2.0,1,8,Professional,Partner,Germany,1
+SP-01102,29,32.23,13,1,1,3.4,0,21,Professional,Referral,United Kingdom,0
+SP-01103,56,89.28,6,5,1,3.2,0,18,Professional,Referral,Germany,0
+SP-01104,10,52.34,9,6,2,3.1,0,4,Professional,Partner,Portugal,0
+SP-01105,19,88.76,5,2,1,3.4,0,6,Professional,Paid,Portugal,0
+SP-01106,11,89.55,7,4,0,3.0,1,19,Professional,Paid,United Kingdom,0
+SP-01107,15,84.88,10,3,1,2.8,0,6,Basic,Paid,United Kingdom,0
+SP-01108,55,129.48,5,3,1,4.0,0,1,Professional,Referral,Germany,0
+SP-01109,57,239.3,8,2,3,4.7,0,13,Basic,Organic,United Kingdom,0
+SP-01110,3,98.97,7,5,0,2.4,2,12,Professional,Paid,United Kingdom,0
+SP-01111,38,174.43,10,5,2,4.0,0,19,Professional,Referral,United Kingdom,0
+SP-01112,14,41.84,11,2,2,4.2,1,26,Professional,Referral,United Kingdom,0
+SP-01113,12,73.22,14,4,3,4.2,0,12,Basic,Partner,Germany,0
+SP-01114,18,48.43,3,3,2,3.6,1,14,Professional,Paid,United Kingdom,1
+SP-01115,12,64.0,11,5,1,3.3,2,3,Basic,Paid,Germany,0
+SP-01116,30,75.02,6,4,0,4.4,2,9,Professional,Paid,Germany,0
+SP-01117,60,180.98,10,4,5,4.1,1,45,Basic,Referral,Germany,1
+SP-01118,36,86.89,6,3,1,2.3,0,17,Enterprise,Referral,United Kingdom,0
+SP-01119,44,131.55,12,6,0,3.6,2,26,Enterprise,Referral,Germany,0
+SP-01120,30,70.73,11,3,0,3.8,1,9,Enterprise,Organic,United Kingdom,0
+SP-01121,1,67.23,9,3,1,2.9,1,8,Basic,Paid,Portugal,0
+SP-01122,6,42.29,7,6,1,3.6,2,7,Basic,Referral,Germany,0
+SP-01123,17,178.38,7,3,0,4.2,0,21,Professional,Organic,Germany,0
+SP-01124,15,150.22,8,3,1,3.1,1,10,Basic,Partner,Portugal,0
+SP-01125,51,93.3,2,2,3,4.0,1,3,Enterprise,Referral,Portugal,0
+SP-01126,51,76.85,9,3,2,3.0,3,11,Professional,Organic,United Kingdom,0
+SP-01127,52,88.27,10,5,1,2.8,1,8,Enterprise,Paid,United Kingdom,0
+SP-01128,39,47.66,8,1,1,4.3,0,22,Enterprise,Referral,Germany,0
+SP-01129,34,103.48,9,4,2,4.7,2,37,Enterprise,Partner,Portugal,0
+SP-01130,39,144.82,7,1,1,2.9,0,3,Basic,Organic,Portugal,0
+SP-01131,25,147.99,4,1,0,4.6,1,17,Enterprise,Paid,Germany,0
+SP-01132,41,42.98,10,4,0,3.8,0,24,Basic,Organic,Germany,0
+SP-01133,48,131.02,8,0,1,2.0,2,19,Professional,Organic,Germany,0
+SP-01134,46,47.79,5,5,0,2.7,0,8,Professional,Organic,Germany,0
+SP-01135,37,33.05,12,2,1,4.3,0,9,Basic,Organic,Germany,0
+SP-01136,4,133.15,5,4,0,2.5,0,12,Basic,Partner,United Kingdom,0
+SP-01137,44,68.39,2,4,2,3.3,1,7,Professional,Organic,United Kingdom,0
+SP-01138,22,125.12,3,3,3,3.7,0,13,Professional,Referral,Portugal,0
+SP-01139,45,120.36,10,1,1,4.2,0,28,Professional,Referral,Portugal,0
+SP-01140,33,113.9,11,6,4,3.9,1,17,Basic,Organic,Germany,1
+SP-01141,53,87.82,7,4,2,5.0,0,2,Basic,Referral,United Kingdom,0
+SP-01142,21,49.9,13,2,0,3.1,2,11,Professional,Paid,United Kingdom,0
+SP-01143,56,75.09,10,2,0,3.9,1,35,Basic,Paid,United Kingdom,0
+SP-01144,51,149.07,9,1,0,4.2,1,6,Professional,Referral,United Kingdom,0
+SP-01145,20,126.5,5,6,0,4.4,0,19,Professional,Organic,Portugal,0
+SP-01146,29,76.73,8,2,0,4.6,0,4,Enterprise,Referral,Germany,0
+SP-01147,32,76.33,7,2,2,3.5,0,17,Enterprise,Organic,United Kingdom,0
+SP-01148,47,109.62,10,2,1,4.3,0,9,Professional,Organic,Germany,0
+SP-01149,42,90.48,13,4,3,3.1,0,30,Professional,Organic,United Kingdom,0
+SP-01150,52,78.38,9,2,1,3.7,0,30,Professional,Organic,Portugal,0
+SP-01151,23,105.76,9,2,1,4.2,0,3,Basic,Partner,United Kingdom,0
+SP-01152,31,104.29,10,3,3,4.6,0,11,Professional,Referral,Portugal,0
+SP-01153,26,64.72,3,0,2,4.3,0,8,Basic,Organic,Portugal,0
+SP-01154,55,98.01,6,0,3,3.9,1,19,Basic,Referral,United Kingdom,1
+SP-01155,19,101.63,11,3,1,3.7,1,10,Basic,Referral,Germany,0
+SP-01156,36,85.05,10,3,0,4.2,0,28,Basic,Referral,Germany,0
+SP-01157,8,61.9,10,3,3,5.0,0,10,Professional,Referral,Portugal,0
+SP-01158,52,74.12,7,5,0,4.5,1,13,Basic,Organic,United Kingdom,0
+SP-01159,24,56.84,12,2,1,4.1,2,10,Basic,Paid,United Kingdom,0
+SP-01160,21,99.12,6,2,0,2.7,0,19,Basic,Referral,Germany,0
+SP-01161,35,43.08,9,5,0,3.1,1,31,Professional,Partner,Germany,0
+SP-01162,30,155.77,8,4,1,3.5,1,22,Basic,Referral,United Kingdom,0
+SP-01163,51,141.87,6,8,0,4.5,0,9,Professional,Referral,Germany,0
+SP-01164,32,102.65,6,5,3,3.1,1,4,Professional,Referral,Germany,1
+SP-01165,32,123.34,7,3,0,4.3,1,7,Professional,Referral,Portugal,0
+SP-01166,7,119.84,7,2,2,3.9,0,26,Basic,Referral,Germany,1
+SP-01167,2,91.06,10,5,4,4.1,0,13,Professional,Referral,United Kingdom,0
+SP-01168,24,79.29,5,5,1,3.6,1,14,Basic,Partner,Germany,0
+SP-01169,60,75.59,9,6,0,3.3,0,21,Professional,Referral,United Kingdom,0
+SP-01170,56,158.29,10,3,1,3.0,0,12,Enterprise,Organic,United Kingdom,0
+SP-01171,38,60.99,15,1,2,4.3,1,23,Professional,Referral,Germany,0
+SP-01172,38,61.48,10,3,1,3.7,2,10,Enterprise,Organic,United Kingdom,0
+SP-01173,24,127.98,6,3,1,2.9,1,9,Basic,Referral,United Kingdom,0
+SP-01174,11,122.83,8,2,2,4.0,1,5,Professional,Partner,Portugal,0
+SP-01175,1,77.38,7,3,2,5.0,1,2,Basic,Organic,Germany,0
+SP-01176,21,107.26,7,5,1,3.6,0,13,Basic,Organic,Portugal,0
+SP-01177,19,113.22,8,5,1,5.0,0,20,Professional,Organic,Germany,0
+SP-01178,12,48.94,7,6,2,1.7,0,20,Professional,Paid,Germany,1
+SP-01179,16,145.83,6,4,0,3.6,0,27,Professional,Paid,Germany,0
+SP-01180,2,113.2,5,5,1,4.6,1,11,Professional,Paid,Portugal,0
+SP-01181,37,103.45,8,3,2,3.8,0,27,Enterprise,Paid,Germany,0
+SP-01182,56,113.58,5,2,3,3.3,0,12,Professional,Paid,United Kingdom,0
+SP-01183,42,98.27,6,1,1,3.8,1,5,Professional,Partner,Portugal,0
+SP-01184,27,83.02,10,2,1,4.6,1,16,Basic,Organic,Portugal,0
+SP-01185,26,36.72,6,7,0,5.0,1,5,Basic,Referral,Germany,0
+SP-01186,19,91.4,4,4,1,4.7,0,11,Basic,Paid,Germany,0
+SP-01187,9,47.18,8,6,1,3.4,1,24,Basic,Organic,Germany,1
+SP-01188,36,185.59,10,4,3,3.6,0,1,Enterprise,Paid,Germany,0
+SP-01189,34,82.44,13,7,2,3.6,1,13,Professional,Paid,United Kingdom,0
+SP-01190,1,184.16,9,0,1,3.1,1,7,Professional,Organic,Germany,0
+SP-01191,25,92.04,11,1,0,3.7,0,24,Basic,Organic,United Kingdom,0
+SP-01192,17,66.98,8,4,1,3.6,0,33,Professional,Paid,United Kingdom,1
+SP-01193,11,144.01,4,0,0,2.8,0,10,Professional,Organic,Germany,1
+SP-01194,43,101.7,8,4,1,4.5,0,18,Basic,Referral,Germany,0
+SP-01195,32,215.36,12,2,0,4.1,0,3,Basic,Organic,United Kingdom,0
+SP-01196,39,66.28,7,3,0,3.3,1,15,Professional,Paid,Portugal,0
+SP-01197,43,146.63,8,2,1,3.9,0,5,Basic,Referral,Portugal,0
+SP-01198,59,150.02,6,2,0,3.0,1,6,Professional,Organic,Portugal,0
+SP-01199,49,117.21,8,4,0,3.4,2,11,Enterprise,Partner,United Kingdom,0
+SP-01200,38,150.57,8,7,1,4.4,0,6,Basic,Organic,Portugal,0
+SP-01201,53,83.23,11,6,0,4.2,4,15,Basic,Partner,Portugal,0
+SP-01202,29,60.87,10,2,1,3.4,0,12,Professional,Partner,United Kingdom,0
+SP-01203,60,69.45,8,3,0,4.0,1,7,Basic,Paid,United Kingdom,0
+SP-01204,46,89.41,6,3,2,3.7,0,7,Professional,Paid,Germany,0
+SP-01205,40,119.77,10,6,2,3.0,2,17,Basic,Paid,Portugal,1
+SP-01206,55,62.61,8,3,1,3.7,0,20,Basic,Referral,United Kingdom,0
+SP-01207,31,75.62,6,7,1,4.1,0,13,Professional,Organic,Portugal,0
+SP-01208,44,64.67,5,4,3,4.0,0,19,Professional,Organic,Germany,1
+SP-01209,18,128.87,3,4,2,2.4,2,5,Basic,Organic,Germany,1
+SP-01210,58,183.51,9,1,0,3.9,1,6,Basic,Referral,Germany,0
+SP-01211,38,56.7,5,2,2,3.8,1,7,Basic,Organic,Portugal,0
+SP-01212,47,109.4,12,3,0,2.3,1,5,Basic,Referral,Portugal,0
+SP-01213,28,135.82,8,4,2,3.2,1,1,Basic,Organic,United Kingdom,0
+SP-01214,53,80.19,7,5,2,4.2,3,10,Basic,Partner,Germany,0
+SP-01215,5,48.18,7,3,1,4.9,0,6,Enterprise,Organic,Germany,0
+SP-01216,7,143.43,6,7,3,2.5,0,9,Enterprise,Paid,Portugal,0
+SP-01217,31,47.0,4,6,0,4.6,1,6,Professional,Organic,Germany,0
+SP-01218,44,161.72,11,4,1,2.3,0,8,Professional,Referral,Germany,0
+SP-01219,49,64.11,5,4,2,4.9,0,12,Professional,Organic,Portugal,0
+SP-01220,27,44.31,16,5,1,3.6,1,18,Enterprise,Referral,Germany,0
+SP-01221,39,71.59,8,3,5,3.2,0,25,Professional,Organic,Germany,1
+SP-01222,34,86.44,5,3,3,4.1,2,10,Professional,Referral,Germany,0
+SP-01223,58,94.09,12,6,3,3.0,1,6,Basic,Referral,Germany,0
+SP-01224,40,113.28,5,3,0,4.2,0,2,Professional,Paid,Portugal,0
+SP-01225,26,97.66,8,0,0,3.7,1,41,Enterprise,Organic,Portugal,0
+SP-01226,59,176.79,6,2,2,1.0,2,19,Basic,Organic,Germany,1
+SP-01227,7,84.75,6,2,1,3.2,0,13,Basic,Partner,Germany,0
+SP-01228,60,99.84,9,7,3,4.0,0,4,Basic,Referral,Germany,0
+SP-01229,10,96.35,8,4,0,4.7,3,1,Professional,Paid,Germany,0
+SP-01230,18,42.28,8,2,2,4.1,1,2,Enterprise,Organic,Portugal,0
+SP-01231,50,52.46,11,5,0,4.6,0,8,Basic,Paid,Germany,0
+SP-01232,45,89.56,5,4,3,3.1,0,7,Basic,Referral,Germany,1
+SP-01233,59,104.96,10,3,3,4.4,0,6,Basic,Paid,Germany,0
+SP-01234,45,36.16,8,3,0,4.4,0,7,Professional,Referral,Germany,0
+SP-01235,39,180.43,8,3,0,2.5,0,22,Basic,Paid,Germany,0
+SP-01236,21,108.54,6,1,2,4.7,0,4,Professional,Organic,United Kingdom,0
+SP-01237,1,87.46,10,3,2,4.1,1,5,Basic,Organic,Portugal,0
+SP-01238,8,106.43,10,4,3,3.6,0,5,Basic,Organic,Portugal,0
+SP-01239,18,69.91,6,5,0,3.6,1,8,Basic,Referral,Germany,0
+SP-01240,3,94.51,5,4,2,3.0,0,2,Basic,Referral,Germany,0
+SP-01241,31,100.85,9,4,0,4.3,1,16,Enterprise,Paid,United Kingdom,0
+SP-01242,47,144.16,8,6,2,4.0,0,6,Basic,Paid,Germany,0
+SP-01243,58,81.61,9,3,1,4.3,0,10,Professional,Organic,United Kingdom,0
+SP-01244,30,47.5,8,3,1,3.9,0,11,Enterprise,Paid,United Kingdom,0
+SP-01245,53,60.22,6,0,0,4.0,0,9,Professional,Partner,Portugal,0
+SP-01246,60,78.9,6,5,1,3.6,2,20,Enterprise,Paid,Germany,0
+SP-01247,52,49.58,9,6,1,4.7,0,25,Basic,Paid,Germany,0
+SP-01248,28,57.57,15,1,2,4.3,0,4,Professional,Partner,Germany,0
+SP-01249,20,60.45,10,1,2,3.9,2,6,Professional,Partner,United Kingdom,0
+SP-01250,59,76.7,6,5,0,3.7,1,5,Enterprise,Referral,Germany,0
+SP-01251,15,107.94,6,4,1,2.4,1,3,Professional,Paid,Germany,0
+SP-01252,25,75.21,7,3,1,2.2,1,18,Professional,Referral,Germany,1
+SP-01253,5,111.03,12,4,2,3.5,2,15,Basic,Organic,Germany,1
+SP-01254,48,87.49,7,4,0,4.8,0,6,Professional,Organic,Portugal,0
+SP-01255,39,58.36,11,4,0,3.2,1,6,Enterprise,Referral,Portugal,0
+SP-01256,6,101.57,8,2,0,3.3,2,13,Basic,Referral,United Kingdom,1
+SP-01257,14,95.02,9,6,1,3.0,1,9,Basic,Referral,Portugal,1
+SP-01258,34,112.27,9,1,1,2.8,0,13,Basic,Paid,Germany,0
+SP-01259,33,122.09,9,3,1,3.1,0,7,Enterprise,Paid,Portugal,0
+SP-01260,49,146.14,11,1,1,4.0,0,12,Basic,Organic,United Kingdom,0
+SP-01261,16,109.47,7,2,2,3.4,0,20,Basic,Organic,Germany,0
+SP-01262,56,93.71,9,4,2,3.4,1,10,Enterprise,Paid,United Kingdom,0
+SP-01263,27,112.49,7,2,1,3.3,3,29,Basic,Referral,United Kingdom,0
+SP-01264,50,72.16,8,2,3,4.0,0,13,Professional,Partner,United Kingdom,0
+SP-01265,15,69.97,4,4,0,4.1,0,1,Professional,Paid,Portugal,0
+SP-01266,3,154.83,10,4,0,2.3,1,9,Professional,Organic,Germany,0
+SP-01267,4,69.13,12,5,2,3.2,0,17,Basic,Organic,Portugal,0
+SP-01268,23,61.08,10,1,1,3.7,2,14,Basic,Paid,Portugal,0
+SP-01269,58,109.44,7,4,0,4.2,3,17,Basic,Organic,Germany,0
+SP-01270,3,72.41,10,6,2,3.9,0,12,Basic,Organic,United Kingdom,0
+SP-01271,23,121.56,7,3,0,4.5,2,28,Professional,Organic,Germany,0
+SP-01272,7,141.46,6,2,0,2.7,1,18,Basic,Paid,United Kingdom,1
+SP-01273,56,64.55,11,3,1,4.1,2,11,Enterprise,Paid,Germany,0
+SP-01274,41,115.01,5,5,0,5.0,0,13,Professional,Organic,Germany,0
+SP-01275,46,68.46,3,3,0,3.8,0,38,Basic,Paid,Germany,1
+SP-01276,43,79.6,9,3,1,3.9,0,27,Professional,Paid,Germany,0
+SP-01277,40,99.62,10,3,2,4.2,0,9,Basic,Paid,Portugal,0
+SP-01278,47,70.03,13,3,1,3.4,1,14,Basic,Organic,Portugal,0
+SP-01279,1,95.89,12,3,0,3.0,1,28,Basic,Organic,Germany,0
+SP-01280,52,82.32,8,4,2,3.8,0,5,Basic,Paid,Germany,0
+SP-01281,45,122.73,5,1,0,2.5,0,8,Professional,Referral,Portugal,1
+SP-01282,45,122.86,12,5,0,4.1,0,21,Basic,Partner,Germany,0
+SP-01283,24,70.18,11,3,1,4.3,0,6,Basic,Paid,Portugal,0
+SP-01284,49,100.56,13,2,1,2.5,1,9,Professional,Organic,United Kingdom,0
+SP-01285,23,130.77,4,7,2,3.9,1,13,Basic,Referral,United Kingdom,0
+SP-01286,3,57.19,7,5,1,3.6,0,19,Basic,Organic,Germany,1
+SP-01287,55,82.11,9,4,3,5.0,1,4,Basic,Paid,Germany,0
+SP-01288,15,98.74,7,2,2,4.8,0,20,Professional,Organic,Portugal,1
+SP-01289,7,56.22,12,2,2,4.5,0,12,Professional,Partner,Germany,0
+SP-01290,38,73.58,4,6,0,4.8,1,13,Basic,Paid,Portugal,0
+SP-01291,15,168.6,9,6,1,3.5,0,3,Basic,Referral,United Kingdom,0
+SP-01292,52,69.05,7,6,2,4.0,2,11,Professional,Referral,Portugal,0
+SP-01293,27,72.16,7,3,1,3.6,0,4,Basic,Partner,United Kingdom,0
+SP-01294,1,44.32,12,1,2,3.0,1,30,Basic,Partner,Germany,0
+SP-01295,58,108.94,13,3,2,3.9,0,9,Professional,Partner,Portugal,0
+SP-01296,31,53.53,7,6,1,3.7,2,26,Professional,Paid,Portugal,0
+SP-01297,16,82.85,9,8,1,3.6,0,13,Basic,Referral,Portugal,0
+SP-01298,41,61.32,9,0,1,3.8,0,26,Professional,Organic,Germany,0
+SP-01299,32,95.81,8,8,0,3.8,1,2,Basic,Organic,Portugal,0
+SP-01300,2,26.9,5,5,1,4.5,0,6,Basic,Partner,United Kingdom,0
+SP-01301,46,90.38,8,3,0,3.3,0,25,Professional,Partner,United Kingdom,0
+SP-01302,25,99.88,11,2,1,2.8,0,34,Basic,Organic,Portugal,1
+SP-01303,42,74.36,12,7,1,4.3,0,10,Professional,Organic,Germany,0
+SP-01304,54,76.27,10,0,1,4.5,1,7,Basic,Paid,United Kingdom,0
+SP-01305,37,70.65,10,4,0,4.1,0,3,Enterprise,Referral,Germany,0
+SP-01306,41,82.4,8,2,0,2.9,0,2,Professional,Referral,United Kingdom,0
+SP-01307,16,155.72,6,3,0,3.7,0,2,Basic,Partner,Germany,0
+SP-01308,15,124.35,4,3,2,4.0,1,11,Professional,Referral,Germany,0
+SP-01309,25,82.37,4,2,1,2.9,1,11,Professional,Referral,United Kingdom,0
+SP-01310,52,73.59,10,2,1,3.2,1,4,Enterprise,Paid,Germany,0
+SP-01311,32,119.43,3,4,0,3.7,0,6,Professional,Referral,Germany,0
+SP-01312,21,93.26,10,2,1,4.7,1,9,Professional,Referral,Germany,0
+SP-01313,47,55.66,7,7,3,4.0,0,2,Enterprise,Paid,Germany,0
+SP-01314,52,78.49,8,2,1,3.3,0,13,Basic,Partner,United Kingdom,0
+SP-01315,55,148.54,11,4,1,3.6,1,14,Basic,Partner,Germany,0
+SP-01316,18,107.13,6,2,1,3.3,1,17,Enterprise,Paid,Germany,0
+SP-01317,43,73.92,7,2,1,3.5,0,16,Enterprise,Organic,Germany,1
+SP-01318,36,46.23,9,2,2,4.4,1,10,Basic,Partner,Germany,0
+SP-01319,27,95.61,8,6,0,2.3,1,30,Basic,Paid,Germany,0
+SP-01320,24,87.69,9,3,3,4.9,1,7,Basic,Referral,Germany,0
+SP-01321,7,81.33,3,6,0,5.0,2,16,Professional,Paid,Germany,0
+SP-01322,17,119.99,7,6,0,3.9,1,4,Professional,Referral,United Kingdom,0
+SP-01323,33,107.69,7,3,1,3.1,1,4,Professional,Paid,United Kingdom,0
+SP-01324,54,46.84,10,4,4,4.7,0,15,Enterprise,Organic,Germany,0
+SP-01325,52,87.89,9,2,2,4.0,0,5,Basic,Referral,Germany,0
+SP-01326,12,51.33,2,1,1,3.4,0,15,Enterprise,Paid,Portugal,0
+SP-01327,41,71.13,5,4,2,3.0,0,15,Professional,Organic,Portugal,0
+SP-01328,6,49.85,6,3,0,3.5,0,32,Basic,Referral,United Kingdom,0
+SP-01329,41,50.55,7,2,0,4.0,1,4,Enterprise,Referral,Germany,0
+SP-01330,21,100.44,7,2,1,4.5,0,3,Enterprise,Referral,Portugal,0
+SP-01331,27,96.36,8,2,0,4.0,1,12,Enterprise,Organic,Germany,0
+SP-01332,44,85.22,8,2,0,4.2,1,24,Professional,Organic,Germany,0
+SP-01333,26,68.65,9,6,1,3.5,2,11,Basic,Paid,United Kingdom,1
+SP-01334,49,48.44,5,5,1,4.5,0,55,Basic,Referral,Germany,0
+SP-01335,33,71.26,8,3,4,3.6,0,14,Basic,Partner,Portugal,0
+SP-01336,60,96.53,10,5,2,5.0,0,14,Basic,Organic,United Kingdom,0
+SP-01337,39,95.63,6,4,1,3.3,0,9,Enterprise,Organic,Portugal,0
+SP-01338,18,147.2,10,3,0,4.1,1,16,Professional,Referral,Germany,0
+SP-01339,47,138.14,9,2,0,5.0,0,24,Basic,Organic,Germany,0
+SP-01340,25,86.61,12,7,1,4.6,1,13,Professional,Organic,Portugal,0
+SP-01341,33,70.96,9,5,1,4.4,0,22,Professional,Paid,Germany,0
+SP-01342,9,61.94,5,3,2,4.0,0,12,Basic,Referral,United Kingdom,0
+SP-01343,8,45.6,11,6,3,3.8,0,3,Enterprise,Organic,Germany,1
+SP-01344,35,53.51,12,4,1,3.7,0,3,Professional,Paid,Germany,0
+SP-01345,12,169.18,7,1,0,3.4,0,18,Professional,Organic,United Kingdom,0
+SP-01346,60,96.59,8,5,3,2.6,0,13,Basic,Organic,Germany,0
+SP-01347,52,110.78,12,2,5,4.3,3,23,Professional,Organic,Portugal,0
+SP-01348,43,76.74,10,5,0,2.6,1,19,Basic,Partner,Germany,0
+SP-01349,45,212.06,5,2,0,4.3,0,3,Professional,Organic,Germany,0
+SP-01350,36,53.71,10,1,3,3.6,0,8,Basic,Referral,United Kingdom,0
+SP-01351,4,43.93,6,8,1,3.0,0,5,Basic,Organic,Germany,0
+SP-01352,24,210.37,2,2,3,4.9,0,11,Basic,Paid,Germany,1
+SP-01353,30,47.54,5,4,3,2.6,2,10,Enterprise,Organic,Germany,0
+SP-01354,55,76.31,6,5,0,3.3,1,2,Basic,Organic,United Kingdom,0
+SP-01355,14,64.0,12,4,1,3.3,0,7,Basic,Referral,Germany,0
+SP-01356,30,99.55,6,3,0,3.9,0,7,Professional,Paid,United Kingdom,0
+SP-01357,21,74.0,7,5,2,3.3,0,15,Enterprise,Referral,Portugal,0
+SP-01358,9,110.93,10,1,1,5.0,0,11,Professional,Referral,Germany,0
+SP-01359,7,121.02,8,2,1,2.7,0,6,Enterprise,Partner,Germany,0
+SP-01360,22,45.43,10,3,0,5.0,0,5,Professional,Organic,Germany,0
+SP-01361,5,61.14,13,2,2,3.0,3,2,Enterprise,Referral,United Kingdom,0
+SP-01362,5,114.9,7,6,2,5.0,0,18,Basic,Organic,United Kingdom,0
+SP-01363,22,131.21,5,6,1,4.7,1,19,Basic,Referral,Portugal,0
+SP-01364,13,92.25,9,2,0,3.7,0,25,Basic,Referral,Portugal,0
+SP-01365,34,102.58,10,4,1,4.0,2,7,Enterprise,Paid,Germany,0
+SP-01366,2,151.25,7,6,0,3.5,1,30,Enterprise,Referral,Germany,1
+SP-01367,19,74.37,10,3,1,4.1,0,18,Basic,Organic,Germany,0
+SP-01368,28,91.84,6,5,3,3.2,0,20,Professional,Partner,United Kingdom,0
+SP-01369,58,138.21,4,3,1,4.4,1,8,Basic,Organic,Germany,0
+SP-01370,39,141.92,8,6,0,3.9,1,8,Enterprise,Organic,Portugal,0
+SP-01371,53,82.66,6,3,0,3.0,0,17,Basic,Partner,Germany,0
+SP-01372,21,61.91,5,2,0,4.1,1,25,Professional,Paid,Germany,0
+SP-01373,27,82.28,11,4,1,4.1,2,30,Professional,Partner,United Kingdom,0
+SP-01374,26,85.52,3,3,0,3.2,1,27,Basic,Organic,Germany,0
+SP-01375,54,61.02,5,4,1,3.5,0,15,Enterprise,Organic,Portugal,0
+SP-01376,58,64.63,8,3,2,4.2,2,4,Basic,Referral,United Kingdom,0
+SP-01377,58,142.0,6,6,0,4.7,1,19,Professional,Organic,United Kingdom,0
+SP-01378,46,104.55,5,1,3,3.7,1,5,Basic,Paid,Germany,0
+SP-01379,31,76.46,12,4,1,4.5,0,36,Basic,Organic,United Kingdom,0
+SP-01380,33,54.99,13,5,1,4.7,0,26,Basic,Organic,United Kingdom,0
+SP-01381,59,64.94,6,5,3,4.8,0,11,Professional,Referral,Portugal,0
+SP-01382,18,42.63,8,4,3,4.1,1,12,Professional,Organic,Portugal,0
+SP-01383,21,93.24,14,2,0,3.1,0,17,Basic,Organic,Portugal,0
+SP-01384,54,63.52,5,5,2,4.5,1,12,Enterprise,Organic,United Kingdom,0
+SP-01385,24,96.27,5,1,0,3.6,0,18,Basic,Organic,Germany,0
+SP-01386,15,114.41,9,3,3,4.2,0,11,Professional,Referral,Germany,0
+SP-01387,34,96.84,11,4,1,3.3,0,8,Enterprise,Referral,Germany,0
+SP-01388,20,72.7,7,4,1,3.3,0,5,Professional,Referral,Germany,0
+SP-01389,54,59.79,7,5,2,3.2,2,8,Professional,Referral,Germany,0
+SP-01390,55,51.92,5,4,0,2.7,0,13,Basic,Organic,Germany,0
+SP-01391,19,136.13,10,1,1,3.3,1,5,Professional,Organic,United Kingdom,0
+SP-01392,32,95.12,9,1,0,3.0,0,21,Professional,Partner,Germany,0
+SP-01393,60,74.36,10,4,1,4.3,3,13,Professional,Organic,Germany,0
+SP-01394,45,108.15,6,1,0,2.9,0,9,Professional,Paid,Germany,0
+SP-01395,13,126.9,9,2,1,3.3,1,5,Enterprise,Organic,United Kingdom,0
+SP-01396,36,64.05,4,0,1,3.8,1,23,Professional,Paid,Germany,0
+SP-01397,38,93.95,6,4,3,5.0,1,29,Professional,Paid,United Kingdom,0
+SP-01398,40,94.73,0,5,2,3.2,0,1,Enterprise,Referral,Portugal,0
+SP-01399,2,148.46,7,2,0,2.7,2,12,Professional,Referral,United Kingdom,0
+SP-01400,18,73.94,8,1,2,2.8,2,26,Basic,Partner,Germany,1
+SP-01401,52,58.95,9,6,0,3.1,0,17,Professional,Paid,United Kingdom,0
+SP-01402,15,98.2,8,2,2,3.3,1,3,Professional,Paid,Portugal,0
+SP-01403,18,111.86,8,2,1,5.0,2,9,Professional,Partner,United Kingdom,0
+SP-01404,20,90.83,12,2,1,4.6,2,4,Basic,Organic,Germany,0
+SP-01405,11,152.82,9,2,2,3.5,2,5,Basic,Paid,United Kingdom,0
+SP-01406,10,73.85,2,4,2,5.0,0,12,Professional,Partner,United Kingdom,0
+SP-01407,21,91.75,11,3,2,3.3,0,16,Professional,Partner,Portugal,0
+SP-01408,53,46.78,8,3,3,3.5,0,7,Enterprise,Organic,Germany,0
+SP-01409,1,57.68,7,2,0,3.4,0,11,Basic,Paid,Portugal,0
+SP-01410,17,64.21,8,2,1,4.6,1,16,Basic,Organic,United Kingdom,0
+SP-01411,4,78.79,6,2,2,3.7,1,3,Professional,Paid,United Kingdom,0
+SP-01412,34,49.64,5,3,3,5.0,3,5,Enterprise,Paid,United Kingdom,0
+SP-01413,16,107.52,8,3,1,4.1,0,6,Basic,Referral,Germany,0
+SP-01414,48,61.97,6,1,0,4.5,3,8,Basic,Organic,Germany,0
+SP-01415,36,195.04,4,4,0,2.3,0,9,Enterprise,Organic,Germany,0
+SP-01416,48,62.83,11,5,1,2.4,0,12,Basic,Organic,United Kingdom,0
+SP-01417,39,87.91,13,6,0,2.5,0,7,Basic,Organic,United Kingdom,0
+SP-01418,27,83.5,10,2,0,3.5,0,17,Enterprise,Organic,Portugal,0
+SP-01419,52,55.79,13,4,0,2.6,0,8,Professional,Referral,Germany,0
+SP-01420,29,78.91,14,3,1,4.8,1,4,Basic,Referral,United Kingdom,0
+SP-01421,57,78.52,11,6,3,3.6,0,6,Enterprise,Referral,Germany,0
+SP-01422,60,121.07,6,2,0,4.3,1,4,Professional,Paid,United Kingdom,0
+SP-01423,36,99.7,9,2,0,3.4,0,1,Enterprise,Organic,Germany,0
+SP-01424,41,106.88,7,2,0,4.5,1,34,Basic,Partner,Germany,0
+SP-01425,16,119.96,10,5,1,2.2,0,1,Professional,Referral,Germany,0
+SP-01426,49,107.59,7,2,1,3.8,1,8,Basic,Organic,Portugal,0
+SP-01427,41,93.63,6,6,1,4.2,0,11,Basic,Organic,United Kingdom,0
+SP-01428,55,63.98,8,3,1,4.3,2,10,Professional,Paid,United Kingdom,0
+SP-01429,17,91.22,5,3,1,3.5,0,1,Basic,Referral,Germany,0
+SP-01430,48,59.32,4,3,2,2.4,1,12,Basic,Organic,Germany,1
+SP-01431,29,81.33,7,4,0,4.6,1,23,Professional,Partner,Portugal,0
+SP-01432,12,77.11,6,4,1,3.5,1,3,Basic,Referral,United Kingdom,0
+SP-01433,11,79.08,5,3,1,3.6,1,11,Enterprise,Paid,Germany,0
+SP-01434,34,49.83,13,3,2,5.0,2,12,Professional,Organic,Portugal,0
+SP-01435,20,27.04,9,0,0,3.9,0,10,Professional,Referral,Germany,0
+SP-01436,7,71.51,6,5,1,3.4,1,37,Professional,Organic,United Kingdom,1
+SP-01437,26,131.63,14,2,1,3.3,1,9,Enterprise,Organic,Germany,1
+SP-01438,40,87.39,8,2,0,4.3,0,7,Professional,Partner,Portugal,0
+SP-01439,20,127.61,4,6,1,3.1,0,2,Professional,Organic,Portugal,0
+SP-01440,58,59.47,7,5,0,4.2,0,25,Basic,Organic,Germany,0
+SP-01441,47,70.12,15,3,2,4.7,1,4,Enterprise,Referral,Portugal,0
+SP-01442,31,200.27,8,2,1,3.7,2,13,Basic,Paid,Portugal,0
+SP-01443,57,60.87,7,2,2,4.6,0,27,Professional,Organic,United Kingdom,0
+SP-01444,26,106.02,14,1,1,3.7,2,15,Professional,Organic,United Kingdom,0
+SP-01445,9,105.95,12,5,2,3.3,0,3,Professional,Organic,United Kingdom,0
+SP-01446,3,101.21,11,1,0,2.5,1,17,Professional,Paid,Germany,1
+SP-01447,57,106.57,3,3,1,4.0,0,6,Basic,Paid,Germany,0
+SP-01448,58,60.53,9,4,0,4.0,1,16,Enterprise,Paid,Germany,0
+SP-01449,45,72.88,10,3,3,4.6,0,34,Basic,Paid,Germany,0
+SP-01450,7,29.29,7,7,2,4.5,0,15,Basic,Paid,Germany,0
+SP-01451,18,150.6,8,6,0,5.0,1,10,Enterprise,Organic,Germany,0
+SP-01452,3,106.31,11,4,2,3.3,0,1,Basic,Paid,United Kingdom,0
+SP-01453,4,64.24,9,3,0,4.1,1,6,Basic,Organic,United Kingdom,0
+SP-01454,15,59.72,12,2,3,3.2,0,4,Basic,Partner,Germany,0
+SP-01455,35,132.59,2,3,1,4.5,0,15,Basic,Referral,Germany,0
+SP-01456,4,62.47,8,3,1,3.1,2,26,Enterprise,Paid,United Kingdom,1
+SP-01457,60,64.16,11,3,0,4.5,0,14,Professional,Referral,Portugal,0
+SP-01458,28,54.87,8,2,2,3.2,0,11,Basic,Referral,United Kingdom,0
+SP-01459,16,114.52,5,5,2,4.4,1,11,Professional,Paid,Portugal,0
+SP-01460,31,126.82,5,3,1,4.8,2,10,Professional,Organic,Portugal,0
+SP-01461,48,77.3,2,4,0,2.6,0,24,Professional,Referral,United Kingdom,0
+SP-01462,19,127.17,12,3,1,2.7,0,18,Professional,Organic,United Kingdom,0
+SP-01463,3,97.73,6,5,1,4.0,1,29,Basic,Paid,United Kingdom,0
+SP-01464,4,53.59,6,2,0,3.9,2,27,Enterprise,Organic,Germany,0
+SP-01465,52,145.92,7,3,0,3.6,0,41,Basic,Paid,Germany,0
+SP-01466,7,54.64,11,3,0,3.4,1,21,Enterprise,Partner,Germany,0
+SP-01467,39,79.56,8,1,0,3.1,1,18,Basic,Paid,Germany,0
+SP-01468,24,77.39,5,1,0,4.1,0,10,Professional,Referral,Germany,0
+SP-01469,47,71.98,10,3,0,3.0,0,12,Basic,Referral,Germany,0
+SP-01470,4,37.66,8,3,1,4.1,0,22,Enterprise,Referral,United Kingdom,0
+SP-01471,54,181.75,4,7,0,3.3,0,8,Professional,Organic,Germany,0
+SP-01472,42,39.51,9,7,2,3.5,0,25,Enterprise,Paid,United Kingdom,0
+SP-01473,27,149.82,9,5,4,4.8,0,10,Professional,Partner,Germany,0
+SP-01474,13,58.93,8,5,3,4.6,0,12,Basic,Paid,Germany,0
+SP-01475,59,66.61,6,7,2,3.0,0,32,Basic,Partner,Germany,0
+SP-01476,19,143.52,11,2,0,3.1,0,19,Enterprise,Partner,United Kingdom,1
+SP-01477,30,102.02,5,8,4,4.4,1,12,Professional,Referral,Germany,0
+SP-01478,24,47.38,7,1,2,2.7,2,38,Enterprise,Referral,Portugal,1
+SP-01479,14,47.01,10,4,0,5.0,1,7,Professional,Referral,United Kingdom,1
+SP-01480,25,95.93,5,3,2,3.9,1,6,Professional,Organic,United Kingdom,1
+SP-01481,10,54.28,11,6,2,3.3,0,6,Professional,Organic,Germany,0
+SP-01482,1,103.99,7,1,0,3.8,0,14,Professional,Organic,Portugal,0
+SP-01483,18,108.37,7,6,2,4.9,1,12,Enterprise,Referral,Germany,0
+SP-01484,7,61.39,12,4,2,2.1,0,15,Professional,Referral,Portugal,1
+SP-01485,25,68.04,4,1,1,4.6,0,2,Enterprise,Organic,Germany,0
+SP-01486,52,97.21,4,5,1,4.8,0,2,Basic,Organic,Portugal,0
+SP-01487,10,60.33,9,2,2,3.5,0,6,Professional,Paid,Portugal,0
+SP-01488,1,87.44,7,5,1,3.7,0,14,Professional,Referral,Germany,0
+SP-01489,7,205.72,8,4,0,3.9,2,8,Basic,Paid,Germany,0
+SP-01490,31,99.11,8,6,0,4.4,1,4,Professional,Organic,Portugal,0
+SP-01491,17,72.38,8,2,1,3.2,0,5,Professional,Referral,United Kingdom,0
+SP-01492,30,189.94,14,7,1,3.8,1,19,Enterprise,Organic,Germany,0
+SP-01493,2,117.93,15,3,1,3.7,1,29,Professional,Partner,United Kingdom,0
+SP-01494,20,54.79,11,4,0,4.3,0,9,Basic,Partner,Portugal,0
+SP-01495,25,58.82,10,3,1,5.0,0,4,Enterprise,Organic,Portugal,0
+SP-01496,26,41.21,5,5,0,3.2,0,14,Basic,Organic,Germany,0
+SP-01497,34,96.48,6,2,1,3.9,2,35,Professional,Organic,United Kingdom,0
+SP-01498,47,35.27,9,3,0,3.2,3,13,Professional,Organic,United Kingdom,1
+SP-01499,29,189.84,8,5,1,3.4,1,13,Basic,Paid,Germany,0
+SP-01500,51,75.88,7,1,3,2.9,1,10,Basic,Organic,Germany,0
+SP-01501,32,120.99,8,2,1,2.6,0,16,Professional,Organic,Germany,0
+SP-01502,16,73.13,9,3,1,4.7,0,13,Enterprise,Referral,Germany,0
+SP-01503,14,95.79,6,5,3,4.1,2,2,Enterprise,Paid,United Kingdom,0
+SP-01504,20,80.0,11,3,2,3.9,0,16,Enterprise,Organic,Germany,0
+SP-01505,36,86.42,7,4,0,3.1,2,13,Basic,Organic,United Kingdom,0
+SP-01506,15,136.79,4,2,1,3.7,2,5,Basic,Organic,United Kingdom,0
+SP-01507,55,164.9,10,1,0,2.9,0,7,Basic,Organic,Germany,0
+SP-01508,29,159.3,10,2,4,3.8,0,3,Enterprise,Organic,Germany,0
+SP-01509,52,276.44,10,2,3,4.1,3,18,Basic,Paid,Germany,0
+SP-01510,41,62.94,9,3,1,3.4,0,21,Professional,Partner,United Kingdom,0
+SP-01511,21,99.63,5,1,1,3.2,0,14,Enterprise,Organic,Germany,0
+SP-01512,14,63.52,7,3,0,3.4,1,9,Professional,Organic,United Kingdom,0
+SP-01513,45,134.39,8,5,1,4.5,2,12,Basic,Organic,United Kingdom,0
+SP-01514,20,55.83,7,2,0,4.0,0,14,Basic,Organic,United Kingdom,0
+SP-01515,15,137.81,9,3,1,2.5,1,14,Professional,Paid,Germany,0
+SP-01516,56,92.09,8,6,3,4.4,0,19,Basic,Referral,Portugal,0
+SP-01517,29,81.85,6,6,0,4.2,1,7,Professional,Organic,Germany,0
+SP-01518,3,85.71,8,7,2,3.9,0,13,Basic,Organic,Germany,0
+SP-01519,30,51.98,9,3,0,5.0,1,6,Enterprise,Organic,United Kingdom,0
+SP-01520,28,53.69,5,2,0,3.8,0,18,Enterprise,Organic,Portugal,0
+SP-01521,52,92.76,5,1,0,4.1,1,6,Professional,Paid,United Kingdom,0
+SP-01522,43,92.5,8,3,1,4.2,0,38,Basic,Paid,United Kingdom,0
+SP-01523,12,64.67,7,6,0,4.5,2,12,Basic,Organic,United Kingdom,0
+SP-01524,10,75.55,10,9,1,3.6,1,8,Basic,Organic,United Kingdom,0
+SP-01525,37,103.11,7,5,0,3.3,2,7,Enterprise,Paid,United Kingdom,0
+SP-01526,3,60.2,4,4,0,4.6,0,12,Professional,Referral,United Kingdom,0
+SP-01527,20,39.44,7,3,2,4.5,0,32,Basic,Organic,Germany,1
+SP-01528,9,152.96,11,3,2,4.8,0,5,Professional,Paid,United Kingdom,0
+SP-01529,2,95.45,7,0,0,4.1,1,18,Enterprise,Paid,Germany,0
+SP-01530,56,69.35,14,4,4,2.5,0,6,Basic,Organic,Germany,0
+SP-01531,6,63.44,11,6,1,3.9,0,4,Professional,Paid,United Kingdom,0
+SP-01532,1,59.97,10,3,2,3.8,0,15,Enterprise,Paid,United Kingdom,0
+SP-01533,56,134.16,12,5,0,4.8,0,9,Basic,Organic,United Kingdom,0
+SP-01534,12,48.6,13,7,1,4.6,2,11,Professional,Partner,United Kingdom,0
+SP-01535,49,99.52,10,4,0,4.3,2,15,Professional,Referral,Germany,0
+SP-01536,2,99.49,7,3,0,2.1,1,32,Professional,Organic,Germany,0
+SP-01537,10,115.39,3,6,2,3.1,0,18,Basic,Paid,United Kingdom,1
+SP-01538,7,72.05,8,2,0,3.5,1,9,Basic,Organic,Germany,0
+SP-01539,43,147.3,5,5,2,3.5,1,19,Professional,Organic,Germany,0
+SP-01540,38,116.83,5,5,1,3.9,0,4,Basic,Paid,Portugal,0
+SP-01541,29,71.06,6,2,0,5.0,0,10,Professional,Referral,Germany,0
+SP-01542,15,62.26,8,2,0,4.4,0,8,Basic,Organic,Germany,0
+SP-01543,6,80.09,11,5,3,3.1,0,43,Professional,Paid,Germany,1
+SP-01544,35,70.1,5,4,1,3.1,0,6,Basic,Organic,Germany,0
+SP-01545,14,58.24,13,4,1,3.1,0,17,Professional,Organic,Germany,0
+SP-01546,36,87.28,7,3,1,3.7,0,7,Basic,Paid,Germany,0
+SP-01547,42,75.75,8,4,1,4.4,0,5,Professional,Paid,Germany,0
+SP-01548,51,162.46,9,4,0,4.6,1,6,Basic,Referral,Portugal,0
+SP-01549,30,70.06,4,6,2,3.5,1,13,Basic,Referral,United Kingdom,1
+SP-01550,1,62.04,5,2,0,3.8,2,11,Basic,Partner,Germany,0
+SP-01551,17,84.96,6,1,2,5.0,2,9,Professional,Organic,Portugal,0
+SP-01552,52,94.2,10,3,3,2.6,0,22,Basic,Referral,Portugal,0
+SP-01553,32,97.19,9,2,0,4.3,1,9,Professional,Paid,Germany,0
+SP-01554,38,96.8,7,1,0,4.2,0,20,Basic,Partner,Germany,0
+SP-01555,28,86.15,8,5,2,3.6,0,11,Enterprise,Paid,Germany,0
+SP-01556,10,83.59,4,5,1,3.8,0,5,Basic,Organic,United Kingdom,1
+SP-01557,54,108.63,14,5,1,4.1,0,12,Basic,Paid,United Kingdom,0
+SP-01558,47,56.16,9,0,2,3.6,0,12,Professional,Paid,United Kingdom,0
+SP-01559,60,62.21,9,3,2,3.3,1,48,Basic,Paid,United Kingdom,0
+SP-01560,52,43.95,11,7,2,3.2,2,27,Professional,Organic,Germany,1
+SP-01561,18,56.52,7,2,2,5.0,2,30,Professional,Partner,Germany,1
+SP-01562,16,128.53,12,0,1,3.4,0,11,Professional,Paid,United Kingdom,0
+SP-01563,15,106.72,11,1,0,4.0,1,7,Basic,Paid,Germany,0
+SP-01564,56,171.96,7,4,0,4.4,0,9,Basic,Partner,Germany,0
+SP-01565,34,153.93,8,4,0,3.6,1,9,Basic,Organic,Germany,0
+SP-01566,28,107.1,10,3,2,3.8,2,21,Basic,Paid,United Kingdom,0
+SP-01567,59,90.1,4,7,1,4.2,0,8,Professional,Paid,United Kingdom,0
+SP-01568,37,85.63,10,1,1,3.1,0,19,Professional,Paid,Germany,0
+SP-01569,55,34.51,5,1,0,2.6,0,23,Enterprise,Referral,Germany,0
+SP-01570,60,81.77,9,3,2,3.2,3,16,Professional,Organic,United Kingdom,0
+SP-01571,5,66.59,10,2,2,5.0,0,4,Professional,Paid,United Kingdom,0
+SP-01572,22,57.52,9,4,2,3.3,0,16,Professional,Organic,Germany,0
+SP-01573,45,100.03,6,3,0,3.9,0,4,Basic,Partner,United Kingdom,0
+SP-01574,49,77.77,5,5,0,2.7,2,12,Basic,Paid,United Kingdom,0
+SP-01575,9,87.8,8,3,0,4.9,1,10,Basic,Referral,Germany,0
+SP-01576,20,54.2,4,4,1,3.6,0,17,Basic,Organic,United Kingdom,1
+SP-01577,33,118.95,9,2,1,3.4,1,8,Enterprise,Organic,Germany,0
+SP-01578,48,69.92,11,1,1,3.7,0,7,Professional,Organic,United Kingdom,0
+SP-01579,7,97.84,6,3,2,5.0,0,8,Basic,Organic,Portugal,0
+SP-01580,37,72.32,6,1,1,4.2,2,9,Basic,Referral,Germany,1
+SP-01581,18,32.35,10,6,2,3.7,1,3,Professional,Paid,Germany,0
+SP-01582,13,101.7,8,4,0,1.5,0,24,Professional,Partner,United Kingdom,0
+SP-01583,31,79.85,12,3,0,4.9,0,9,Basic,Paid,United Kingdom,0
+SP-01584,25,42.8,8,4,5,3.2,0,19,Professional,Referral,Germany,1
+SP-01585,39,51.63,10,3,1,3.1,1,15,Professional,Organic,Germany,0
+SP-01586,20,120.42,15,2,5,3.2,1,10,Basic,Partner,Germany,1
+SP-01587,50,43.59,11,6,2,5.0,0,8,Professional,Organic,Germany,0
+SP-01588,5,69.18,5,6,1,3.8,1,3,Enterprise,Paid,Portugal,0
+SP-01589,52,178.62,13,5,0,2.6,0,7,Professional,Paid,United Kingdom,0
+SP-01590,2,102.8,6,4,3,3.6,0,4,Professional,Organic,United Kingdom,0
+SP-01591,45,113.42,8,3,0,3.1,1,5,Basic,Paid,Portugal,0
+SP-01592,21,75.05,6,1,1,4.1,0,19,Professional,Partner,Germany,0
+SP-01593,24,41.4,7,4,0,3.5,0,8,Professional,Paid,Portugal,0
+SP-01594,2,91.26,15,5,0,2.5,3,6,Basic,Referral,Portugal,0
+SP-01595,43,53.05,10,3,0,3.7,0,8,Basic,Referral,Germany,0
+SP-01596,10,51.04,10,5,0,3.8,0,4,Professional,Organic,Portugal,0
+SP-01597,40,86.96,12,4,2,2.8,0,4,Professional,Organic,United Kingdom,0
+SP-01598,44,54.52,10,7,3,2.2,0,21,Professional,Partner,Germany,0
+SP-01599,51,82.9,9,0,0,4.0,1,28,Professional,Referral,Germany,0
+SP-01600,43,63.04,11,4,2,3.6,0,11,Professional,Organic,Germany,0
+SP-01601,19,81.73,4,5,2,3.6,1,2,Enterprise,Referral,United Kingdom,0
+SP-01602,45,67.38,5,4,1,4.4,1,27,Professional,Referral,Germany,0
+SP-01603,50,82.65,4,6,1,2.2,2,36,Basic,Organic,Germany,1
+SP-01604,20,148.38,9,3,1,3.8,0,14,Basic,Organic,United Kingdom,0
+SP-01605,8,114.5,6,2,1,4.3,2,7,Basic,Referral,United Kingdom,0
+SP-01606,54,78.93,8,8,1,3.7,0,19,Basic,Partner,Germany,0
+SP-01607,9,138.15,5,2,0,2.7,1,10,Basic,Organic,Germany,0
+SP-01608,36,98.42,7,1,1,3.3,0,18,Professional,Referral,United Kingdom,0
+SP-01609,15,134.08,7,5,1,3.4,1,3,Enterprise,Paid,Germany,0
+SP-01610,8,45.43,4,1,1,2.5,0,8,Professional,Organic,United Kingdom,1
+SP-01611,47,54.77,12,3,0,4.1,0,4,Enterprise,Paid,Germany,0
+SP-01612,9,90.82,12,7,0,3.8,1,5,Basic,Referral,Germany,0
+SP-01613,41,78.13,8,4,2,3.3,0,3,Basic,Referral,Portugal,0
+SP-01614,42,82.74,9,5,0,4.6,1,5,Basic,Organic,Germany,0
+SP-01615,4,105.05,8,3,1,3.4,0,24,Professional,Organic,Germany,1
+SP-01616,11,91.19,11,4,0,5.0,2,6,Basic,Paid,Germany,0
+SP-01617,48,119.13,10,4,0,3.6,0,3,Basic,Organic,Germany,0
+SP-01618,31,117.76,14,5,2,3.0,0,6,Basic,Referral,Germany,0
+SP-01619,8,55.79,11,3,1,3.1,1,3,Professional,Referral,Portugal,0
+SP-01620,60,32.75,10,2,0,3.9,0,11,Enterprise,Organic,Germany,0
+SP-01621,16,54.37,9,5,2,2.9,3,6,Basic,Paid,United Kingdom,0
+SP-01622,1,53.0,6,3,1,3.9,1,9,Basic,Referral,Germany,0
+SP-01623,56,85.29,10,3,0,3.5,0,7,Basic,Partner,Germany,0
+SP-01624,1,84.84,7,6,0,3.5,0,9,Professional,Organic,United Kingdom,1
+SP-01625,34,76.22,7,3,1,3.8,0,2,Basic,Organic,United Kingdom,0
+SP-01626,60,99.99,12,4,1,4.6,2,5,Basic,Organic,Germany,0
+SP-01627,35,213.68,8,3,0,3.4,0,16,Basic,Organic,Germany,0
+SP-01628,36,75.55,5,2,1,3.9,1,16,Basic,Partner,Germany,0
+SP-01629,24,92.38,9,7,4,4.2,3,9,Basic,Referral,Portugal,1
+SP-01630,8,82.73,8,5,1,2.8,1,10,Professional,Organic,United Kingdom,0
+SP-01631,35,64.97,10,2,2,4.2,1,2,Professional,Organic,Portugal,0
+SP-01632,54,105.45,8,1,1,4.5,1,13,Enterprise,Referral,Germany,0
+SP-01633,6,74.04,10,5,2,4.6,0,23,Basic,Organic,Germany,0
+SP-01634,53,59.5,5,3,2,2.9,0,3,Professional,Organic,United Kingdom,0
+SP-01635,25,61.28,9,4,0,3.0,0,18,Professional,Paid,Portugal,0
+SP-01636,33,120.94,4,4,4,3.8,1,3,Basic,Paid,United Kingdom,0
+SP-01637,10,104.37,11,3,0,3.7,0,11,Basic,Organic,Germany,0
+SP-01638,38,67.87,7,5,1,3.8,0,2,Basic,Referral,Germany,0
+SP-01639,11,99.31,9,4,0,3.5,0,3,Enterprise,Referral,Portugal,1
+SP-01640,17,83.13,7,2,1,3.9,1,5,Enterprise,Paid,United Kingdom,0
+SP-01641,44,93.04,5,2,1,1.8,1,4,Basic,Organic,Portugal,0
+SP-01642,4,64.29,4,1,0,4.3,0,22,Professional,Paid,United Kingdom,0
+SP-01643,27,53.65,9,5,0,5.0,2,12,Basic,Referral,Germany,0
+SP-01644,36,73.87,10,4,2,3.4,0,5,Professional,Referral,Germany,0
+SP-01645,8,57.27,6,5,2,4.0,0,16,Basic,Referral,Germany,0
+SP-01646,18,55.61,6,1,1,5.0,0,17,Basic,Referral,Germany,0
+SP-01647,21,46.43,10,7,1,3.8,0,14,Professional,Partner,United Kingdom,0
+SP-01648,40,32.83,9,3,0,4.0,1,13,Basic,Paid,Germany,0
+SP-01649,59,68.35,5,10,2,5.0,0,13,Basic,Organic,Germany,0
+SP-01650,51,130.53,7,4,1,5.0,2,4,Enterprise,Organic,Germany,0
+SP-01651,12,116.79,12,6,0,3.0,1,11,Basic,Referral,Portugal,0
+SP-01652,2,158.07,14,5,1,3.5,1,22,Basic,Organic,United Kingdom,0
+SP-01653,4,54.67,12,2,2,4.5,1,31,Basic,Paid,Germany,0
+SP-01654,36,108.31,11,3,1,4.2,2,10,Professional,Paid,United Kingdom,0
+SP-01655,10,78.78,4,2,0,4.4,1,6,Basic,Organic,Portugal,0
+SP-01656,14,61.32,8,2,0,1.7,0,5,Enterprise,Partner,United Kingdom,0
+SP-01657,51,124.15,10,2,2,2.2,0,21,Basic,Partner,Germany,1
+SP-01658,53,79.1,10,1,1,5.0,1,5,Professional,Referral,Germany,0
+SP-01659,51,39.41,6,4,0,4.4,2,9,Basic,Referral,United Kingdom,0
+SP-01660,16,116.26,7,4,1,4.1,1,9,Basic,Organic,Germany,0
+SP-01661,38,96.49,13,6,1,2.8,0,17,Basic,Partner,Germany,0
+SP-01662,37,87.29,10,3,1,3.5,3,13,Basic,Organic,Germany,0
+SP-01663,12,50.47,8,2,0,4.3,1,36,Professional,Paid,Germany,0
+SP-01664,34,91.5,3,5,1,2.7,0,13,Professional,Paid,Germany,0
+SP-01665,32,148.56,8,2,2,3.2,0,21,Enterprise,Organic,Germany,0
+SP-01666,24,95.38,10,3,1,4.1,0,7,Professional,Organic,Germany,0
+SP-01667,46,43.89,8,3,0,4.3,0,13,Basic,Paid,United Kingdom,0
+SP-01668,41,98.39,7,6,1,3.4,1,22,Basic,Organic,Portugal,1
+SP-01669,32,95.8,10,4,3,4.6,2,20,Basic,Organic,Germany,0
+SP-01670,44,112.02,10,3,1,4.6,4,3,Basic,Partner,United Kingdom,0
+SP-01671,46,94.69,12,2,2,2.4,1,4,Professional,Referral,Germany,0
+SP-01672,35,55.68,18,4,3,5.0,2,13,Professional,Paid,United Kingdom,0
+SP-01673,17,85.35,5,1,1,4.7,0,9,Professional,Organic,Germany,0
+SP-01674,46,74.39,4,2,0,4.0,0,11,Basic,Organic,Portugal,0
+SP-01675,44,89.55,8,2,0,3.7,0,9,Basic,Organic,Germany,0
+SP-01676,60,126.09,6,2,1,4.4,0,19,Enterprise,Organic,Germany,0
+SP-01677,9,62.97,12,1,0,4.2,0,12,Basic,Organic,United Kingdom,0
+SP-01678,26,168.59,10,7,2,3.6,0,9,Enterprise,Partner,United Kingdom,0
+SP-01679,56,98.12,7,3,3,5.0,2,44,Basic,Organic,Germany,1
+SP-01680,31,116.54,11,6,2,2.1,2,22,Basic,Organic,Germany,0
+SP-01681,57,109.98,8,3,0,3.3,2,25,Professional,Paid,United Kingdom,0
+SP-01682,1,96.49,5,4,0,4.2,2,4,Basic,Paid,Portugal,0
+SP-01683,3,103.89,9,5,2,3.8,0,46,Enterprise,Partner,United Kingdom,1
+SP-01684,48,22.65,6,1,1,4.4,3,42,Basic,Organic,Germany,1
+SP-01685,22,109.89,10,7,4,2.7,0,19,Basic,Organic,Portugal,0
+SP-01686,32,57.4,8,1,4,3.6,0,12,Basic,Paid,United Kingdom,0
+SP-01687,26,81.03,11,4,0,4.7,1,6,Basic,Paid,United Kingdom,0
+SP-01688,25,96.21,8,3,0,2.6,0,20,Professional,Referral,Germany,0
+SP-01689,57,128.5,8,5,1,3.6,1,37,Basic,Partner,Germany,0
+SP-01690,6,57.41,11,5,2,3.4,1,12,Professional,Paid,Germany,0
+SP-01691,47,69.04,9,1,2,4.1,0,4,Basic,Referral,United Kingdom,0
+SP-01692,54,72.84,12,3,2,4.1,0,11,Enterprise,Paid,Germany,1
+SP-01693,40,90.0,7,3,0,3.9,1,7,Professional,Organic,United Kingdom,0
+SP-01694,24,74.67,7,3,1,3.6,1,5,Enterprise,Organic,Germany,0
+SP-01695,10,104.09,4,5,0,3.9,0,3,Basic,Organic,Portugal,0
+SP-01696,41,39.98,14,2,2,3.7,0,34,Professional,Organic,Germany,0
+SP-01697,29,78.42,8,3,2,3.8,2,27,Professional,Organic,Portugal,0
+SP-01698,9,154.91,8,2,2,5.0,0,8,Basic,Paid,United Kingdom,0
+SP-01699,22,74.75,1,3,1,2.8,0,1,Basic,Paid,United Kingdom,0
+SP-01700,58,98.28,14,1,0,4.1,0,15,Professional,Organic,Germany,0
+SP-01701,16,120.1,10,4,1,3.0,1,28,Basic,Referral,Germany,0
+SP-01702,11,96.96,7,4,1,5.0,0,36,Basic,Referral,Portugal,0
+SP-01703,41,175.25,8,5,0,3.9,2,15,Professional,Organic,Portugal,0
+SP-01704,12,86.17,5,2,0,2.8,0,6,Basic,Referral,United Kingdom,0
+SP-01705,56,106.25,3,4,2,3.6,0,13,Basic,Organic,Germany,0
+SP-01706,52,91.53,15,5,2,2.6,2,10,Basic,Referral,United Kingdom,0
+SP-01707,60,141.34,6,5,1,3.3,0,9,Basic,Partner,United Kingdom,0
+SP-01708,55,70.4,11,2,2,4.3,0,24,Enterprise,Referral,United Kingdom,0
+SP-01709,15,181.53,12,5,0,4.9,0,15,Enterprise,Paid,Germany,1
+SP-01710,13,63.59,11,2,3,4.7,1,3,Basic,Paid,United Kingdom,0
+SP-01711,21,161.38,9,1,0,3.7,1,24,Basic,Partner,United Kingdom,1
+SP-01712,29,54.8,8,8,1,4.3,1,34,Enterprise,Paid,Portugal,0
+SP-01713,53,107.68,7,1,1,4.4,1,6,Professional,Organic,Portugal,0
+SP-01714,45,83.13,7,5,0,5.0,1,15,Basic,Organic,Germany,0
+SP-01715,39,119.05,8,5,0,3.3,1,9,Enterprise,Organic,United Kingdom,0
+SP-01716,53,99.28,3,0,1,5.0,0,2,Enterprise,Organic,United Kingdom,0
+SP-01717,39,116.34,11,5,2,2.9,2,13,Basic,Referral,United Kingdom,0
+SP-01718,23,54.06,7,5,3,4.7,2,20,Enterprise,Referral,Germany,0
+SP-01719,25,42.6,6,4,0,3.3,2,13,Professional,Paid,United Kingdom,0
+SP-01720,32,50.68,6,8,1,3.3,0,27,Enterprise,Organic,Germany,0
+SP-01721,6,50.19,5,3,0,3.6,0,13,Basic,Paid,Germany,1
+SP-01722,45,53.8,7,6,3,3.2,3,2,Basic,Organic,Germany,0
+SP-01723,40,65.29,4,6,0,4.1,1,6,Professional,Paid,United Kingdom,1
+SP-01724,44,65.06,7,2,0,4.8,3,23,Basic,Paid,Germany,0
+SP-01725,33,83.93,8,2,2,2.1,3,1,Professional,Referral,United Kingdom,1
+SP-01726,47,59.02,7,3,0,3.7,0,7,Professional,Organic,Portugal,0
+SP-01727,57,60.88,4,4,1,2.9,0,13,Basic,Paid,United Kingdom,0
+SP-01728,35,76.57,12,8,0,4.5,1,23,Enterprise,Partner,Portugal,0
+SP-01729,27,125.94,8,4,4,4.9,0,29,Basic,Paid,Germany,0
+SP-01730,7,69.91,9,3,1,3.7,2,9,Enterprise,Organic,Germany,0
+SP-01731,47,81.68,9,3,0,3.2,1,11,Professional,Organic,Germany,0
+SP-01732,55,87.13,8,4,3,2.5,1,7,Professional,Paid,Portugal,0
+SP-01733,42,56.23,13,2,0,5.0,1,12,Enterprise,Organic,United Kingdom,0
+SP-01734,52,72.66,12,5,0,4.9,2,4,Basic,Paid,Germany,0
+SP-01735,52,62.79,7,0,2,2.2,0,16,Basic,Partner,Portugal,1
+SP-01736,48,120.89,8,4,2,4.3,0,1,Basic,Organic,United Kingdom,0
+SP-01737,31,116.71,9,4,0,2.9,1,15,Professional,Organic,Portugal,0
+SP-01738,6,60.3,8,6,0,3.4,0,10,Professional,Referral,Germany,0
+SP-01739,1,81.04,11,1,2,2.8,1,23,Professional,Organic,Portugal,0
+SP-01740,13,106.29,8,4,0,2.2,2,19,Basic,Referral,United Kingdom,0
+SP-01741,26,94.81,5,4,0,3.8,1,8,Enterprise,Organic,Germany,1
+SP-01742,45,99.02,10,11,0,5.0,0,18,Professional,Referral,Germany,0
+SP-01743,28,56.36,3,3,2,3.1,0,4,Professional,Organic,United Kingdom,0
+SP-01744,2,158.79,8,4,1,4.5,1,3,Professional,Organic,United Kingdom,0
+SP-01745,13,64.79,5,6,2,4.6,1,14,Basic,Referral,Germany,0
+SP-01746,59,64.06,1,5,0,4.4,1,2,Professional,Organic,Germany,0
+SP-01747,60,48.35,9,4,2,5.0,1,31,Basic,Partner,Germany,0
+SP-01748,23,77.92,7,5,0,4.6,0,2,Basic,Organic,Germany,0
+SP-01749,49,131.6,8,2,2,5.0,1,22,Basic,Organic,Portugal,0
+SP-01750,44,94.42,3,3,0,2.9,0,10,Enterprise,Paid,Portugal,0
+SP-01751,56,80.4,8,2,0,4.4,0,16,Professional,Referral,Germany,0
+SP-01752,54,113.15,7,2,1,5.0,3,12,Basic,Partner,Portugal,0
+SP-01753,38,130.21,9,1,0,3.2,0,7,Basic,Organic,United Kingdom,1
+SP-01754,24,116.6,6,1,0,1.0,0,6,Basic,Referral,Germany,0
+SP-01755,38,38.14,11,5,1,2.8,2,17,Basic,Organic,United Kingdom,0
+SP-01756,20,113.56,6,4,2,3.2,1,23,Professional,Paid,Germany,0
+SP-01757,21,100.64,9,3,0,4.2,2,13,Professional,Referral,Germany,0
+SP-01758,37,59.77,9,3,0,3.3,1,16,Basic,Organic,United Kingdom,0
+SP-01759,35,100.81,7,3,0,3.8,0,13,Basic,Referral,Portugal,0
+SP-01760,35,131.72,16,3,4,3.3,0,3,Professional,Paid,Germany,0
+SP-01761,24,65.92,13,3,2,3.7,2,4,Basic,Partner,United Kingdom,0
+SP-01762,25,120.09,6,1,2,3.7,1,29,Professional,Organic,Portugal,0
+SP-01763,1,95.28,14,2,1,3.3,0,10,Professional,Organic,Portugal,0
+SP-01764,37,25.63,8,7,0,4.5,0,21,Professional,Referral,Germany,0
+SP-01765,35,82.82,6,3,2,4.9,1,8,Professional,Organic,Germany,0
+SP-01766,57,93.72,9,5,1,2.9,1,5,Enterprise,Paid,Germany,0
+SP-01767,31,73.83,9,2,1,4.0,0,8,Professional,Paid,Germany,0
+SP-01768,29,96.74,13,3,0,2.7,1,18,Professional,Organic,Portugal,0
+SP-01769,5,79.22,8,3,1,2.4,2,6,Professional,Referral,Germany,0
+SP-01770,12,197.92,11,5,3,4.6,1,13,Basic,Organic,Portugal,0
+SP-01771,21,71.74,7,2,1,5.0,0,16,Basic,Paid,Germany,0
+SP-01772,23,60.45,7,4,3,3.5,1,11,Professional,Referral,Germany,0
+SP-01773,22,117.54,5,8,0,5.0,1,13,Professional,Partner,Germany,0
+SP-01774,24,75.45,5,4,1,3.3,1,13,Professional,Organic,United Kingdom,0
+SP-01775,47,80.96,9,1,1,3.6,0,6,Basic,Paid,Germany,0
+SP-01776,8,78.16,6,4,1,5.0,3,9,Basic,Referral,Portugal,0
+SP-01777,20,114.81,10,0,1,3.1,1,5,Basic,Referral,Germany,0
+SP-01778,10,53.64,8,4,0,4.5,1,9,Basic,Referral,Portugal,0
+SP-01779,19,119.99,8,2,4,3.5,0,19,Professional,Referral,Germany,0
+SP-01780,42,104.06,13,3,3,3.2,0,19,Basic,Organic,United Kingdom,0
+SP-01781,3,168.82,9,4,1,3.4,1,13,Basic,Paid,United Kingdom,0
+SP-01782,21,90.73,7,5,0,2.1,0,11,Professional,Paid,United Kingdom,0
+SP-01783,2,55.18,10,5,1,4.8,1,15,Enterprise,Paid,United Kingdom,0
+SP-01784,58,91.14,10,2,1,4.0,0,12,Enterprise,Partner,Germany,0
+SP-01785,44,95.81,7,2,3,3.7,0,8,Basic,Organic,Germany,0
+SP-01786,15,136.59,9,8,1,3.2,0,10,Basic,Organic,Germany,0
+SP-01787,12,55.13,3,3,0,4.0,1,4,Enterprise,Organic,United Kingdom,0
+SP-01788,6,43.9,9,2,1,4.5,0,4,Enterprise,Organic,Portugal,0
+SP-01789,29,91.92,5,4,0,3.6,0,27,Professional,Organic,Germany,0
+SP-01790,46,172.07,12,4,1,4.6,1,18,Professional,Organic,Germany,0
+SP-01791,36,110.41,8,1,2,4.0,0,7,Professional,Partner,Germany,0
+SP-01792,53,113.1,3,4,0,3.7,1,10,Professional,Organic,United Kingdom,0
+SP-01793,21,47.85,2,3,2,4.5,0,8,Professional,Partner,Germany,0
+SP-01794,17,85.72,9,2,1,3.4,0,10,Professional,Referral,United Kingdom,0
+SP-01795,29,137.7,12,6,0,2.8,1,18,Professional,Referral,United Kingdom,0
+SP-01796,13,96.28,8,4,1,3.8,0,1,Enterprise,Referral,United Kingdom,0
+SP-01797,59,42.76,11,4,2,3.8,1,15,Enterprise,Referral,United Kingdom,0
+SP-01798,12,85.02,7,3,1,3.6,2,3,Basic,Referral,Germany,0
+SP-01799,29,107.18,10,3,1,4.8,0,59,Enterprise,Paid,Portugal,0
+SP-01800,32,22.35,8,0,3,4.2,1,21,Basic,Partner,Germany,1
+SP-01801,4,81.25,9,4,1,3.7,0,3,Basic,Paid,Portugal,0
+SP-01802,29,57.85,6,1,1,3.8,1,3,Basic,Referral,United Kingdom,0
+SP-01803,28,119.05,10,10,2,3.9,1,6,Basic,Paid,United Kingdom,0
+SP-01804,16,70.58,7,5,0,4.2,1,10,Basic,Paid,Portugal,0
+SP-01805,8,100.09,3,5,3,3.8,1,6,Enterprise,Referral,Portugal,1
+SP-01806,3,84.09,6,7,3,3.7,0,7,Basic,Partner,Germany,0
+SP-01807,1,69.5,9,1,1,2.7,2,1,Enterprise,Referral,United Kingdom,0
+SP-01808,29,180.65,15,2,1,3.2,0,44,Basic,Referral,Germany,0
+SP-01809,6,66.36,2,1,3,4.0,1,10,Basic,Paid,Germany,0
+SP-01810,58,87.01,7,1,0,4.0,1,32,Basic,Referral,Portugal,0
+SP-01811,15,83.98,8,7,1,2.6,0,7,Professional,Organic,Portugal,0
+SP-01812,40,90.97,6,2,0,3.4,0,40,Enterprise,Referral,United Kingdom,0
+SP-01813,41,174.66,7,3,1,3.1,0,16,Basic,Partner,Germany,0
+SP-01814,30,107.24,14,3,1,4.9,1,11,Basic,Referral,United Kingdom,0
+SP-01815,54,69.22,8,2,1,4.0,1,29,Enterprise,Partner,Portugal,0
+SP-01816,7,150.66,8,7,2,4.1,1,3,Professional,Paid,Portugal,0
+SP-01817,15,115.03,14,5,1,3.7,0,11,Basic,Referral,Portugal,0
+SP-01818,16,69.78,9,2,0,3.3,1,9,Basic,Organic,United Kingdom,1
+SP-01819,9,140.65,13,2,2,3.4,1,21,Professional,Paid,Germany,0
+SP-01820,18,47.65,8,0,2,4.2,0,2,Basic,Partner,Germany,0
+SP-01821,19,52.77,6,1,2,3.6,0,7,Professional,Referral,Germany,0
+SP-01822,46,41.67,5,9,2,4.2,0,1,Professional,Organic,Germany,0
+SP-01823,19,34.87,7,5,2,3.9,3,8,Basic,Organic,Germany,0
+SP-01824,53,136.32,7,3,1,4.0,2,25,Professional,Referral,United Kingdom,0
+SP-01825,47,91.45,7,2,1,4.1,1,8,Enterprise,Referral,Portugal,0
+SP-01826,55,43.16,6,4,0,3.4,1,5,Basic,Referral,United Kingdom,0
+SP-01827,7,83.08,8,6,3,3.6,0,18,Basic,Referral,Germany,0
+SP-01828,60,121.67,1,2,3,4.5,0,6,Professional,Referral,Germany,0
+SP-01829,37,61.62,15,3,0,5.0,2,23,Professional,Organic,Portugal,0
+SP-01830,59,73.83,6,4,0,4.5,3,31,Basic,Referral,Portugal,0
+SP-01831,22,184.47,5,4,2,1.6,0,11,Enterprise,Referral,Portugal,0
+SP-01832,58,76.62,7,6,1,3.2,1,15,Basic,Referral,Portugal,1
+SP-01833,36,44.54,7,3,0,3.9,0,25,Basic,Referral,Germany,0
+SP-01834,5,67.5,6,4,2,2.9,0,11,Basic,Paid,United Kingdom,0
+SP-01835,25,42.02,7,5,1,2.9,1,2,Professional,Paid,Germany,0
+SP-01836,9,110.95,8,3,4,3.5,3,26,Basic,Referral,Germany,1
+SP-01837,57,58.11,5,5,0,4.1,0,16,Professional,Paid,United Kingdom,0
+SP-01838,19,57.37,11,6,2,4.3,2,8,Enterprise,Partner,Portugal,0
+SP-01839,14,192.03,6,4,4,3.5,0,3,Basic,Paid,Germany,0
+SP-01840,34,50.46,8,3,1,3.4,1,8,Basic,Paid,Germany,0
+SP-01841,26,46.88,12,4,1,3.1,0,14,Enterprise,Paid,Portugal,0
+SP-01842,6,53.87,9,0,2,4.2,0,15,Basic,Referral,Germany,0
+SP-01843,49,123.31,10,2,1,4.2,0,19,Basic,Partner,United Kingdom,0
+SP-01844,51,104.8,5,1,1,4.5,0,27,Professional,Organic,United Kingdom,0
+SP-01845,45,67.14,8,4,3,3.9,0,18,Professional,Organic,Germany,0
+SP-01846,38,64.65,10,3,2,2.8,1,11,Basic,Organic,Germany,0
+SP-01847,25,101.42,3,2,0,3.5,0,7,Enterprise,Referral,Germany,0
+SP-01848,33,92.91,5,2,1,4.5,0,5,Professional,Paid,United Kingdom,0
+SP-01849,32,78.69,7,3,0,2.4,0,20,Basic,Organic,United Kingdom,0
+SP-01850,10,106.34,11,1,3,3.7,1,10,Basic,Partner,Germany,1
+SP-01851,5,52.42,6,1,0,4.0,1,4,Professional,Paid,United Kingdom,1
+SP-01852,16,58.52,10,6,1,5.0,0,15,Basic,Partner,Germany,1
+SP-01853,28,108.7,7,9,0,3.3,1,14,Basic,Paid,United Kingdom,0
+SP-01854,10,96.09,7,6,4,3.7,0,43,Basic,Referral,United Kingdom,1
+SP-01855,7,33.85,9,5,2,5.0,1,1,Professional,Partner,Portugal,0
+SP-01856,52,85.52,11,7,0,3.3,0,3,Basic,Partner,United Kingdom,0
+SP-01857,23,188.94,6,0,0,4.7,0,1,Basic,Paid,United Kingdom,0
+SP-01858,36,116.25,12,6,2,4.1,0,5,Professional,Organic,Germany,0
+SP-01859,32,67.98,11,4,3,3.6,2,10,Enterprise,Organic,Germany,0
+SP-01860,45,60.6,6,4,3,4.2,0,8,Basic,Organic,Germany,0
+SP-01861,45,98.01,11,1,0,3.7,0,29,Professional,Organic,United Kingdom,1
+SP-01862,18,136.14,10,1,2,5.0,1,9,Basic,Referral,Germany,0
+SP-01863,51,39.59,11,2,0,2.1,0,2,Basic,Referral,Portugal,0
+SP-01864,23,95.04,5,6,0,3.6,3,38,Basic,Paid,Germany,0
+SP-01865,51,73.33,13,4,1,3.6,0,20,Professional,Partner,Portugal,0
+SP-01866,25,91.44,3,6,0,3.7,0,20,Basic,Referral,Germany,0
+SP-01867,7,45.57,6,2,1,4.7,0,3,Enterprise,Partner,United Kingdom,0
+SP-01868,46,136.09,8,6,2,3.4,0,12,Basic,Partner,Germany,0
+SP-01869,2,152.1,11,4,1,4.2,0,26,Professional,Paid,Portugal,0
+SP-01870,47,111.71,5,4,0,4.0,2,22,Professional,Paid,United Kingdom,0
+SP-01871,3,165.63,7,4,1,4.5,1,6,Professional,Partner,Germany,0
+SP-01872,13,71.82,10,5,3,3.7,0,10,Enterprise,Referral,Germany,0
+SP-01873,37,94.09,6,5,0,4.1,0,23,Enterprise,Referral,United Kingdom,0
+SP-01874,57,112.42,4,4,2,3.7,1,12,Professional,Referral,Portugal,0
+SP-01875,25,98.56,10,0,1,3.0,2,8,Basic,Referral,United Kingdom,0
+SP-01876,8,75.65,8,4,1,5.0,0,4,Professional,Partner,United Kingdom,0
+SP-01877,14,79.05,9,2,1,3.2,0,10,Enterprise,Organic,Portugal,0
+SP-01878,54,146.04,7,7,1,3.4,1,28,Basic,Referral,United Kingdom,0
+SP-01879,44,83.71,6,7,1,3.1,0,25,Basic,Partner,Germany,0
+SP-01880,7,132.75,6,1,0,4.1,1,14,Basic,Paid,Germany,0
+SP-01881,24,81.89,10,5,0,3.4,0,13,Professional,Organic,United Kingdom,0
+SP-01882,16,132.4,4,2,2,5.0,0,19,Basic,Paid,Portugal,0
+SP-01883,11,87.47,5,1,1,4.2,0,13,Basic,Organic,United Kingdom,1
+SP-01884,51,108.45,7,3,0,3.6,2,13,Basic,Referral,Germany,0
+SP-01885,38,63.66,7,1,2,3.1,1,3,Professional,Partner,Germany,0
+SP-01886,11,94.0,7,7,3,3.7,1,4,Basic,Paid,Germany,0
+SP-01887,40,64.05,6,5,0,4.2,0,17,Enterprise,Partner,Portugal,0
+SP-01888,25,71.09,12,1,1,3.8,0,12,Professional,Organic,Germany,0
+SP-01889,4,73.48,6,4,2,3.7,1,11,Basic,Referral,Portugal,1
+SP-01890,27,78.48,10,0,1,3.0,0,8,Professional,Paid,Germany,0
+SP-01891,12,125.81,5,2,0,5.0,0,28,Basic,Organic,United Kingdom,0
+SP-01892,15,69.97,6,2,0,3.6,1,17,Professional,Partner,United Kingdom,0
+SP-01893,53,89.98,11,4,0,2.7,1,15,Enterprise,Organic,Portugal,0
+SP-01894,43,132.58,0,4,0,2.9,0,4,Professional,Partner,United Kingdom,0
+SP-01895,9,107.49,6,4,2,3.5,0,15,Basic,Organic,United Kingdom,1
+SP-01896,52,39.9,13,7,0,5.0,0,50,Basic,Partner,Germany,1
+SP-01897,35,45.09,0,3,1,3.7,1,2,Professional,Partner,Germany,0
+SP-01898,53,99.34,12,4,0,3.5,0,20,Basic,Partner,United Kingdom,0
+SP-01899,45,68.52,8,4,2,4.5,0,11,Professional,Paid,Germany,0
+SP-01900,21,42.69,5,4,1,4.5,1,11,Basic,Referral,United Kingdom,0
+SP-01901,33,66.49,2,5,1,4.3,0,24,Professional,Referral,United Kingdom,0
+SP-01902,32,100.91,8,3,2,4.0,2,6,Basic,Referral,Germany,0
+SP-01903,44,73.14,4,3,1,2.9,0,8,Professional,Organic,Germany,0
+SP-01904,15,86.38,3,3,1,3.2,1,9,Basic,Organic,United Kingdom,0
+SP-01905,20,75.86,7,0,1,2.5,0,5,Basic,Referral,Germany,0
+SP-01906,15,62.74,10,4,0,3.6,0,9,Basic,Referral,Germany,0
+SP-01907,18,93.24,14,0,1,3.5,1,6,Professional,Paid,Germany,0
+SP-01908,10,40.98,5,4,1,3.4,0,11,Enterprise,Paid,Germany,0
+SP-01909,3,59.55,6,6,1,4.0,0,21,Basic,Paid,Germany,0
+SP-01910,57,116.06,9,5,3,3.3,0,5,Enterprise,Paid,Germany,0
+SP-01911,5,45.64,6,2,1,3.5,0,13,Basic,Partner,Germany,0
+SP-01912,54,84.58,12,3,1,3.4,0,11,Enterprise,Organic,Portugal,0
+SP-01913,1,70.79,7,5,1,3.8,1,10,Basic,Referral,United Kingdom,0
+SP-01914,47,68.05,9,2,3,4.1,1,5,Professional,Organic,Germany,0
+SP-01915,20,120.78,11,6,1,2.7,0,24,Professional,Organic,United Kingdom,0
+SP-01916,32,130.92,10,3,2,4.2,0,24,Basic,Referral,United Kingdom,1
+SP-01917,17,53.82,10,5,2,4.0,0,10,Enterprise,Referral,United Kingdom,0
+SP-01918,30,78.75,9,4,1,4.1,0,19,Enterprise,Paid,United Kingdom,0
+SP-01919,28,36.91,4,5,1,3.9,0,7,Basic,Paid,Portugal,0
+SP-01920,32,117.87,8,1,0,4.1,0,21,Basic,Paid,Portugal,0
+SP-01921,24,82.75,8,2,1,3.5,2,5,Basic,Referral,Germany,0
+SP-01922,33,44.43,9,3,2,4.2,0,4,Basic,Organic,United Kingdom,0
+SP-01923,50,60.72,9,1,2,4.7,0,12,Professional,Organic,Germany,0
+SP-01924,27,51.91,5,1,2,3.4,1,35,Basic,Organic,Germany,0
+SP-01925,22,59.31,3,2,1,3.4,0,4,Basic,Organic,Portugal,0
+SP-01926,8,38.21,9,7,0,4.3,1,2,Basic,Referral,Portugal,0
+SP-01927,22,145.35,2,4,1,3.4,0,21,Enterprise,Referral,United Kingdom,0
+SP-01928,8,54.64,2,7,2,3.2,1,12,Basic,Organic,Germany,1
+SP-01929,11,84.49,6,5,0,4.1,0,13,Professional,Organic,Germany,0
+SP-01930,58,100.52,8,6,2,3.5,1,8,Professional,Organic,Germany,0
+SP-01931,6,131.0,4,3,0,4.8,0,16,Basic,Organic,United Kingdom,0
+SP-01932,29,85.71,7,2,1,3.4,0,19,Professional,Organic,Germany,0
+SP-01933,51,75.39,7,2,1,3.1,0,3,Basic,Organic,United Kingdom,0
+SP-01934,58,87.21,7,3,0,3.8,1,3,Professional,Referral,Portugal,0
+SP-01935,9,53.7,7,0,1,4.1,2,4,Basic,Paid,Germany,0
+SP-01936,10,55.45,2,2,4,4.1,1,6,Basic,Referral,Portugal,0
+SP-01937,23,74.66,4,1,0,4.2,0,10,Enterprise,Organic,United Kingdom,0
+SP-01938,34,33.31,11,5,0,3.4,0,12,Basic,Paid,Germany,0
+SP-01939,58,63.28,13,2,4,4.7,2,17,Basic,Paid,Germany,0
+SP-01940,13,69.01,8,4,4,2.5,0,6,Basic,Paid,Germany,0
+SP-01941,10,176.69,9,1,1,3.2,0,20,Professional,Organic,United Kingdom,1
+SP-01942,16,138.3,13,3,1,3.8,0,12,Professional,Partner,United Kingdom,0
+SP-01943,53,100.36,8,5,2,3.2,1,14,Basic,Organic,United Kingdom,1
+SP-01944,2,119.13,14,2,0,3.6,1,3,Professional,Partner,Germany,0
+SP-01945,23,55.26,6,5,1,3.0,1,5,Professional,Paid,United Kingdom,0
+SP-01946,8,88.19,4,5,2,3.6,1,8,Professional,Organic,United Kingdom,0
+SP-01947,10,112.89,8,1,1,4.2,1,61,Professional,Organic,Germany,1
+SP-01948,56,55.46,11,1,2,3.4,0,20,Basic,Organic,Germany,0
+SP-01949,1,45.14,8,4,0,3.1,2,10,Basic,Paid,United Kingdom,0
+SP-01950,20,95.95,14,5,1,3.4,0,7,Professional,Partner,Portugal,0
+SP-01951,55,47.12,8,7,2,4.7,0,36,Professional,Partner,Portugal,0
+SP-01952,37,104.23,9,7,1,4.7,0,13,Professional,Partner,Portugal,0
+SP-01953,5,130.04,9,9,1,3.4,1,5,Enterprise,Organic,Germany,0
+SP-01954,28,56.17,10,3,2,4.2,0,4,Professional,Referral,United Kingdom,0
+SP-01955,59,57.93,7,4,4,3.8,0,16,Professional,Paid,Germany,0
+SP-01956,25,128.4,5,2,3,4.8,0,10,Professional,Organic,Germany,0
+SP-01957,32,85.9,6,3,0,4.0,0,23,Basic,Organic,Germany,0
+SP-01958,32,121.09,3,6,1,3.6,2,4,Basic,Organic,United Kingdom,0
+SP-01959,40,75.79,7,3,2,5.0,3,20,Basic,Referral,United Kingdom,1
+SP-01960,12,78.16,8,2,2,3.1,1,21,Professional,Paid,United Kingdom,1
+SP-01961,51,84.97,9,2,0,4.1,0,26,Professional,Organic,United Kingdom,1
+SP-01962,60,160.66,9,3,3,4.9,0,6,Enterprise,Organic,Germany,0
+SP-01963,9,117.08,10,2,0,4.3,0,20,Basic,Organic,United Kingdom,0
+SP-01964,50,62.43,2,8,2,3.2,2,8,Basic,Paid,Germany,0
+SP-01965,50,90.84,6,4,1,3.1,2,5,Basic,Referral,Germany,0
+SP-01966,45,73.62,7,1,1,2.7,0,10,Enterprise,Referral,Germany,0
+SP-01967,23,68.05,4,1,0,5.0,2,1,Basic,Referral,Portugal,0
+SP-01968,29,103.0,6,5,0,2.9,0,14,Basic,Organic,Portugal,0
+SP-01969,51,94.35,12,2,2,4.4,1,10,Basic,Paid,Portugal,0
+SP-01970,10,56.43,9,7,3,2.7,2,3,Professional,Organic,Germany,0
+SP-01971,50,85.06,6,3,1,5.0,0,14,Basic,Paid,United Kingdom,0
+SP-01972,56,67.2,6,2,1,2.7,1,19,Basic,Paid,Portugal,1
+SP-01973,41,100.28,9,4,1,3.8,2,9,Professional,Organic,Germany,0
+SP-01974,21,65.99,12,3,0,4.8,0,7,Professional,Paid,Germany,0
+SP-01975,34,78.35,5,4,2,3.2,3,16,Professional,Organic,Germany,1
+SP-01976,4,68.82,10,5,2,4.3,0,29,Basic,Referral,Portugal,0
+SP-01977,56,40.43,4,4,1,3.6,1,9,Basic,Paid,United Kingdom,0
+SP-01978,21,157.14,9,3,1,4.1,1,38,Basic,Organic,Portugal,0
+SP-01979,4,84.68,10,5,1,4.7,1,24,Enterprise,Paid,Germany,0
+SP-01980,48,159.54,8,6,0,3.5,1,8,Basic,Organic,Germany,0
+SP-01981,40,86.26,8,3,1,5.0,1,6,Basic,Organic,United Kingdom,0
+SP-01982,38,110.74,12,4,0,4.1,0,16,Basic,Organic,Germany,0
+SP-01983,4,64.11,10,1,4,5.0,1,4,Basic,Organic,Portugal,0
+SP-01984,46,64.76,7,3,1,3.1,1,4,Basic,Organic,United Kingdom,0
+SP-01985,39,82.73,9,3,2,3.3,0,8,Professional,Organic,United Kingdom,0
+SP-01986,48,158.91,3,3,2,3.6,0,8,Enterprise,Paid,Germany,0
+SP-01987,50,57.23,13,4,1,2.8,1,34,Professional,Partner,United Kingdom,0
+SP-01988,13,36.86,8,3,0,4.5,0,21,Professional,Partner,Portugal,0
+SP-01989,13,127.13,8,2,1,3.7,0,22,Basic,Partner,Portugal,0
+SP-01990,56,113.61,10,2,1,2.9,0,16,Basic,Paid,United Kingdom,0
+SP-01991,32,70.4,10,2,2,3.1,0,8,Basic,Paid,United Kingdom,0
+SP-01992,27,185.92,5,3,1,3.1,0,9,Basic,Organic,United Kingdom,0
+SP-01993,18,189.55,7,2,1,4.5,1,15,Basic,Partner,Germany,1
+SP-01994,39,39.38,7,2,1,4.2,0,5,Professional,Organic,Portugal,0
+SP-01995,46,63.5,6,4,2,3.7,2,5,Professional,Paid,Germany,0
+SP-01996,1,82.49,3,2,1,3.5,0,20,Enterprise,Paid,Germany,0
+SP-01997,34,99.15,6,3,0,3.6,0,17,Basic,Partner,Portugal,0
+SP-01998,60,93.02,5,2,1,5.0,0,4,Professional,Organic,United Kingdom,0
+SP-01999,17,84.54,11,3,2,3.6,0,4,Professional,Organic,United Kingdom,0
+SP-02000,17,53.78,13,4,1,4.5,2,5,Basic,Referral,Germany,0
+SP-02001,53,104.32,5,7,1,3.5,1,19,Professional,Paid,Portugal,0
+SP-02002,4,106.8,6,2,2,5.0,1,23,Professional,Paid,United Kingdom,0
+SP-02003,24,123.31,16,2,1,2.8,1,5,Basic,Organic,United Kingdom,0
+SP-02004,28,50.82,4,1,0,4.4,0,13,Professional,Partner,Germany,1
+SP-02005,48,77.11,13,1,2,3.2,0,5,Professional,Referral,Germany,0
+SP-02006,8,69.01,8,3,0,5.0,2,27,Basic,Partner,Germany,0
+SP-02007,27,50.45,7,4,0,4.4,0,2,Enterprise,Partner,Germany,0
+SP-02008,10,76.61,12,2,1,2.4,3,14,Basic,Partner,Germany,0
+SP-02009,48,54.85,15,2,0,3.1,1,8,Enterprise,Paid,Portugal,0
+SP-02010,38,47.22,11,9,0,4.3,0,5,Professional,Paid,Germany,0
+SP-02011,30,114.23,8,1,1,4.3,1,3,Basic,Referral,Germany,0
+SP-02012,24,70.25,5,7,1,4.3,0,4,Basic,Referral,Portugal,0
+SP-02013,10,62.26,7,3,1,3.9,1,9,Professional,Referral,United Kingdom,0
+SP-02014,56,136.12,9,4,2,3.5,1,6,Basic,Referral,United Kingdom,0
+SP-02015,39,108.14,6,6,1,4.7,1,12,Basic,Organic,United Kingdom,0
+SP-02016,20,35.45,8,2,1,3.1,1,35,Professional,Organic,Germany,0
+SP-02017,25,99.42,4,8,0,3.8,0,21,Enterprise,Organic,United Kingdom,0
+SP-02018,44,99.22,11,5,3,3.3,0,20,Basic,Paid,Portugal,0
+SP-02019,44,75.3,7,2,2,3.2,0,19,Basic,Referral,Germany,0
+SP-02020,28,74.14,9,2,4,3.4,1,16,Professional,Organic,Portugal,0
+SP-02021,19,42.19,6,3,1,3.2,1,23,Professional,Paid,United Kingdom,1
+SP-02022,40,184.96,10,2,0,4.2,1,7,Basic,Partner,Germany,0
+SP-02023,40,76.49,11,5,1,2.6,0,16,Professional,Organic,Germany,0
+SP-02024,36,97.18,10,4,0,4.1,0,2,Basic,Partner,Germany,0
+SP-02025,5,78.23,6,5,1,3.3,0,19,Basic,Organic,Portugal,1
+SP-02026,29,62.68,7,6,0,3.8,0,12,Basic,Paid,Portugal,0
+SP-02027,37,117.95,13,5,0,3.7,0,11,Professional,Partner,Germany,0
+SP-02028,58,89.69,5,5,4,3.4,1,4,Basic,Organic,Germany,0
+SP-02029,32,76.75,7,3,1,4.8,2,3,Professional,Partner,Portugal,0
+SP-02030,21,96.74,12,3,4,3.5,2,8,Professional,Paid,United Kingdom,0
+SP-02031,34,81.22,6,3,4,4.4,1,12,Basic,Partner,United Kingdom,0
+SP-02032,11,164.34,10,6,1,4.4,2,21,Enterprise,Organic,Germany,0
+SP-02033,6,116.26,8,4,2,3.6,0,23,Professional,Organic,Germany,1
+SP-02034,41,103.31,4,3,1,2.8,1,21,Professional,Paid,Germany,1
+SP-02035,60,44.11,6,7,2,3.1,1,16,Professional,Referral,United Kingdom,0
+SP-02036,51,104.81,5,4,0,4.8,0,3,Professional,Paid,Portugal,0
+SP-02037,36,103.72,6,5,0,4.2,2,11,Basic,Referral,United Kingdom,0
+SP-02038,3,55.24,3,4,0,3.9,1,29,Professional,Organic,Germany,0
+SP-02039,60,43.72,9,4,2,3.3,1,35,Basic,Referral,Germany,0
+SP-02040,27,114.24,12,6,0,5.0,1,3,Enterprise,Paid,Portugal,0
+SP-02041,18,120.27,5,5,0,3.1,1,8,Basic,Organic,United Kingdom,0
+SP-02042,54,64.9,8,7,2,3.9,1,30,Professional,Referral,Germany,0
+SP-02043,45,63.72,7,3,0,4.2,2,23,Basic,Paid,Germany,0
+SP-02044,45,89.06,6,5,1,2.8,2,11,Basic,Paid,United Kingdom,1
+SP-02045,17,70.16,7,3,0,3.2,1,14,Basic,Organic,Germany,1
+SP-02046,60,43.36,10,3,0,3.4,2,16,Basic,Organic,Germany,0
+SP-02047,28,54.99,10,3,0,4.5,0,24,Professional,Paid,United Kingdom,0
+SP-02048,32,95.71,8,0,2,3.4,1,24,Professional,Referral,United Kingdom,0
+SP-02049,46,56.23,8,2,1,2.7,3,9,Basic,Paid,Germany,0
+SP-02050,40,122.85,12,0,2,2.6,1,29,Basic,Organic,Germany,1
+SP-02051,11,103.02,8,9,2,3.2,0,31,Professional,Paid,Germany,0
+SP-02052,19,97.3,5,3,2,2.6,2,10,Basic,Organic,Germany,1
+SP-02053,22,88.29,6,3,0,4.4,0,30,Professional,Referral,Germany,0
+SP-02054,57,61.55,7,2,3,4.4,0,10,Professional,Organic,United Kingdom,0
+SP-02055,43,108.91,2,2,1,3.8,0,19,Professional,Referral,Germany,0
+SP-02056,22,60.85,4,5,0,3.6,0,33,Enterprise,Paid,United Kingdom,1
+SP-02057,45,125.77,4,6,0,4.4,1,26,Basic,Referral,United Kingdom,0
+SP-02058,45,153.01,10,4,1,4.4,0,6,Professional,Organic,Portugal,0
+SP-02059,24,89.47,5,4,0,3.0,0,16,Professional,Partner,United Kingdom,1
+SP-02060,25,144.21,9,4,0,3.1,0,17,Professional,Organic,Portugal,0
+SP-02061,54,55.3,8,1,2,4.4,0,14,Professional,Paid,Portugal,0
+SP-02062,34,103.5,9,2,1,4.0,3,7,Enterprise,Paid,Germany,0
+SP-02063,9,83.67,10,3,1,4.3,0,7,Professional,Partner,Germany,0
+SP-02064,44,115.07,5,3,3,3.1,1,10,Enterprise,Partner,Germany,0
+SP-02065,36,36.18,11,3,2,3.2,0,3,Professional,Organic,United Kingdom,0
+SP-02066,31,112.2,6,3,3,4.2,0,17,Professional,Partner,Germany,0
+SP-02067,44,63.9,11,4,0,3.3,2,2,Basic,Organic,Germany,0
+SP-02068,55,85.37,6,6,5,2.6,1,37,Basic,Referral,Germany,0
+SP-02069,20,183.54,5,3,1,3.3,0,11,Enterprise,Organic,Germany,0
+SP-02070,26,104.95,6,4,0,3.6,1,7,Professional,Referral,Germany,0
+SP-02071,12,99.24,6,5,1,5.0,0,4,Professional,Paid,Portugal,0
+SP-02072,39,95.91,4,3,0,3.1,1,25,Basic,Partner,Germany,0
+SP-02073,25,131.37,7,4,1,3.8,2,16,Basic,Organic,Germany,0
+SP-02074,21,116.73,6,1,1,5.0,0,14,Basic,Referral,Portugal,0
+SP-02075,42,96.35,7,4,1,2.9,0,16,Basic,Paid,Portugal,0
+SP-02076,25,91.47,9,4,1,4.3,0,16,Enterprise,Referral,Portugal,0
+SP-02077,28,88.98,10,3,1,3.2,1,17,Basic,Partner,Portugal,0
+SP-02078,27,81.79,11,4,2,4.1,0,15,Basic,Organic,Germany,1
+SP-02079,16,50.49,8,3,0,5.0,2,19,Professional,Organic,Germany,1
+SP-02080,8,104.02,8,1,2,4.4,0,16,Professional,Referral,Portugal,0
+SP-02081,50,66.46,13,7,2,3.9,1,2,Professional,Referral,Germany,0
+SP-02082,6,77.77,8,4,2,3.0,2,6,Basic,Partner,Germany,0
+SP-02083,20,120.07,6,5,4,3.7,1,6,Basic,Organic,United Kingdom,1
+SP-02084,41,82.58,7,3,1,3.3,1,7,Professional,Organic,Germany,0
+SP-02085,8,79.97,6,4,0,2.6,3,4,Professional,Organic,Germany,0
+SP-02086,40,89.59,5,2,0,2.1,1,15,Enterprise,Paid,United Kingdom,0
+SP-02087,44,73.75,7,4,1,3.1,0,20,Professional,Organic,Germany,0
+SP-02088,40,181.77,8,4,2,3.8,0,3,Professional,Organic,Germany,0
+SP-02089,19,170.61,11,3,1,4.7,0,5,Enterprise,Partner,United Kingdom,0
+SP-02090,2,168.64,3,4,1,3.2,1,3,Basic,Paid,Germany,0
+SP-02091,54,96.05,7,5,0,4.0,0,2,Basic,Partner,Portugal,0
+SP-02092,20,64.77,9,2,3,2.4,1,12,Basic,Organic,Germany,1
+SP-02093,49,121.44,9,4,2,3.2,0,2,Enterprise,Organic,Germany,0
+SP-02094,12,73.98,11,1,0,1.8,0,12,Basic,Paid,Portugal,1
+SP-02095,10,125.97,4,5,0,5.0,2,14,Professional,Organic,Germany,0
+SP-02096,47,63.56,17,2,0,4.0,1,11,Professional,Partner,Portugal,1
+SP-02097,57,98.91,8,7,4,3.9,0,11,Professional,Partner,Portugal,0
+SP-02098,52,133.55,8,2,2,4.2,1,10,Basic,Referral,Germany,0
+SP-02099,46,75.67,6,2,0,5.0,0,21,Basic,Partner,United Kingdom,0
+SP-02100,15,75.55,10,2,1,3.5,0,31,Basic,Partner,Germany,0
+SP-02101,55,45.41,7,4,3,3.0,1,15,Basic,Paid,Portugal,0
+SP-02102,41,64.34,12,4,0,5.0,2,6,Basic,Organic,Portugal,0
+SP-02103,11,95.27,6,5,2,2.8,0,5,Basic,Organic,Germany,0
+SP-02104,8,101.26,7,3,2,4.8,0,2,Basic,Organic,Portugal,0
+SP-02105,53,107.42,10,3,2,3.7,0,27,Basic,Paid,Germany,0
+SP-02106,17,38.99,9,5,3,4.1,0,9,Enterprise,Referral,United Kingdom,0
+SP-02107,46,74.13,6,1,2,2.7,1,10,Basic,Paid,Germany,0
+SP-02108,9,47.48,9,1,0,5.0,0,12,Basic,Paid,Germany,0
+SP-02109,17,93.3,10,3,2,3.5,1,8,Basic,Paid,Germany,0
+SP-02110,18,42.22,19,0,0,3.2,3,14,Basic,Organic,Germany,0
+SP-02111,17,52.82,7,5,1,4.2,0,14,Professional,Paid,Germany,0
+SP-02112,41,115.89,8,3,0,3.3,2,15,Enterprise,Organic,United Kingdom,0
+SP-02113,55,67.33,3,4,2,4.1,1,3,Basic,Paid,Portugal,0
+SP-02114,55,144.74,8,1,1,2.8,4,1,Professional,Referral,Portugal,0
+SP-02115,45,108.6,3,5,0,3.9,1,20,Professional,Organic,Germany,0
+SP-02116,13,75.84,9,1,3,3.3,1,9,Professional,Paid,Germany,0
+SP-02117,58,123.6,10,2,1,3.2,1,6,Enterprise,Organic,Portugal,0
+SP-02118,33,78.48,5,6,1,3.0,0,22,Basic,Paid,United Kingdom,1
+SP-02119,33,113.12,2,5,2,4.5,1,6,Basic,Referral,Germany,0
+SP-02120,43,63.07,5,3,1,3.5,0,5,Basic,Referral,Germany,0
+SP-02121,47,126.64,3,3,3,3.7,1,7,Professional,Referral,Portugal,0
+SP-02122,58,43.72,9,5,1,4.1,1,6,Basic,Organic,United Kingdom,0
+SP-02123,35,52.79,9,2,0,4.7,0,6,Enterprise,Paid,Germany,0
+SP-02124,37,56.39,7,8,0,3.1,0,19,Basic,Organic,Portugal,1
+SP-02125,45,65.76,5,2,1,4.0,0,28,Enterprise,Partner,United Kingdom,0
+SP-02126,16,96.68,3,1,1,3.1,1,5,Basic,Paid,Portugal,0
+SP-02127,19,84.4,9,4,0,3.6,2,11,Professional,Partner,Germany,0
+SP-02128,38,113.67,6,9,1,4.7,2,6,Basic,Paid,Portugal,0
+SP-02129,4,134.35,3,4,1,1.9,1,23,Professional,Organic,Portugal,1
+SP-02130,20,41.9,7,6,0,3.1,0,14,Professional,Referral,United Kingdom,0
+SP-02131,44,141.29,4,3,1,3.6,0,12,Basic,Paid,Portugal,0
+SP-02132,59,77.77,7,3,0,4.1,0,18,Enterprise,Paid,Germany,0
+SP-02133,32,167.2,9,3,1,4.8,0,22,Professional,Paid,United Kingdom,0
+SP-02134,24,61.95,4,5,1,2.4,0,18,Basic,Referral,United Kingdom,0
+SP-02135,27,37.41,11,4,1,4.9,1,17,Professional,Paid,United Kingdom,0
+SP-02136,42,109.11,17,6,1,4.2,0,31,Professional,Referral,United Kingdom,0
+SP-02137,33,106.28,3,5,1,3.6,0,15,Professional,Organic,Portugal,0
+SP-02138,2,53.34,4,0,0,2.6,1,6,Basic,Referral,Germany,1
+SP-02139,33,55.47,9,4,0,3.3,1,13,Professional,Referral,United Kingdom,0
+SP-02140,25,117.24,10,1,0,4.6,0,8,Professional,Referral,Germany,0
+SP-02141,43,98.61,6,4,1,3.8,1,29,Enterprise,Organic,United Kingdom,0
+SP-02142,53,74.6,13,5,2,3.7,0,9,Basic,Partner,United Kingdom,0
+SP-02143,58,102.75,9,4,2,3.0,1,9,Basic,Paid,Portugal,0
+SP-02144,37,94.57,7,3,1,4.4,2,10,Professional,Organic,Portugal,0
+SP-02145,22,57.83,12,3,2,3.7,2,14,Professional,Partner,United Kingdom,0
+SP-02146,27,120.94,5,3,1,3.6,1,7,Professional,Paid,Germany,0
+SP-02147,11,111.14,9,2,1,3.7,2,7,Enterprise,Paid,United Kingdom,0
+SP-02148,57,85.19,7,5,2,3.3,0,5,Enterprise,Partner,United Kingdom,0
+SP-02149,51,117.27,8,2,1,3.1,1,27,Enterprise,Paid,Germany,1
+SP-02150,52,176.38,5,2,1,2.6,1,17,Basic,Organic,Germany,0
+SP-02151,20,55.21,7,4,2,3.3,1,9,Basic,Organic,Portugal,0
+SP-02152,20,75.97,7,4,0,2.4,1,8,Basic,Organic,Germany,1
+SP-02153,52,77.51,6,4,2,4.2,2,5,Enterprise,Referral,Portugal,0
+SP-02154,33,116.19,9,1,0,3.3,1,8,Professional,Organic,Germany,0
+SP-02155,43,65.43,8,7,0,3.5,0,10,Basic,Organic,Portugal,0
+SP-02156,30,113.47,10,6,1,3.8,1,24,Basic,Referral,United Kingdom,0
+SP-02157,27,68.57,15,2,0,3.2,1,5,Enterprise,Organic,United Kingdom,0
+SP-02158,38,52.69,2,4,1,2.9,0,13,Basic,Organic,United Kingdom,0
+SP-02159,49,87.26,9,2,2,4.0,1,16,Professional,Paid,United Kingdom,0
+SP-02160,21,67.96,9,2,3,5.0,0,6,Professional,Referral,United Kingdom,1
+SP-02161,49,90.83,12,3,2,4.5,2,2,Basic,Referral,Germany,0
+SP-02162,15,99.84,9,1,2,4.8,1,13,Basic,Referral,United Kingdom,1
+SP-02163,25,43.06,5,1,2,2.8,0,5,Enterprise,Paid,Portugal,0
+SP-02164,55,71.16,11,5,1,3.6,2,14,Basic,Organic,Portugal,0
+SP-02165,58,87.29,8,3,1,3.6,0,13,Professional,Referral,Portugal,0
+SP-02166,56,117.48,13,6,2,4.9,0,20,Enterprise,Referral,Portugal,0
+SP-02167,19,111.48,8,4,0,4.5,0,22,Basic,Paid,United Kingdom,0
+SP-02168,51,59.79,8,0,1,3.7,1,3,Basic,Organic,Portugal,0
+SP-02169,57,79.08,9,4,3,2.0,1,16,Professional,Partner,United Kingdom,0
+SP-02170,59,101.99,4,1,1,2.9,1,14,Basic,Organic,Germany,0
+SP-02171,2,76.85,6,2,0,4.3,3,14,Basic,Referral,United Kingdom,0
+SP-02172,45,62.12,9,3,1,3.5,2,22,Basic,Paid,Germany,0
+SP-02173,60,83.07,10,3,2,3.7,1,5,Enterprise,Referral,Germany,0
+SP-02174,46,98.02,5,4,2,4.3,1,22,Professional,Partner,United Kingdom,0
+SP-02175,14,57.5,10,1,1,4.7,1,16,Basic,Paid,Portugal,0
+SP-02176,46,106.56,16,7,2,3.2,0,2,Basic,Paid,Germany,0
+SP-02177,7,89.4,5,5,2,4.3,0,7,Enterprise,Partner,United Kingdom,0
+SP-02178,29,108.17,7,2,0,5.0,1,11,Professional,Organic,Germany,0
+SP-02179,38,82.32,12,5,1,4.9,1,3,Basic,Referral,Portugal,0
+SP-02180,28,164.62,3,2,1,3.4,0,16,Professional,Referral,United Kingdom,1
+SP-02181,42,97.24,5,9,2,4.0,0,22,Basic,Paid,United Kingdom,0
+SP-02182,15,113.26,6,3,1,4.4,1,19,Basic,Paid,Germany,0
+SP-02183,37,106.38,9,5,1,3.8,1,18,Enterprise,Referral,Germany,0
+SP-02184,39,78.66,7,5,1,3.6,0,8,Professional,Organic,United Kingdom,0
+SP-02185,39,93.69,7,4,1,2.4,0,16,Basic,Paid,United Kingdom,1
+SP-02186,18,66.05,10,5,1,3.1,0,30,Professional,Paid,Germany,0
+SP-02187,19,159.4,7,2,0,3.2,0,4,Basic,Organic,United Kingdom,0
+SP-02188,16,101.67,7,5,1,2.8,0,4,Enterprise,Organic,United Kingdom,0
+SP-02189,28,60.66,10,4,2,3.9,1,5,Basic,Organic,Germany,0
+SP-02190,36,143.68,4,0,0,4.5,0,11,Professional,Organic,Germany,0
+SP-02191,22,80.29,9,6,5,3.5,1,5,Professional,Organic,Germany,0
+SP-02192,25,119.91,11,4,0,2.0,2,18,Professional,Paid,Portugal,0
+SP-02193,18,42.63,3,4,4,3.7,2,12,Professional,Organic,Portugal,1
+SP-02194,14,132.49,10,4,0,4.0,0,11,Professional,Paid,Germany,0
+SP-02195,40,99.95,4,3,0,4.0,0,22,Basic,Organic,United Kingdom,0
+SP-02196,49,58.75,8,1,1,3.2,1,3,Basic,Paid,Germany,0
+SP-02197,18,99.24,6,5,0,2.8,2,14,Enterprise,Organic,United Kingdom,0
+SP-02198,52,152.45,17,4,1,4.5,0,14,Basic,Organic,Germany,0
+SP-02199,35,66.83,6,2,1,4.1,0,27,Basic,Organic,Germany,0
+SP-02200,11,66.48,11,3,0,3.3,0,41,Basic,Paid,United Kingdom,1
+SP-02201,22,78.18,8,3,1,2.6,2,4,Basic,Paid,Germany,0
+SP-02202,1,86.95,12,3,1,4.0,0,8,Basic,Paid,Germany,0
+SP-02203,3,123.2,6,2,1,3.1,1,2,Basic,Referral,United Kingdom,0
+SP-02204,21,102.23,6,0,0,4.1,1,5,Basic,Referral,Germany,0
+SP-02205,28,78.15,10,3,1,3.9,1,28,Professional,Partner,Portugal,0
+SP-02206,48,95.33,5,3,2,5.0,1,19,Enterprise,Organic,Germany,0
+SP-02207,9,163.18,7,6,4,3.7,1,9,Professional,Organic,Germany,0
+SP-02208,51,109.49,11,4,0,5.0,1,11,Enterprise,Referral,United Kingdom,0
+SP-02209,15,81.53,8,5,1,3.9,0,4,Basic,Paid,Germany,0
+SP-02210,9,77.23,7,1,2,3.3,0,4,Basic,Partner,United Kingdom,0
+SP-02211,42,93.04,8,5,1,3.0,2,11,Basic,Paid,United Kingdom,0
+SP-02212,47,122.57,3,3,0,3.1,0,7,Professional,Organic,United Kingdom,0
+SP-02213,37,63.11,8,6,1,4.1,0,18,Enterprise,Paid,Germany,0
+SP-02214,7,115.61,5,3,1,3.9,3,21,Basic,Organic,Portugal,1
+SP-02215,7,80.87,5,1,1,2.3,1,8,Professional,Organic,Germany,1
+SP-02216,24,85.72,13,3,2,4.6,0,14,Professional,Organic,Germany,0
+SP-02217,28,218.41,11,5,2,5.0,1,11,Basic,Partner,Portugal,0
+SP-02218,60,110.79,6,2,1,2.3,0,10,Basic,Paid,Germany,0
+SP-02219,18,68.81,10,3,3,4.6,2,27,Basic,Organic,Portugal,1
+SP-02220,12,99.83,3,7,1,5.0,1,3,Basic,Organic,United Kingdom,0
+SP-02221,57,125.13,16,3,0,2.4,0,27,Professional,Partner,Germany,0
+SP-02222,10,111.29,21,5,3,3.4,0,20,Basic,Paid,United Kingdom,0
+SP-02223,2,35.16,8,7,1,3.1,1,14,Enterprise,Organic,Portugal,0
+SP-02224,26,84.29,9,3,0,4.6,1,18,Professional,Partner,Portugal,0
+SP-02225,25,101.62,9,2,1,3.5,0,10,Basic,Referral,Germany,0
+SP-02226,38,98.29,8,4,2,3.4,0,7,Basic,Referral,Portugal,0
+SP-02227,53,71.02,6,4,1,4.1,2,5,Professional,Referral,Germany,0
+SP-02228,56,112.07,12,4,0,5.0,1,20,Professional,Paid,Germany,0
+SP-02229,18,132.73,11,4,1,3.8,0,13,Professional,Organic,Germany,0
+SP-02230,59,43.57,4,2,1,3.4,0,33,Basic,Organic,United Kingdom,0
+SP-02231,38,42.07,6,4,1,3.6,0,19,Enterprise,Paid,Germany,0
+SP-02232,5,99.47,14,1,0,4.3,3,14,Basic,Referral,Portugal,0
+SP-02233,57,115.89,11,2,3,2.7,1,7,Professional,Paid,Germany,0
+SP-02234,9,66.94,9,6,1,3.8,0,8,Basic,Partner,Germany,0
+SP-02235,36,35.88,5,2,1,3.0,0,7,Professional,Paid,United Kingdom,0
+SP-02236,48,84.86,11,4,0,2.8,0,15,Basic,Referral,United Kingdom,0
+SP-02237,15,98.89,13,2,1,2.2,0,10,Basic,Paid,Germany,0
+SP-02238,17,75.66,6,5,2,3.4,0,7,Basic,Organic,Portugal,1
+SP-02239,29,126.43,4,3,0,4.7,1,35,Enterprise,Referral,Germany,0
+SP-02240,54,96.46,9,7,1,2.2,1,23,Basic,Paid,United Kingdom,0
+SP-02241,14,64.13,7,2,1,4.2,0,11,Basic,Referral,Portugal,0
+SP-02242,40,66.74,11,0,0,3.3,0,12,Basic,Paid,Portugal,0
+SP-02243,28,85.6,6,1,1,2.9,1,19,Basic,Organic,United Kingdom,0
+SP-02244,7,73.62,8,3,2,4.1,2,10,Enterprise,Paid,Germany,0
+SP-02245,43,41.09,8,2,1,4.8,3,4,Basic,Paid,Germany,0
+SP-02246,50,93.12,11,3,1,5.0,1,7,Enterprise,Paid,United Kingdom,0
+SP-02247,35,67.43,9,4,3,4.0,0,12,Basic,Organic,Portugal,0
+SP-02248,11,72.01,13,4,2,3.7,0,12,Basic,Paid,Germany,0
+SP-02249,10,55.02,6,1,1,4.1,0,3,Professional,Partner,Portugal,0
+SP-02250,26,154.16,11,1,2,5.0,3,19,Basic,Organic,Portugal,0
+SP-02251,31,108.1,12,7,2,3.6,0,3,Professional,Paid,Portugal,0
+SP-02252,34,170.41,7,4,0,4.7,0,5,Basic,Referral,Germany,0
+SP-02253,15,75.51,12,8,0,3.3,1,20,Basic,Organic,Germany,1
+SP-02254,31,110.62,7,6,0,3.1,1,10,Basic,Referral,Germany,0
+SP-02255,18,93.78,13,5,4,5.0,0,25,Basic,Referral,United Kingdom,0
+SP-02256,42,65.11,2,3,1,3.8,0,22,Professional,Referral,Portugal,0
+SP-02257,48,75.2,6,4,0,4.0,0,4,Basic,Paid,Portugal,0
+SP-02258,40,108.02,9,2,3,4.2,2,8,Basic,Organic,Germany,1
+SP-02259,1,54.99,12,3,3,3.1,0,7,Basic,Organic,Portugal,0
+SP-02260,60,126.96,6,5,1,3.4,1,8,Basic,Paid,Portugal,0
+SP-02261,2,90.67,7,4,1,3.3,0,7,Basic,Organic,Germany,0
+SP-02262,60,120.03,8,3,2,4.1,1,5,Basic,Paid,Germany,0
+SP-02263,2,99.05,5,4,2,4.1,2,23,Basic,Paid,Portugal,0
+SP-02264,31,43.7,6,10,0,3.3,0,5,Professional,Organic,Portugal,0
+SP-02265,7,84.32,3,1,0,5.0,0,9,Professional,Partner,Portugal,0
+SP-02266,6,128.1,6,3,0,3.8,1,5,Enterprise,Referral,United Kingdom,0
+SP-02267,42,90.13,11,3,0,3.9,2,13,Professional,Partner,United Kingdom,0
+SP-02268,44,85.19,3,6,1,4.9,0,9,Basic,Organic,Portugal,0
+SP-02269,8,90.1,9,3,1,3.1,0,7,Basic,Partner,Germany,0
+SP-02270,59,39.92,7,5,0,3.4,0,23,Professional,Referral,Portugal,0
+SP-02271,20,133.62,13,3,1,4.0,2,10,Basic,Partner,Germany,0
+SP-02272,20,32.76,10,3,3,2.6,0,11,Professional,Referral,Germany,0
+SP-02273,18,145.26,10,2,0,3.6,0,3,Basic,Partner,United Kingdom,0
+SP-02274,28,73.37,6,2,3,5.0,0,12,Professional,Organic,Germany,0
+SP-02275,11,101.87,6,7,2,5.0,2,18,Professional,Paid,Germany,0
+SP-02276,26,38.67,12,3,2,4.5,1,6,Basic,Organic,Germany,0
+SP-02277,13,115.37,9,6,0,4.7,2,9,Basic,Referral,Germany,0
+SP-02278,4,107.36,11,5,1,4.2,2,26,Basic,Referral,Germany,0
+SP-02279,23,104.71,8,2,2,3.5,1,7,Basic,Paid,Germany,1
+SP-02280,41,38.03,10,4,0,5.0,0,17,Basic,Referral,United Kingdom,0
+SP-02281,46,61.66,8,3,0,3.0,2,9,Basic,Referral,Germany,1
+SP-02282,22,99.26,11,2,1,4.6,0,24,Basic,Partner,Germany,0
+SP-02283,20,132.1,5,7,1,3.4,0,14,Professional,Partner,Germany,0
+SP-02284,48,58.06,11,5,1,3.4,0,6,Professional,Partner,United Kingdom,0
+SP-02285,41,58.7,6,6,1,4.2,1,4,Enterprise,Organic,Germany,0
+SP-02286,50,96.62,9,2,1,5.0,0,30,Enterprise,Partner,Germany,0
+SP-02287,55,209.58,19,1,1,4.9,1,15,Professional,Referral,United Kingdom,0
+SP-02288,50,65.57,10,4,1,4.1,2,13,Professional,Partner,Portugal,0
+SP-02289,57,73.01,9,3,1,3.9,0,8,Professional,Referral,Germany,0
+SP-02290,25,68.74,12,3,0,4.4,1,3,Professional,Paid,Germany,0
+SP-02291,24,80.95,12,5,1,4.9,1,14,Professional,Organic,Germany,0
+SP-02292,20,136.49,5,6,0,2.4,0,14,Professional,Organic,Portugal,0
+SP-02293,15,82.69,12,4,0,3.7,1,16,Basic,Referral,United Kingdom,0
+SP-02294,45,218.66,11,1,4,3.0,2,25,Professional,Organic,United Kingdom,1
+SP-02295,43,88.82,11,1,2,3.6,0,13,Professional,Paid,Germany,0
+SP-02296,49,142.05,10,4,1,2.8,2,3,Basic,Organic,Germany,0
+SP-02297,11,75.21,4,4,5,2.4,0,17,Professional,Organic,Portugal,0
+SP-02298,30,50.54,15,3,1,2.7,1,31,Basic,Organic,Germany,1
+SP-02299,14,82.64,4,5,0,3.4,3,10,Professional,Organic,Germany,1
+SP-02300,54,105.35,8,5,1,4.3,1,10,Professional,Organic,Portugal,0
+SP-02301,17,61.88,4,0,2,3.1,0,9,Professional,Paid,Germany,0
+SP-02302,9,132.58,4,4,3,3.1,1,12,Professional,Referral,Germany,1
+SP-02303,35,70.08,11,4,1,4.1,2,14,Basic,Organic,Germany,0
+SP-02304,53,55.03,11,5,2,4.0,0,16,Professional,Organic,Portugal,0
+SP-02305,55,200.01,9,1,0,5.0,0,7,Enterprise,Paid,Portugal,0
+SP-02306,6,60.6,8,6,0,4.5,0,7,Basic,Organic,United Kingdom,0
+SP-02307,20,69.25,4,5,1,3.0,2,1,Professional,Paid,Portugal,0
+SP-02308,10,112.48,7,3,2,3.3,2,3,Basic,Paid,Germany,0
+SP-02309,19,74.17,7,2,2,4.4,0,9,Basic,Organic,United Kingdom,1
+SP-02310,33,55.81,8,0,2,3.1,0,14,Basic,Partner,United Kingdom,0
+SP-02311,17,66.53,11,1,0,3.5,2,8,Professional,Referral,Germany,0
+SP-02312,5,175.35,4,5,1,2.4,1,18,Basic,Paid,United Kingdom,0
+SP-02313,31,106.89,6,3,0,2.8,0,7,Professional,Organic,United Kingdom,0
+SP-02314,4,115.61,8,4,2,4.8,0,7,Basic,Paid,United Kingdom,0
+SP-02315,14,94.7,7,2,1,3.9,1,22,Basic,Paid,Portugal,1
+SP-02316,1,101.3,8,4,3,3.3,1,14,Enterprise,Organic,Germany,0
+SP-02317,6,71.92,4,5,3,3.4,0,20,Basic,Partner,Germany,1
+SP-02318,27,89.91,9,1,0,5.0,1,15,Basic,Paid,Portugal,0
+SP-02319,52,36.84,15,2,1,3.3,1,12,Basic,Paid,United Kingdom,0
+SP-02320,47,124.66,15,1,1,4.2,0,14,Basic,Partner,Germany,0
+SP-02321,6,71.65,8,2,2,4.5,1,4,Professional,Organic,United Kingdom,0
+SP-02322,3,52.25,11,8,1,5.0,0,2,Basic,Paid,Portugal,0
+SP-02323,21,92.01,12,4,1,3.1,0,4,Professional,Organic,Germany,0
+SP-02324,40,78.59,8,2,4,2.7,1,3,Basic,Partner,Germany,0
+SP-02325,45,122.81,8,3,1,2.9,0,14,Professional,Referral,United Kingdom,0
+SP-02326,50,83.38,6,2,2,4.4,1,22,Basic,Paid,Germany,0
+SP-02327,21,65.96,8,5,2,5.0,0,4,Basic,Organic,Portugal,0
+SP-02328,11,84.2,7,6,1,4.4,0,13,Professional,Organic,Germany,0
+SP-02329,2,148.97,11,4,1,3.3,0,28,Basic,Paid,United Kingdom,1
+SP-02330,9,124.51,8,1,1,4.8,1,19,Basic,Referral,United Kingdom,0
+SP-02331,4,106.77,12,1,0,3.4,0,15,Professional,Organic,Germany,0
+SP-02332,52,126.78,5,0,1,3.1,0,11,Enterprise,Paid,Germany,0
+SP-02333,17,110.17,5,4,2,3.5,0,14,Basic,Organic,Germany,0
+SP-02334,50,58.86,8,1,1,3.3,0,12,Professional,Referral,United Kingdom,0
+SP-02335,34,116.0,9,3,1,3.2,0,10,Professional,Paid,Germany,0
+SP-02336,33,133.09,8,5,2,4.8,0,5,Enterprise,Referral,Portugal,0
+SP-02337,28,136.26,13,7,0,3.4,1,7,Professional,Referral,United Kingdom,1
+SP-02338,50,53.97,10,4,1,2.5,0,13,Basic,Organic,Germany,0
+SP-02339,3,69.34,4,2,3,4.3,1,21,Enterprise,Organic,Germany,0
+SP-02340,6,65.24,7,1,0,3.0,0,4,Basic,Organic,Germany,0
+SP-02341,26,74.91,8,0,1,3.1,0,37,Basic,Paid,Portugal,0
+SP-02342,24,102.21,3,4,3,4.4,0,2,Basic,Organic,Portugal,0
+SP-02343,33,91.06,8,3,0,3.2,0,6,Professional,Partner,United Kingdom,0
+SP-02344,45,91.07,6,6,1,3.4,0,14,Basic,Referral,United Kingdom,0
+SP-02345,36,48.43,9,4,0,3.8,0,17,Basic,Partner,Germany,0
+SP-02346,16,68.3,10,7,0,3.6,0,7,Professional,Organic,United Kingdom,0
+SP-02347,20,140.51,13,3,1,3.5,0,12,Professional,Paid,Portugal,0
+SP-02348,46,132.85,4,6,3,1.9,2,10,Basic,Partner,Germany,0
+SP-02349,13,82.81,4,2,0,3.7,0,9,Professional,Referral,Portugal,0
+SP-02350,31,116.13,4,3,1,5.0,1,5,Enterprise,Partner,Germany,0
+SP-02351,33,98.46,9,2,1,4.3,0,14,Basic,Organic,Germany,0
+SP-02352,46,121.43,8,7,2,3.5,2,14,Basic,Organic,Portugal,0
+SP-02353,43,118.25,17,2,1,4.2,0,11,Enterprise,Partner,United Kingdom,0
+SP-02354,28,85.51,13,2,0,4.3,0,18,Professional,Organic,Germany,0
+SP-02355,19,107.05,10,2,1,3.1,1,14,Basic,Organic,Germany,0
+SP-02356,23,101.11,10,6,0,4.8,1,6,Basic,Referral,Germany,0
+SP-02357,25,86.44,11,2,1,3.9,0,28,Enterprise,Partner,Germany,0
+SP-02358,14,79.02,14,1,0,3.6,1,16,Professional,Paid,Portugal,0
+SP-02359,38,164.84,8,4,1,5.0,1,9,Enterprise,Organic,United Kingdom,0
+SP-02360,13,86.48,11,7,1,2.1,1,8,Professional,Referral,Germany,0
+SP-02361,39,113.17,8,3,1,2.9,1,8,Basic,Referral,Portugal,0
+SP-02362,46,159.39,7,5,0,4.3,2,5,Enterprise,Paid,Germany,0
+SP-02363,58,106.97,11,5,1,4.3,2,7,Basic,Organic,Germany,0
+SP-02364,8,105.01,2,2,1,5.0,2,12,Professional,Organic,Germany,1
+SP-02365,46,86.68,7,3,1,2.0,0,16,Basic,Paid,Germany,0
+SP-02366,6,101.85,7,4,3,4.5,0,26,Enterprise,Organic,Germany,0
+SP-02367,21,76.36,9,7,2,2.8,2,9,Professional,Referral,United Kingdom,1
+SP-02368,11,231.37,13,6,2,4.1,2,13,Basic,Paid,Germany,0
+SP-02369,10,48.86,5,2,2,3.7,1,13,Professional,Paid,Germany,1
+SP-02370,11,81.01,10,1,1,4.5,0,7,Enterprise,Referral,United Kingdom,0
+SP-02371,3,107.69,13,3,2,3.6,0,15,Enterprise,Paid,United Kingdom,0
+SP-02372,50,105.05,12,7,0,4.6,0,4,Basic,Referral,Portugal,0
+SP-02373,4,76.31,6,3,0,3.1,0,10,Basic,Paid,Portugal,1
+SP-02374,24,42.24,7,7,0,3.7,2,9,Basic,Referral,Germany,0
+SP-02375,42,51.97,11,2,1,4.0,1,7,Basic,Referral,Germany,0
+SP-02376,60,93.65,6,2,4,5.0,0,14,Enterprise,Referral,United Kingdom,0
+SP-02377,52,37.68,9,6,2,4.5,0,26,Professional,Referral,Germany,0
+SP-02378,9,110.81,9,7,3,4.0,0,20,Professional,Organic,Portugal,0
+SP-02379,60,137.57,9,7,3,4.3,1,13,Professional,Referral,Portugal,0
+SP-02380,40,118.92,7,3,1,4.7,0,19,Basic,Partner,United Kingdom,0
+SP-02381,11,128.72,7,6,1,4.1,0,31,Basic,Referral,Portugal,0
+SP-02382,27,38.21,6,3,2,3.0,1,6,Enterprise,Paid,Germany,0
+SP-02383,56,77.53,6,3,0,4.3,2,10,Basic,Paid,United Kingdom,0
+SP-02384,24,57.06,7,6,2,3.8,0,15,Professional,Referral,United Kingdom,0
+SP-02385,12,44.89,6,1,1,3.5,2,16,Basic,Referral,United Kingdom,0
+SP-02386,53,71.1,4,5,1,3.2,0,9,Basic,Organic,Germany,0
+SP-02387,58,157.69,7,8,0,4.3,0,13,Basic,Organic,Germany,0
+SP-02388,59,176.31,14,6,1,4.2,2,9,Basic,Partner,Germany,0
+SP-02389,58,60.0,9,2,0,3.0,0,11,Professional,Organic,Germany,0
+SP-02390,53,88.97,13,6,1,2.9,0,3,Enterprise,Referral,United Kingdom,0
+SP-02391,28,101.26,4,2,0,5.0,1,26,Basic,Referral,Germany,0
+SP-02392,12,77.76,4,2,0,4.5,0,2,Enterprise,Organic,Portugal,0
+SP-02393,38,141.74,7,3,1,3.9,1,8,Basic,Organic,United Kingdom,0
+SP-02394,14,71.53,9,4,1,4.3,1,16,Professional,Partner,Germany,1
+SP-02395,29,66.78,6,4,2,3.4,1,22,Professional,Referral,Germany,0
+SP-02396,40,61.28,7,3,2,3.7,0,9,Basic,Organic,Germany,0
+SP-02397,57,77.54,11,4,0,3.8,2,18,Basic,Organic,United Kingdom,0
+SP-02398,18,28.57,8,5,1,4.6,1,11,Basic,Organic,Germany,0
+SP-02399,16,79.04,12,3,1,2.7,1,14,Basic,Paid,Portugal,0
+SP-02400,45,91.2,10,6,0,3.0,0,8,Enterprise,Partner,United Kingdom,0
+SP-02401,1,93.56,6,4,3,2.8,0,16,Basic,Organic,Germany,0
+SP-02402,34,55.7,4,3,3,4.5,2,4,Basic,Referral,United Kingdom,0
+SP-02403,45,92.83,7,6,2,3.7,1,36,Professional,Paid,Portugal,0
+SP-02404,34,92.04,11,1,1,3.1,0,7,Basic,Organic,Portugal,0
+SP-02405,24,92.88,6,1,0,3.6,0,5,Basic,Referral,Portugal,0
+SP-02406,50,119.88,9,2,1,3.3,0,11,Basic,Referral,Portugal,0
+SP-02407,23,54.78,7,2,3,2.7,1,9,Enterprise,Paid,Germany,0
+SP-02408,43,78.14,7,4,1,4.8,1,26,Enterprise,Partner,United Kingdom,0
+SP-02409,28,41.18,5,4,3,3.7,0,32,Enterprise,Referral,United Kingdom,0
+SP-02410,2,115.27,9,4,2,4.8,0,7,Basic,Organic,Portugal,0
+SP-02411,32,58.19,10,2,1,2.6,1,15,Basic,Paid,Portugal,0
+SP-02412,3,127.59,7,3,0,4.2,0,14,Professional,Organic,United Kingdom,0
+SP-02413,56,129.48,9,2,1,2.6,0,15,Professional,Organic,Germany,0
+SP-02414,37,81.26,9,2,1,5.0,1,6,Basic,Referral,United Kingdom,0
+SP-02415,23,79.54,10,1,0,2.4,1,5,Professional,Organic,Portugal,0
+SP-02416,30,47.2,10,6,1,5.0,0,12,Basic,Referral,United Kingdom,0
+SP-02417,38,87.8,6,2,1,3.8,1,14,Basic,Organic,Germany,0
+SP-02418,16,119.45,8,5,0,3.7,0,4,Basic,Partner,Germany,0
+SP-02419,18,97.61,4,1,1,4.3,1,8,Enterprise,Organic,United Kingdom,0
+SP-02420,26,149.02,13,3,1,3.0,0,10,Enterprise,Paid,Portugal,0
+SP-02421,16,74.46,8,5,1,4.4,0,22,Basic,Paid,Germany,0
+SP-02422,46,74.42,6,4,1,4.5,1,19,Basic,Partner,United Kingdom,0
+SP-02423,7,59.76,5,3,1,3.8,3,25,Basic,Referral,Germany,1
+SP-02424,50,190.7,6,1,1,4.0,2,11,Basic,Paid,Germany,1
+SP-02425,21,47.04,8,7,3,5.0,1,8,Basic,Referral,Germany,0
+SP-02426,34,115.86,9,4,1,4.3,0,24,Basic,Organic,United Kingdom,0
+SP-02427,10,120.48,8,4,1,3.2,1,11,Enterprise,Referral,Portugal,0
+SP-02428,24,118.33,7,3,0,4.4,0,16,Professional,Paid,Portugal,0
+SP-02429,46,61.76,8,10,0,3.4,0,2,Enterprise,Organic,United Kingdom,1
+SP-02430,17,50.25,0,5,0,3.2,1,10,Professional,Organic,United Kingdom,0
+SP-02431,8,81.24,6,1,2,4.2,3,11,Professional,Organic,Portugal,1
+SP-02432,32,108.98,13,4,1,3.0,0,11,Professional,Referral,Portugal,0
+SP-02433,10,67.27,9,2,2,3.8,2,12,Professional,Organic,United Kingdom,1
+SP-02434,19,76.65,11,2,3,4.3,1,24,Basic,Paid,United Kingdom,1
+SP-02435,28,67.75,12,3,3,5.0,1,8,Basic,Paid,United Kingdom,0
+SP-02436,34,90.25,8,7,0,4.3,0,18,Professional,Partner,United Kingdom,0
+SP-02437,39,87.84,8,3,0,2.6,1,3,Professional,Partner,Germany,0
+SP-02438,41,160.45,10,3,2,2.7,0,4,Basic,Organic,Portugal,0
+SP-02439,51,109.97,6,2,0,5.0,2,6,Professional,Organic,United Kingdom,0
+SP-02440,4,51.25,5,7,2,3.3,0,7,Enterprise,Organic,United Kingdom,1
+SP-02441,22,52.85,7,5,0,2.6,0,18,Basic,Partner,Germany,0
+SP-02442,1,116.72,7,5,4,3.0,0,12,Basic,Organic,United Kingdom,1
+SP-02443,1,87.45,9,4,3,4.4,0,3,Enterprise,Referral,Germany,0
+SP-02444,13,185.65,10,6,0,3.9,0,13,Basic,Organic,Germany,0
+SP-02445,36,185.41,6,2,1,4.3,0,13,Basic,Referral,Portugal,0
+SP-02446,54,59.62,7,0,2,3.8,0,0,Professional,Organic,Portugal,0
+SP-02447,47,98.22,9,5,2,2.9,0,25,Enterprise,Paid,Portugal,0
+SP-02448,39,53.11,7,3,2,2.4,1,6,Basic,Referral,Germany,1
+SP-02449,47,115.9,7,4,2,3.1,0,18,Basic,Partner,United Kingdom,0
+SP-02450,11,170.45,8,3,0,3.9,0,16,Basic,Partner,Germany,0
+SP-02451,51,92.64,12,1,0,2.9,1,5,Professional,Paid,Germany,0
+SP-02452,54,73.4,10,3,0,4.6,1,22,Professional,Organic,Germany,0
+SP-02453,6,102.37,6,4,1,3.0,0,14,Enterprise,Organic,United Kingdom,0
+SP-02454,29,125.9,12,2,2,2.5,1,22,Professional,Organic,Germany,0
+SP-02455,50,126.26,12,3,1,3.8,1,30,Basic,Paid,Germany,0
+SP-02456,29,73.73,5,2,0,4.4,1,5,Professional,Organic,Germany,0
+SP-02457,51,66.6,11,3,0,5.0,1,13,Professional,Organic,Germany,0
+SP-02458,57,96.06,6,4,2,2.5,0,3,Professional,Organic,Portugal,0
+SP-02459,29,75.72,8,6,1,4.9,1,22,Professional,Organic,Germany,0
+SP-02460,4,141.76,8,6,1,3.9,0,3,Basic,Referral,United Kingdom,0
+SP-02461,21,75.36,10,1,0,3.3,0,4,Professional,Referral,Germany,1
+SP-02462,13,89.89,2,0,2,4.3,4,7,Professional,Organic,Germany,1
+SP-02463,29,101.32,13,4,1,4.9,0,11,Basic,Partner,Germany,0
+SP-02464,36,47.69,8,2,1,2.5,1,19,Professional,Paid,Portugal,1
+SP-02465,28,68.86,6,1,1,3.5,0,3,Basic,Organic,Portugal,0
+SP-02466,12,182.0,6,3,1,3.4,1,13,Basic,Paid,Portugal,0
+SP-02467,19,123.66,6,3,1,4.3,1,7,Basic,Referral,Germany,1
+SP-02468,41,74.95,9,2,0,5.0,1,11,Enterprise,Referral,United Kingdom,0
+SP-02469,2,116.1,8,2,1,3.9,0,25,Basic,Paid,Portugal,0
+SP-02470,13,140.76,7,7,0,3.6,1,12,Professional,Referral,Germany,0
+SP-02471,54,79.7,6,1,2,4.2,0,16,Basic,Paid,Germany,0
+SP-02472,6,121.18,7,1,1,3.6,1,2,Basic,Organic,Germany,0
+SP-02473,25,114.04,5,7,2,2.1,0,6,Basic,Organic,Portugal,0
+SP-02474,13,53.45,9,3,1,4.2,0,11,Basic,Referral,Germany,1
+SP-02475,7,79.88,8,3,6,4.6,3,4,Professional,Paid,Germany,1
+SP-02476,26,162.3,10,6,1,4.7,0,2,Professional,Paid,United Kingdom,0
+SP-02477,32,179.7,5,5,4,2.9,0,6,Professional,Partner,Germany,0
+SP-02478,11,124.09,5,3,0,4.3,0,11,Professional,Organic,Germany,0
+SP-02479,5,67.93,11,5,0,5.0,1,18,Basic,Partner,Germany,0
+SP-02480,9,34.18,4,4,2,5.0,1,18,Basic,Organic,United Kingdom,0
+SP-02481,40,64.27,5,2,0,4.2,0,10,Basic,Organic,Germany,0
+SP-02482,52,50.63,15,4,1,4.6,0,12,Professional,Referral,United Kingdom,0
+SP-02483,11,167.54,6,7,1,3.0,0,3,Professional,Organic,United Kingdom,0
+SP-02484,20,40.81,6,3,1,2.9,0,34,Professional,Organic,United Kingdom,1
+SP-02485,21,54.03,7,1,2,4.6,1,27,Basic,Paid,United Kingdom,1
+SP-02486,22,95.24,6,4,2,2.2,2,14,Professional,Referral,United Kingdom,1
+SP-02487,15,87.2,11,4,0,3.9,0,9,Professional,Partner,United Kingdom,0
+SP-02488,4,158.8,7,2,0,4.9,1,22,Basic,Partner,Germany,0
+SP-02489,32,111.1,9,2,0,4.4,1,34,Basic,Partner,Portugal,0
+SP-02490,22,82.26,7,5,2,4.4,0,15,Professional,Referral,United Kingdom,1
+SP-02491,21,142.88,3,0,2,3.8,1,18,Professional,Organic,Germany,1
+SP-02492,16,74.09,9,2,3,3.5,0,7,Professional,Partner,United Kingdom,0
+SP-02493,56,164.43,3,2,1,5.0,3,4,Professional,Referral,Germany,0
+SP-02494,37,60.81,3,2,0,4.8,1,10,Professional,Referral,United Kingdom,0
+SP-02495,26,27.09,6,4,0,4.5,0,17,Enterprise,Paid,Germany,0
+SP-02496,13,85.9,5,3,1,3.8,0,3,Basic,Paid,United Kingdom,0
+SP-02497,49,36.02,10,6,2,3.3,2,33,Basic,Organic,Portugal,0
+SP-02498,54,126.8,4,1,1,4.7,1,16,Basic,Organic,United Kingdom,0
+SP-02499,2,93.03,8,4,0,3.6,0,18,Professional,Organic,Germany,0
+SP-02500,56,164.62,4,9,1,3.9,1,2,Basic,Organic,Portugal,0
